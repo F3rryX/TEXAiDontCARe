@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.percentlayout.widget.PercentRelativeLayout android:gravity="end|top" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/image_view" android:background="@drawable/circular_base_view" android:padding="4.0dp" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerInside" android:contentDescription="@string/app_name" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/notification_count_layout" android:background="@drawable/circular_base_notification_view" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" app:layout_heightPercent="29.999996%" app:layout_marginRightPercent="4.999995%" app:layout_marginTopPercent="9.000004%" app:layout_widthPercent="29.999996%">
+        <TextView android:textAppearance="@style/TextBoldStyle" android:textSize="@dimen/circle_notification_text_size" android:textColor="@color/primary_text_light" android:gravity="center" android:id="@id/notification_count_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" />
+    </LinearLayout>
+</androidx.percentlayout.widget.PercentRelativeLayout>

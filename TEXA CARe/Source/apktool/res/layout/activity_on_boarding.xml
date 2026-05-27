@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/activity_on_boarding_0" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/ob_background" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    <RelativeLayout android:id="@id/activity_on_boarding_header" android:layout_width="match_parent" android:layout_height="?actionBarSize">
+        <ImageView android:layout_width="@dimen/care_logo_width" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:src="@drawable/care_logo" android:adjustViewBounds="true" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" android:layout_alignParentEnd="true" />
+        <ImageView android:id="@id/activity_on_boarding_back_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@null" android:layout_centerVertical="true" android:contentDescription="@string/app_name" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/activity_on_boarding_container" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@id/activity_on_boarding_header" />
+</RelativeLayout>

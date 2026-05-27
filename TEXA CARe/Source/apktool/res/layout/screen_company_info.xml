@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/screen_company_info_0" android:background="@color/background_dark" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:background="@color/background_light" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:paddingLeft="@dimen/margin_default" android:paddingRight="@dimen/margin_default" android:paddingBottom="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default">
+                <ImageView android:layout_gravity="center_vertical" android:layout_width="@dimen/base_texa_image" android:layout_height="@dimen/base_texa_image" android:src="@drawable/texa_img" android:contentDescription="@string/app_name" />
+                <TextView android:textAppearance="@style/TextBoldStyle" android:textSize="@dimen/text_size_large" android:textColor="@color/blue_special" android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/company_value" android:fontFamily="@font/font_bold" />
+            </LinearLayout>
+            <TextView android:textSize="@dimen/text_size_small_alert" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/registered_office" android:fontFamily="@font/font_bold" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:id="@id/textview_registered_office" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/administrative_headquarters_plant" android:fontFamily="@font/font_bold" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:id="@id/textview_administrative_headquarters_plant" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:id="@id/textview_company_info1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/company_info1" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:id="@id/textview_company_info2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/company_info2" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:id="@id/textview_company_info3" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_small" android:text="@string/company_info3" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:id="@id/textview_company_info4" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/company_info4" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:id="@id/textview_company_info5" android:layout_width="match_parent" android:layout_height="wrap_content" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:id="@id/textview_company_phone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_small" android:text="@string/company_phone_info" />
+            <TextView android:textSize="@dimen/text_size_small_alert" android:id="@id/textview_company_fax" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/company_fax_info" />
+            <TextView android:textSize="@dimen/text_size_small" android:textColor="@color/primary_text_light" android:gravity="center" android:id="@id/textview_company_site" android:background="@drawable/button_green" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:minHeight="@dimen/edit_text_min_height" android:text="@string/visit_company_site" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/diagnosis_data_parameters_line_chart_layout" android:tag="layout/diagnosis_data_parameters_line_chart_0" android:background="@drawable/parameters_chart_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/chart_standard_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/diagnosis_data_parameters_line_chart_header" android:padding="@dimen/chart_standard_padding" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/diagnosis_data_parameters_line_chart_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/chart_standard_margin" android:layout_toLeftOf="@id/diagnosis_data_parameters_line_chart_value" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/chart_standard_margin" android:layout_toStartOf="@id/diagnosis_data_parameters_line_chart_value" style="@style/Diagnosis.Parameters.Chart.Line.Title" />
+        <TextView android:id="@id/diagnosis_data_parameters_line_chart_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" style="@style/Diagnosis.Parameters.Chart.Line.Value" />
+    </RelativeLayout>
+    <com.github.mikephil.charting.charts.LineChart android:id="@id/diagnosis_data_parameters_line_chart" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="1.0dp" android:layout_below="@id/diagnosis_data_parameters_line_chart_header" android:layout_alignParentBottom="true" />
+    <androidx.appcompat.widget.AppCompatTextView android:id="@id/diagnosis_data_parameters_no_data_chart" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerInParent="true" style="@style/Diagnosis.Parameters.Chart.No.Data" />
+</RelativeLayout>

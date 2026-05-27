@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/dialog_request_configuration_layout" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/dialog_request_configuration_label" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_forms_small" style="@style/Auth.Title" />
+    <TextView android:id="@id/dialog_request_configuration_plate_label" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_forms_small" android:layout_marginStart="@dimen/margin_forms_small" style="@style/Auth.Description" />
+    <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginTop="@dimen/margin_small" />
+</LinearLayout>

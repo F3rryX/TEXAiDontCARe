@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="@dimen/text_add_schedules_values" android:typeface="sans" android:textColor="@color/primary_text" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/text_view_threshold_type" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:minWidth="@dimen/spinner_min_width" android:minHeight="@dimen/edit_text_min_height" android:fontFamily="@font/font_light" style="?android:spinnerItemStyle" />
+</LinearLayout>

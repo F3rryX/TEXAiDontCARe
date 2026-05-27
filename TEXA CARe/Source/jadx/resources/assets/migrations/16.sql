@@ -1,0 +1,1 @@
+ALTER TABLE Thresholds ADD COLUMN dateInterval INTEGER;

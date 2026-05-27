@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/relative_layout_activity_mechanic" android:tag="layout/activity_mechanic_0" android:background="@color/background_dark" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:tag="binding_1" android:background="@color/background_light" android:layout_width="match_parent" android:layout_height="match_parent">
+        <include android:id="@id/toolbar_actionbar" layout="@layout/toolbar" />
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@id/information_container" android:layout_below="@id/toolbar_actionbar">
+            <fragment android:name="com.google.android.gms.maps.SupportMapFragment" android:id="@id/map" android:layout_width="match_parent" android:layout_height="match_parent" />
+            <View android:background="@color/out_of_the_box_light_gray" android:layout_width="match_parent" android:layout_height="2.0dp" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/information_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <androidx.cardview.widget.CardView android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default">
+                    <TextView android:textAppearance="@style/TextBoldStyle" android:textSize="@dimen/text_size_medium" android:id="@id/mechanic_name_textView" android:layout_width="match_parent" android:layout_height="wrap_content" />
+                    <TextView android:textSize="@dimen/text_size_small_settings" android:textColor="@color/secondary_text" android:id="@id/mechanic_address_textView" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/font_light" />
+                    <TextView android:textSize="@dimen/text_size_small_settings" android:textColor="@color/secondary_text" android:id="@id/mechanic_city_address_textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/font_light" />
+                    <TextView android:textSize="16.0dp" android:textColor="@color/primary_text_light" android:id="@id/mechanic_navigation_button" android:background="@drawable/button_green" android:paddingLeft="40.0dp" android:paddingTop="@dimen/margin_small" android:paddingRight="40.0dp" android:paddingBottom="@dimen/margin_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_small" android:text="@string/obtain_travel_info" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@color/out_of_the_box_light_gray" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="16.0dp" android:gravity="center" android:id="@id/mechanic_opening_textView" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="@string/no_opening_times_available" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                    <LinearLayout android:orientation="vertical" android:id="@id/workshop_button" android:background="@color/edit_text_light_gray" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="1.0dp" android:layout_marginRight="0.5dp" android:layout_marginBottom="1.0dp" android:layout_weight="1.0" android:layout_marginStart="1.0dp" android:layout_marginEnd="0.5dp">
+                        <ImageView android:layout_gravity="center_horizontal" android:id="@id/workshop_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:src="@null" android:contentDescription="@string/app_name" />
+                        <TextView android:gravity="center" android:layout_gravity="bottom" android:id="@id/workshop_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_small" android:text="@string/workshop" android:fontFamily="@font/font_light" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@id/availability_button" android:background="@color/edit_text_light_gray" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="0.5dp" android:layout_marginRight="0.5dp" android:layout_marginBottom="1.0dp" android:layout_weight="1.0" android:layout_marginStart="0.5dp" android:layout_marginEnd="0.5dp">
+                        <ImageView android:layout_gravity="center_horizontal" android:id="@id/availability_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:src="@null" android:contentDescription="@string/app_name" />
+                        <TextView android:gravity="center" android:id="@id/availability_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_small" android:text="@string/availability" android:fontFamily="@font/font_light" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@id/phone_mobile_button" android:background="@color/edit_text_light_gray" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="0.5dp" android:layout_marginRight="1.0dp" android:layout_marginBottom="1.0dp" android:layout_weight="1.0" android:layout_marginStart="0.5dp" android:layout_marginEnd="1.0dp">
+                        <ImageView android:layout_gravity="center_horizontal" android:id="@id/phone_mobile_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:src="@null" android:contentDescription="@string/app_name" />
+                        <TextView android:gravity="center" android:id="@id/phone_mobile_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_small" android:text="@string/phone_mobile" android:fontFamily="@font/font_light" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

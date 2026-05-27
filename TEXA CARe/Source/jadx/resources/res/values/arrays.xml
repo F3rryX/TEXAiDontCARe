@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="battery_circle_indicator_labels">
+        <item>Good State</item>
+        <item>Running Low</item>
+        <item>To Be Replaced</item>
+    </array>
+    <array name="months_array">
+        <item>@string/month_1</item>
+        <item>@string/month_2</item>
+        <item>@string/month_3</item>
+        <item>@string/month_4</item>
+        <item>@string/month_5</item>
+        <item>@string/month_6</item>
+        <item>@string/month_7</item>
+        <item>@string/month_8</item>
+        <item>@string/month_9</item>
+        <item>@string/month_10</item>
+        <item>@string/month_11</item>
+        <item>@string/month_12</item>
+    </array>
+    <array name="tyre_types_id_array">
+        <item>@string/tyre_types_not_selected</item>
+        <item>@string/tyre_types_summer</item>
+        <item>@string/tyre_types_winter</item>
+        <item>@string/tyre_types_4_seasons</item>
+    </array>
+</resources>

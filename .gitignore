@@ -1,0 +1,22 @@
+# Gradle build outputs
+TexaiDontCARe/.gradle/
+TexaiDontCARe/app/build/
+TexaiDontCARe/build/
+.gradle/
+*.class
+*.jar
+*.aar
+
+# Android local config
+local.properties
+*.iml
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# APKs/bundles (except the original XAPK we want to track)
+*.apk
+!TEXA CARe/*.xapk
+*.aab

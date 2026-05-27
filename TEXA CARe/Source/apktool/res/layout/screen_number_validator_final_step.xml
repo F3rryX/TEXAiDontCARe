@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:tag="layout/screen_number_validator_final_step_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:layout_above="@id/signup_code_phone_validator">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@color/background_light" android:padding="@dimen/margin_small" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/ootb_sub_title_text_size" android:gravity="center" android:id="@id/textView_phone_validator_final_step" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="@string/title_phone_number_validation_step2" android:fontFamily="@font/font_light" />
+            <EditText android:textSize="@dimen/text_size_medium" android:gravity="center_horizontal" android:id="@id/phone_code_validator_edit_text" android:background="@drawable/edit_text_gray_border" android:paddingTop="@dimen/edit_text_padding_top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:minWidth="@dimen/button_min_width" android:minHeight="@dimen/edit_text_min_height" android:hint="@string/code" android:maxLines="1" android:inputType="number" />
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:gravity="center" android:layout_gravity="bottom" android:id="@id/signup_code_phone_validator" android:background="@drawable/background_gray" android:layout_width="match_parent" android:layout_height="@dimen/out_of_the_box_button_min_height" android:layout_alignParentBottom="true">
+        <TextView android:textSize="@dimen/text_size_small" android:textColor="@color/accent" android:gravity="center" android:id="@id/confirm_phone_validation_final_step" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/next" android:textAllCaps="false" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@null" android:layout_alignParentRight="true" android:contentDescription="@string/app_name" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</RelativeLayout>

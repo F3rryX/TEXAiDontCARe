@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/dialog_open_signalation_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" style="@style/CARe.Dialog.Text" />
+    <TextView android:id="@id/dialog_open_signalation_btn_confirm" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/dialog_open_signalation_btn_affermative" android:layout_below="@id/dialog_open_signalation_description" style="@style/CARe.Dialog.Button" />
+</RelativeLayout>

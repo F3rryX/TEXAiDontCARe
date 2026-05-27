@@ -1,0 +1,1 @@
+ALTER TABLE DataTrip ADD COLUMN userId TEXT;

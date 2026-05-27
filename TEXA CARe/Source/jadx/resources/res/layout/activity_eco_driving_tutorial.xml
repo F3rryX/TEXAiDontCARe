@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:tag="layout/activity_eco_driving_tutorial_0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/toolbar"/>
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_default"
+        android:src="@drawable/texa"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/app_name"/>
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/care_logo"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/app_name"/>
+    <com.texa.careapp.views.CirclePageIndicator
+        android:layout_gravity="center"
+        android:id="@+id/activity_eco_driving_tutorial_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        app:circle_background="#aaaaaa"
+        app:circle_gravity="center"
+        app:circle_margin="3dp"
+        app:circle_mode="outside"
+        app:circle_radius="3dp"
+        app:circle_selected_background="#82bc00"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/activity_eco_driving_tutorial_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:id="@+id/activity_eco_driving_tutorial_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/eco_driving_tutorial_button_next"
+            android:layout_alignParentBottom="true"
+            style="@style/EcoDriving.Tutorial.Button"/>
+    </RelativeLayout>
+</LinearLayout>

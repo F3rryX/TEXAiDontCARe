@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:tag="layout/fragment_dashboard_v2_0" android:layout_width="match_parent" android:layout_height="match_parent" style="@style/Dashboard"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.texa.careapp.views.ArrowViewPagerIndicator android:id="@id/fragment_dashboard_vehicle_pager_arrow" android:background="#2d3844" android:layout_width="match_parent" android:layout_height="?android:actionBarSize">
+        <com.texa.careapp.views.ControlledViewPager android:id="@id/fragment_dashboard_vehicle_pager" android:layout_width="match_parent" android:layout_height="match_parent" />
+    </com.texa.careapp.views.ArrowViewPagerIndicator>
+    <LinearLayout android:orientation="horizontal" android:id="@id/dashboard_secondary_indicators_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_below="@id/fragment_dashboard_vehicle_pager_arrow">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:clipChildren="false" android:layout_width="0.0dp" android:layout_height="match_parent" android:layout_weight="1.0">
+            <com.texa.careapp.views.CircleDisplay android:id="@id/circle_display_1" android:layout_width="@dimen/circle_display_size" android:layout_height="@dimen/circle_display_size" android:layout_margin="@dimen/margin_small" />
+            <TextView android:id="@id/circle_display_1_label" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Dashboard.Indicator.Text" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:clipChildren="false" android:layout_width="0.0dp" android:layout_height="match_parent" android:layout_weight="1.0">
+            <com.texa.careapp.views.CircleDisplay android:id="@id/circle_display_2" android:layout_width="@dimen/circle_display_size" android:layout_height="@dimen/circle_display_size" android:layout_margin="@dimen/margin_small" />
+            <TextView android:id="@id/circle_display_2_label" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Dashboard.Indicator.Text" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:clipChildren="false" android:layout_width="0.0dp" android:layout_height="match_parent" android:layout_weight="1.0">
+            <com.texa.careapp.views.CircleDisplay android:id="@id/circle_display_3" android:layout_width="@dimen/circle_display_size" android:layout_height="@dimen/circle_display_size" android:layout_margin="@dimen/margin_small" />
+            <TextView android:id="@id/circle_display_3_label" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Dashboard.Indicator.Text" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/margin_small" android:layout_above="@id/btn_dashboard_sos" android:layout_below="@id/dashboard_secondary_indicators_layout">
+        <RelativeLayout android:id="@id/fragment_dashboard_vehicle_name_lay" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatTextView android:gravity="center" android:id="@id/fragment_dashboard_vehicle_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="3.0dp" android:maxLines="1" android:layout_centerVertical="true" app:autoSizeMinTextSize="10.0dp" app:autoSizeStepGranularity="1.0dp" style="@style/Dashboard.Car.Name" />
+            <ImageView android:id="@id/fragment_dashboard_vehicle_name_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_small" android:src="@null" android:layout_toRightOf="@id/fragment_dashboard_vehicle_name" android:layout_centerVertical="true" android:contentDescription="@string/app_name" android:layout_marginStart="@dimen/margin_small" android:layout_toEndOf="@id/fragment_dashboard_vehicle_name" />
+        </RelativeLayout>
+        <com.texa.careapp.views.ViewPagerContainer android:id="@id/fragment_dashboard_view_pager_container" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.viewpager.widget.ViewPager android:layout_gravity="center" android:id="@id/fragment_dashboard_view_pager" android:layout_width="300.0dp" android:layout_height="match_parent" />
+        </com.texa.careapp.views.ViewPagerContainer>
+        <com.texa.careapp.views.CirclePageIndicator android:id="@id/fragment_dashboard_view_pager_indicator" android:layout_width="match_parent" android:layout_height="8.0dp" android:layout_marginTop="@dimen/margin_small" app:circle_background="#2d3844" app:circle_gravity="center" app:circle_margin="3.0dp" app:circle_mode="outside" app:circle_radius="3.0dp" app:circle_selected_background="@android:color/white" />
+    </LinearLayout>
+    <com.texa.careapp.views.DashboardEmergencyButton android:id="@id/btn_dashboard_sos" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:layout_alignParentBottom="true" />
+</RelativeLayout>

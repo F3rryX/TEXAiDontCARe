@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/screen_insert_new_threshold_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" />
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/other_expire_date" style="@style/Settings.HeaderStyleLabel" />
+    <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/edit_text_min_height" style="@style/Settings.Layout">
+        <Spinner android:id="@id/threshold_type_spinner" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/layout_set_data_new_threshold" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:weightSum="@dimen/editabledateview_weight" android:minHeight="@dimen/edit_text_min_height" style="@style/Settings.Layout">
+        <TextView android:text="@string/add_new_threshold" style="@style/SettingsEditableDateViewLabel" />
+        <com.texa.careapp.views.EditableDateView android:id="@id/editDateView_new_threshold" style="@style/SettingsEditableDateViewValue" />
+        <ImageView android:src="@drawable/ic_calendar" android:contentDescription="@string/app_name" style="@style/SettingsCalendarImage" />
+    </LinearLayout>
+    <RelativeLayout android:orientation="horizontal" android:id="@id/layout_add_confirmed" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Settings.Layout">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_expire_data" style="@style/Settings.TitleLabelStyle" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_other_expire_data" android:fontFamily="@font/font_light" style="@style/Settings.DescriptionLabelStyle" />
+        </LinearLayout>
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:src="@null" android:layout_alignParentRight="true" android:contentDescription="@string/app_name" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+    <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+</LinearLayout>

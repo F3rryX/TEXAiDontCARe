@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/diagnosis_data_parameters_pie_chart_layout"
+    android:tag="layout/diagnosis_data_parameters_pie_chart_0"
+    android:background="@drawable/parameters_chart_background"
+    android:padding="@dimen/chart_standard_padding"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/chart_standard_margin"
+    android:layout_marginRight="@dimen/chart_standard_margin"
+    android:layout_marginBottom="@dimen/chart_standard_margin">
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/diagnosis_data_parameters_pie_chart"
+        android:layout_width="@dimen/pie_chart_diameter"
+        android:layout_height="@dimen/pie_chart_diameter"
+        android:layout_centerVertical="true"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/chart_standard_margin"
+        android:layout_toRightOf="@+id/diagnosis_data_parameters_pie_chart"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="@dimen/chart_standard_margin"
+        android:layout_toEndOf="@+id/diagnosis_data_parameters_pie_chart">
+        <TextView
+            android:id="@+id/diagnosis_data_parameters_pie_chart_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/Diagnosis.Parameters.Chart.Pie.Title"/>
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/diagnosis_data_parameters_pie_chart_value"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:autoSizeMinTextSize="16dp"
+            app:autoSizeStepGranularity="1dp"
+            style="@style/Diagnosis.Parameters.Chart.Pie.Value"/>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/screen_eco_driving_dialog_hide_trip_0" android:background="@drawable/dialog_choose_chart_background" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="match_parent" android:minWidth="300.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eco_driving_dialog_hide_trip_title" style="@style/EcoDriving.Dialog.Title" />
+    <View android:background="@color/dashboard_card_background" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginTop="@dimen/margin_default" />
+    <TextView android:id="@id/eco_driving_dialog_hide_trip_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eco_driving_dialog_hide_trip_text" style="@style/EcoDriving.Dialog.Text" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default">
+        <TextView android:id="@id/eco_driving_dialog_hide_trip_btn_undo" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/margin_small" android:text="@string/eco_driving_dialog_hide_trip_btn_undo" android:layout_weight="1.0" android:layout_marginEnd="@dimen/margin_small" style="@style/EcoDriving.Dialog.Button" />
+        <TextView android:id="@id/eco_driving_dialog_hide_trip_btn_hide" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_small" android:text="@string/eco_driving_dialog_hide_trip_btn_hide" android:layout_weight="1.0" android:layout_marginStart="@dimen/margin_small" style="@style/EcoDriving.Dialog.Button" />
+    </LinearLayout>
+</LinearLayout>

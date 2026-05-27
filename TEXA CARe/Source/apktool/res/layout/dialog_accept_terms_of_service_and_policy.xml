@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/dialog_skip_vehicle_insertion_actionbar_title" style="@style/CARe.Dialog.Title" />
+    <View android:background="#4a4a4a" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginTop="@dimen/activity_vertical_margin" />
+    <TextView android:id="@id/dialog_terms_of_service_and_policy_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/activity_vertical_margin" android:text="@string/dialog_terms_of_service_and_policy_description" style="@style/CARe.Dialog.Text" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="32.0dp">
+        <TextView android:id="@id/dialog_terms_of_service_and_policy_actionbar_cancel" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/screen_vehicle_model_actionbar_cancel" android:layout_weight="1.0" style="@style/CARe.Dialog.Button.Undo" />
+        <TextView android:id="@id/dialog_terms_of_service_and_policy_accept" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/dialog_terms_of_service_and_policy_accept" android:layout_weight="1.0" style="@style/CARe.Dialog.Button.Accept" />
+    </LinearLayout>
+</LinearLayout>

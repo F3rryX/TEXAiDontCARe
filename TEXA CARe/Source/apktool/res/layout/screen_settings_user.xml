@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:tag="layout/screen_settings_user_0" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/background_light" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/personal_data" style="@style/Settings.HeaderStyleLabel" />
+                <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" />
+            </LinearLayout>
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+                <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_first_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_first_name" android:inputType="textPersonName" android:fontFamily="@font/font_regular" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+                <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_last_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_last_name" android:inputType="textPersonName" android:fontFamily="@font/font_regular" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+                <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_fiscal_code" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_tax_code" android:inputType="textEmailAddress" android:fontFamily="@font/font_regular" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+                <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_email" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_email" android:inputType="textEmailAddress" android:fontFamily="@font/font_regular" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+            <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+                <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_phone_number" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_phone_number" android:inputType="phone" android:fontFamily="@font/font_regular" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+            <RelativeLayout android:id="@id/layout_exp_driver_license" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:weightSum="@dimen/editabledateview_weight">
+                    <TextView android:text="@string/exp_drive_license" style="@style/SettingsEditableDateViewLabel" />
+                    <com.texa.careapp.views.EditableDateView android:id="@id/editDateView_user_driver_license" style="@style/SettingsEditableDateViewValue" />
+                    <ImageView android:src="@drawable/ic_calendar" android:contentDescription="@string/app_name" style="@style/SettingsCalendarImage" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" />
+            <View android:background="@color/settings_header_background" android:layout_width="match_parent" android:layout_height="@dimen/div_max_height" />
+            <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" />
+            <RelativeLayout android:id="@id/layout_set_user_address" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout.Item">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:layout_toLeftOf="@id/icon_set_user_address" android:layout_centerVertical="true" android:layout_toStartOf="@id/icon_set_user_address">
+                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/address" style="@style/Settings.TitleLabelStyle" />
+                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/modify_address" style="@style/Settings.DescriptionLabelStyle" />
+                </LinearLayout>
+                <ImageView android:layout_gravity="center" android:id="@id/icon_set_user_address" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:src="@null" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/app_name" android:layout_alignParentEnd="true" />
+            </RelativeLayout>
+            <View android:id="@id/div_top_user_logout" android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" />
+            <LinearLayout android:orientation="vertical" android:id="@id/layout_user_logout" android:padding="@dimen/margin_small" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout.Item">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/log_out_title" style="@style/Settings.TitleLabelStyle" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/log_out_subtitle" style="@style/Settings.DescriptionLabelStyle" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

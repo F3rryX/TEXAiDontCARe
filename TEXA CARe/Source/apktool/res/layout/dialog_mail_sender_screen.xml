@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="match_parent" android:minWidth="300.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/edit_text_min_height" android:text="@string/mail_sender_info" />
+    <EditText android:id="@id/mail_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxHeight="100.0dp" android:minHeight="@dimen/edit_text_min_height" />
+    <Button android:id="@id/send_mail_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/emergency_button_min_height" android:text="@string/send_mail" />
+</LinearLayout>

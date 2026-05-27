@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/screen_calibration_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="#f5f5f5" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="10.0">
+        <ImageView android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_margin="32.0dp" android:src="@drawable/permission_calibration" android:adjustViewBounds="true" android:layout_centerInParent="true" android:contentDescription="@string/app_name" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="9.0">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/margin_default" android:paddingRight="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@id/screen_calibration_btn">
+            <TextView android:id="@id/screen_calibration_title" android:paddingTop="5.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/activity_vertical_margin" android:text="@string/calibration_attitude_title" style="@style/Permission.Title" />
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_forms_small" android:text="@string/calibration_attitude_description" style="@style/Permission.Description" />
+            <TextView android:id="@id/screen_calibration_second_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_forms_small" android:text="@string/calibration_attitude_second_description" style="@style/Permission.Second.Description" />
+        </LinearLayout>
+        <TextView android:id="@id/screen_calibration_btn" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:text="@string/calibration_attitude_btn" android:maxLines="1" android:layout_above="@id/screen_calibration_btn_skip" style="@style/Permission.Btn" />
+        <TextView android:id="@id/screen_calibration_btn_skip" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_small" android:layout_marginBottom="@dimen/margin_small" android:text="@string/calibration_attitude_skip" android:layout_alignParentBottom="true" style="@style/Permission.Skip" />
+    </RelativeLayout>
+</LinearLayout>

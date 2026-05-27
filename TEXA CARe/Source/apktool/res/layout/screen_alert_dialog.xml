@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/screen_alert_dialog_0" android:background="@drawable/dialog_choose_chart_background" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="300.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="25.0dp" android:textColor="@color/dashboard_card_background" android:gravity="center" android:layout_gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/font_regular" />
+    <TextView android:textSize="20.0dp" android:textColor="@color/schedule_secondary_text_light" android:gravity="center" android:layout_gravity="center" android:id="@id/subtitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:fontFamily="@font/font_light" />
+    <TextView android:textSize="18.0dp" android:textColor="@android:color/white" android:layout_gravity="center" android:id="@id/ok_button" android:background="@drawable/button_green" android:paddingLeft="30.0dp" android:paddingTop="10.0dp" android:paddingRight="30.0dp" android:paddingBottom="10.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:text="@string/diagnosis_advanced_dialog_button" android:fontFamily="@font/font_regular" />
+</LinearLayout>

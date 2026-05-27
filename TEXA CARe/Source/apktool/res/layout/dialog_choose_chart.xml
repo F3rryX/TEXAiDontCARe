@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/dialog_choose_chart_0" android:background="@drawable/dialog_choose_chart_background" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="300.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/dashboard_card_parameters_icon" android:layout_width="@dimen/icon_card_dialog_dimen" android:layout_height="@dimen/icon_card_dialog_dimen" android:layout_marginRight="@dimen/margin_default" android:src="@drawable/icon_card_parameters" android:adjustViewBounds="true" android:tint="@color/dashboard_card_background" android:contentDescription="@string/app_name" android:layout_marginEnd="@dimen/margin_default" />
+        <TextView android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/dashboard_dialog_title" style="@style/CARe.Dialog.Title" />
+    </LinearLayout>
+    <View android:background="@color/dashboard_card_background" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginTop="@dimen/margin_default" />
+    <RadioGroup android:id="@id/dialog_choose_chart_radio_group" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" />
+</LinearLayout>

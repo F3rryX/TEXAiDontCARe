@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/permission_location_step_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:background="@drawable/permission_step_box_drawable" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="10.0dp">
+        <TextView android:textSize="16.0sp" android:textColor="@android:color/black" android:id="@id/tvStepDescription" android:tag="binding_1" android:layout_width="0.0dp" android:layout_height="wrap_content" android:layout_marginTop="16.0dp" android:fontFamily="@font/font_bold" android:layout_marginStart="16.0dp" android:layout_marginEnd="16.0dp" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <ImageView android:id="@id/imStepDescription" android:tag="binding_2" android:layout_width="0.0dp" android:layout_height="0.0dp" android:layout_marginTop="8.0dp" android:layout_marginBottom="8.0dp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="@id/tvStepDescription" app:layout_constraintStart_toStartOf="@id/tvStepDescription" app:layout_constraintTop_toBottomOf="@id/tvStepDescription" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView android:textSize="16.0sp" android:gravity="center" android:layout_gravity="start|top" android:tag="binding_3" android:background="@drawable/permission_step_index_drawable" android:layout_width="30.0dp" android:layout_height="30.0dp" />
+</RelativeLayout>

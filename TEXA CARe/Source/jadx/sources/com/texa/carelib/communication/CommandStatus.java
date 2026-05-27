@@ -1,0 +1,144 @@
+package com.texa.carelib.communication;
+
+import android.util.SparseArray;
+
+/* JADX INFO: loaded from: classes2.dex */
+public class CommandStatus {
+    public static final int AUTHENTICATION_ERROR = 5;
+    public static final int COMMAND_NOT_VALID = 125;
+    public static final int COMPLETE_VECT_REQUIRED_COMMAND = 43;
+    public static final int CRANK_REPORT_EMPTY_CMD = 24;
+    public static final int DIAGNOSIS_MODULE_BUSY = 7;
+    public static final int DIAGNOSIS_NOT_AVAILABLE = 22;
+    public static final int DIAGNOSTIC_STATUS_NOT_CORRECT = 17;
+    public static final int DIAG_NOT_ECU_WITH_DTC_CMD = 23;
+    public static final int DPM_UNLOCK_CODE_NOT_VALID = 86;
+    public static final int ECU_INDEX_OUT_OF_RANGE = 21;
+    public static final int ERASING_IN_PROGRESS_CMD = 41;
+    public static final int ERR_DPM_ALREADY_ACTIVE = 84;
+    public static final int ERR_DPM_NOT_ACTIVE = 85;
+    public static final int ERR_DPM_PROCEDURE_IS_NOT_ACTIVE = 82;
+    public static final int ERR_DPM_PROCEDURE_IS_STILL_RUNNING = 80;
+    public static final int ERR_DPM_PROCEDURE_NOT_AUTHORIZED = 81;
+    public static final int ERR_DPM_PROCEDURE_NOT_STOPPABLE = 83;
+    public static final int ERR_PDU_CALL_IN_PROGRESS = 56;
+    public static final int ERR_PDU_CLOSE_COMM_CHANNEL = 58;
+    public static final int ERR_PDU_GENERIC = 49;
+    public static final int ERR_PDU_INVALID_CAN_BUS_SPEED = 59;
+    public static final int ERR_PDU_INVALID_COMMUNICATION_PARAMETERS = 51;
+    public static final int ERR_PDU_INVALID_ECU_IDENTIFIER = 52;
+    public static final int ERR_PDU_INVALID_PDU_CALL_STRUCTURE = 50;
+    public static final int ERR_PDU_INVALID_PDU_REQUEST = 54;
+    public static final int ERR_PDU_INVALID_SID = 53;
+    public static final int ERR_PDU_INVALID_VEHICLE_SPEED = 55;
+    public static final int ERR_PDU_NO_ERROR = 48;
+    public static final int ERR_PDU_OPEN_COMM_CHANNEL = 57;
+    public static final int ERR_PDU_PDU_COMM_CHANNEL_LOST = 68;
+    public static final int ERR_PDU_PDU_MEM_ALLOC = 66;
+    public static final int ERR_PDU_PDU_NO_RESPONSE = 65;
+    public static final int ERR_PDU_PDU_NO_RESPONSES = 64;
+    public static final int ERR_PDU_PDU_RESPONSE_NRC = 63;
+    public static final int ERR_PDU_PDU_WRITE_FAIL = 67;
+    public static final int ERR_PDU_RESPONSES_SIZE = 62;
+    public static final int ERR_PDU_RESPONSE_SIZE = 61;
+    public static final int ERR_PDU_START_TIMEOUT_EXPIRED = 60;
+    public static final int EXTERNAL_FLASH_ERROR = 40;
+    public static final int EXTERNAL_FLASH_NOT_READY = 42;
+    public static final int FILE_CHECK_FAILED = 34;
+    public static final int FILE_INVALID_BLOCK_SIZE = 37;
+    public static final int FILE_INVALID_TYPE = 36;
+    public static final int FILE_NOT_AVAILABLE = 33;
+    public static final int FILE_OFFSET_ERROR = 35;
+    public static final int FILE_UPDATE_MANAGER_WRITE_ERR = 38;
+    public static final int GENERIC_FAIL = 1;
+    public static final int INVALID_FILE_ID = 32;
+    public static final int NOTIFICATION = 255;
+    public static final int NOT_ADMITTED_WORKING_MODE = 18;
+    public static final int NOT_AVAILABLE_IN_CURRENT_DIAGNOSIS_MODE = 2;
+    public static final int NO_DISK_SPACE = 10;
+    private static String NO_NAME = null;
+    public static final int OK = 0;
+    public static final int PAIRING_MUST_BE_REPEATED = 11;
+    public static final int PROTECTION_ERROR = 3;
+    public static final int SYSTEM_RESOURCES_WARNING = 6;
+    public static final int TOO_MUCH_SUBSCRIPTIONS = 19;
+    public static final int UNKNOWN_COMMAND_ID = 126;
+    public static final int VCI_COMMUNICATION_ERROR = 4;
+    public static final int WORKING_PARAMETER_NOT_ADMITTED = 20;
+    public static final int WRONG_DATA_MANAGER_PARAMETER = 39;
+    private static final SparseArray<String> _CommandStatusNames;
+
+    static {
+        SparseArray<String> sparseArray = new SparseArray<>();
+        _CommandStatusNames = sparseArray;
+        NO_NAME = Commands.NO_NAME;
+        sparseArray.put(0, "OK");
+        sparseArray.put(1, "GENERIC_FAIL");
+        sparseArray.put(2, "NOT_AVAILABLE_IN_CURRENT_DIAGNOSIS_MODE");
+        sparseArray.put(3, "PROTECTION_ERROR");
+        sparseArray.put(4, "VCI_COMMUNICATION_ERROR");
+        sparseArray.put(5, "AUTHENTICATION_ERROR");
+        sparseArray.put(6, "SYSTEM_RESOURCES_WARNING");
+        sparseArray.put(7, "DIAGNOSIS_MODULE_BUSY");
+        sparseArray.put(11, "PAIRING_MUST_BE_REPEATED");
+        sparseArray.put(17, "DIAGNOSTIC_STATUS_NOT_CORRECT");
+        sparseArray.put(18, "NOT_ADMITTED_WORKING_MODE");
+        sparseArray.put(20, "WORKING_PARAMETER_NOT_ADMITTED");
+        sparseArray.put(21, "ECU_INDEX_OUT_OF_RANGE");
+        sparseArray.put(22, "DIAGNOSIS_NOT_AVAILABLE");
+        sparseArray.put(10, "NO_DISK_SPACE");
+        sparseArray.put(32, "INVALID_FILE_ID");
+        sparseArray.put(33, "FILE_NOT_AVAILABLE");
+        sparseArray.put(34, "FILE_CHECK_FAILED");
+        sparseArray.put(35, "FILE_OFFSET_ERROR");
+        sparseArray.put(36, "FILE_INVALID_TYPE");
+        sparseArray.put(37, "FILE_INVALID_BLOCK_SIZE");
+        sparseArray.put(38, "FILE_UPDATE_MANAGER_WRITE_ERR");
+        sparseArray.put(39, "WRONG_DATA_MANAGER_PARAMETER");
+        sparseArray.put(40, "EXTERNAL_FLASH_ERROR");
+        sparseArray.put(126, "UNKNOWN_COMMAND_ID");
+        sparseArray.put(255, "NOTIFICATION");
+        sparseArray.put(125, "COMMAND_NOT_VALID");
+        sparseArray.put(43, "COMPLETE_VECT_REQUIRED_COMMAND");
+        sparseArray.put(41, "ERASING_IN_PROGRESS_CMD");
+        sparseArray.put(42, "EXTERNAL_FLASH_NOT_READY");
+        sparseArray.put(48, "ERR_PDU_NO_ERROR");
+        sparseArray.put(49, "ERR_PDU_GENERIC");
+        sparseArray.put(50, "ERR_PDU_INVALID_PDU_CALL_STRUCTURE");
+        sparseArray.put(51, "ERR_PDU_INVALID_COMMUNICATION_PARAMETERS");
+        sparseArray.put(52, "ERR_PDU_INVALID_ECU_IDENTIFIER");
+        sparseArray.put(53, "ERR_PDU_INVALID_SID");
+        sparseArray.put(54, "ERR_PDU_INVALID_PDU_REQUEST");
+        sparseArray.put(55, "ERR_PDU_INVALID_VEHICLE_SPEED");
+        sparseArray.put(56, "ERR_PDU_CALL_IN_PROGRESS");
+        sparseArray.put(57, "ERR_PDU_OPEN_COMM_CHANNEL");
+        sparseArray.put(58, "ERR_PDU_CLOSE_COMM_CHANNEL");
+        sparseArray.put(59, "ERR_PDU_INVALID_CAN_BUS_SPEED");
+        sparseArray.put(60, "ERR_PDU_START_TIMEOUT_EXPIRED");
+        sparseArray.put(61, "ERR_PDU_RESPONSE_SIZE");
+        sparseArray.put(62, "ERR_PDU_RESPONSES_SIZE");
+        sparseArray.put(63, "ERR_PDU_PDU_RESPONSE_NRC");
+        sparseArray.put(64, "ERR_PDU_PDU_NO_RESPONSES");
+        sparseArray.put(65, "ERR_PDU_PDU_NO_RESPONSE");
+        sparseArray.put(66, "ERR_PDU_PDU_MEM_ALLOC");
+        sparseArray.put(67, "ERR_PDU_PDU_WRITE_FAIL");
+        sparseArray.put(68, "ERR_PDU_PDU_COMM_CHANNEL_LOST");
+        sparseArray.put(23, "DIAG_NOT_ECU_WITH_DTC_CMD");
+        sparseArray.put(24, "CRANK_REPORT_EMPTY_CMD");
+        sparseArray.put(80, "ERR_DPM_PROCEDURE_IS_STILL_RUNNING");
+        sparseArray.put(81, "ERR_DPM_PROCEDURE_NOT_AUTHORIZED");
+        sparseArray.put(82, "ERR_DPM_PROCEDURE_IS_NOT_ACTIVE");
+        sparseArray.put(83, "ERR_DPM_PROCEDURE_NOT_STOPPABLE");
+        sparseArray.put(84, "ERR_DPM_ALREADY_ACTIVE");
+        sparseArray.put(85, "ERR_DPM_NOT_ACTIVE");
+        sparseArray.put(86, "DPM_UNLOCK_CODE_NOT_VALID");
+        sparseArray.put(19, "TOO_MUCH_SUBSCRIPTIONS");
+    }
+
+    public static String getStatusName(Integer num) {
+        if (num == null) {
+            return NO_NAME;
+        }
+        return _CommandStatusNames.get(num.intValue(), NO_NAME);
+    }
+}

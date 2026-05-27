@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/tos_fragment_container" android:background="@color/background_light" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/linearLayout2" android:background="@color/background_light" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:gravity="center_horizontal" android:id="@id/service_desctiption_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="@string/purchaise_title" style="@style/OotbTitleStyle" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@color/background_light" android:layout_width="match_parent" android:layout_height="match_parent" android:weightSum="3.0" android:layout_above="@id/subscribe_purchaise" android:layout_below="@id/linearLayout2">
+        <TextView android:textSize="@dimen/text_size_small_settings" android:gravity="center" android:id="@id/car_model" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <TextView android:textSize="@dimen/ootb_description_text_size" android:gravity="center" android:id="@id/service_description" android:padding="@dimen/margin_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/purchaise_description" android:layout_weight="1.0" android:fontFamily="@font/font_light" />
+        <ImageView android:id="@id/reset" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/medical_icon" android:contentDescription="@string/app_name" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/subscribe_purchaise" android:background="@drawable/button_green" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginTop="@dimen/margin_small" android:layout_marginRight="@dimen/activity_horizontal_margin" android:layout_marginBottom="@dimen/margin_default" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <TextView android:textSize="@dimen/text_size_small" android:textColor="@color/primary_text_light" android:gravity="center" android:id="@id/button_text" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:text="@string/accept_tos" />
+    </LinearLayout>
+</RelativeLayout>

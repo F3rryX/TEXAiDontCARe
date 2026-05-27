@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="16dp">
+    <RelativeLayout
+        android:gravity="center"
+        android:background="@color/eco_driving_background"
+        android:padding="@dimen/margin_default"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/sync_data"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="8dp"
+            android:src="0x7f080146"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"/>
+        <TextView
+            android:textSize="@dimen/text_size_medium"
+            android:textColor="@android:color/white"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/textView_progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="6dp"
+            android:layout_marginBottom="4dp"
+            android:text="@string/wait_please"
+            android:layout_below="@+id/sync_data"
+            android:fontFamily="@font/font_light"/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

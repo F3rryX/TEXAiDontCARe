@@ -1,0 +1,14 @@
+.class synthetic Lcom/texa/careapp/app/onboarding/adapters/VehicleDialogAdapter$1;
+.super Ljava/lang/Object;
+.source "VehicleDialogAdapter.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/texa/careapp/app/onboarding/adapters/VehicleDialogAdapter;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1008
+    name = null
+.end annotation

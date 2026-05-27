@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:background="@drawable/parameters_chart_background" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="-1.0dp" android:layout_marginRight="-1.0dp" android:layout_marginBottom="@dimen/chart_standard_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/diagnosis_data_parameters_no_chart_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/Diagnosis.Parameters.Chart.No.Title" />
+    <TextView android:id="@id/diagnosis_data_parameters_no_chart_value" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/Diagnosis.Parameters.Chart.No.Value" />
+</LinearLayout>

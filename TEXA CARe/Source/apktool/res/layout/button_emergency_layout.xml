@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/layout_emergencyButton" android:background="@drawable/round_corner" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/emergency_button_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/imageView_emergencyButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/app_name" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/containerTextView_emergency" android:layout_width="match_parent" android:layout_height="match_parent" android:weightSum="3.0">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="42.0dp" android:textColor="@color/primary_text_light" android:gravity="center" android:id="@id/textView_emergencyTitle" android:layout_width="match_parent" android:layout_height="0.0dp" android:maxLines="1" android:layout_weight="2.2" android:textAllCaps="true" app:autoSizeMinTextSize="30.0dp" app:autoSizeStepGranularity="1.0dp" />
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="20.0dp" android:textColor="@color/primary_text_light" android:gravity="center|top" android:id="@id/textView_emergencySubTitle" android:layout_width="match_parent" android:layout_height="0.0dp" android:maxLines="1" android:layout_weight="0.8" app:autoSizeMinTextSize="13.0dp" app:autoSizeStepGranularity="1.0dp" />
+    </LinearLayout>
+</LinearLayout>

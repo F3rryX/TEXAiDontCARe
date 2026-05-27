@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:tag="layout/dialog_onboarding_error_0"
+    android:padding="@dimen/margin_default"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/dialog_onboarding_error_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/CARe.Dialog.Text"/>
+    <TextView
+        android:id="@+id/dialog_onboarding_error_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_default"
+        style="@style/CARe.Dialog.Button"/>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/dialog_plate_validation_0" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/dialog_plate_validation_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_default" style="@style/CARe.Dialog.Text" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:layout_below="@id/dialog_plate_validation_description">
+        <TextView android:id="@id/dialog_plate_validation_btn_negative" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dialog_plate_validation_btn_negative" android:layout_weight="1.0" style="@style/CARe.Dialog.Button" />
+        <TextView android:id="@id/dialog_plate_validation_btn_confirm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dialog_plate_validation_btn_affermative" android:layout_weight="1.0" style="@style/CARe.Dialog.Button" />
+    </LinearLayout>
+</RelativeLayout>

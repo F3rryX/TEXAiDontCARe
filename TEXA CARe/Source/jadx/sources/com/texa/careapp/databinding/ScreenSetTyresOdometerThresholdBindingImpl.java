@@ -1,0 +1,80 @@
+package com.texa.careapp.databinding;
+
+import android.util.SparseIntArray;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
+import android.widget.Spinner;
+import android.widget.TextView;
+import androidx.databinding.DataBindingComponent;
+import androidx.databinding.ViewDataBinding;
+import com.google.android.material.textfield.TextInputLayout;
+import com.texa.care.R;
+
+/* JADX INFO: loaded from: classes2.dex */
+public class ScreenSetTyresOdometerThresholdBindingImpl extends ScreenSetTyresOdometerThresholdBinding {
+    private static final ViewDataBinding.IncludedLayouts sIncludes = null;
+    private static final SparseIntArray sViewsWithIds;
+    private long mDirtyFlags;
+    private final RelativeLayout mboundView0;
+
+    @Override // androidx.databinding.ViewDataBinding
+    protected boolean onFieldChange(int i, Object obj, int i2) {
+        return false;
+    }
+
+    @Override // androidx.databinding.ViewDataBinding
+    public boolean setVariable(int i, Object obj) {
+        return true;
+    }
+
+    static {
+        SparseIntArray sparseIntArray = new SparseIntArray();
+        sViewsWithIds = sparseIntArray;
+        sparseIntArray.put(R.id.threshold_titol, 1);
+        sparseIntArray.put(R.id.vehicle_label, 2);
+        sparseIntArray.put(R.id.layout_new_exp_odo, 3);
+        sparseIntArray.put(R.id.floatabel_label_new_exp_odo, 4);
+        sparseIntArray.put(R.id.edit_text_view_new_exp, 5);
+        sparseIntArray.put(R.id.layout_tyres_type, 6);
+        sparseIntArray.put(R.id.tyres_type_spinner_new_install, 7);
+        sparseIntArray.put(R.id.layout_add_confirmed, 8);
+    }
+
+    public ScreenSetTyresOdometerThresholdBindingImpl(DataBindingComponent dataBindingComponent, View view) {
+        this(dataBindingComponent, view, mapBindings(dataBindingComponent, view, 9, sIncludes, sViewsWithIds));
+    }
+
+    private ScreenSetTyresOdometerThresholdBindingImpl(DataBindingComponent dataBindingComponent, View view, Object[] objArr) {
+        super(dataBindingComponent, view, 0, (EditText) objArr[5], (TextInputLayout) objArr[4], (LinearLayout) objArr[8], (LinearLayout) objArr[3], (LinearLayout) objArr[6], (TextView) objArr[1], (Spinner) objArr[7], (TextView) objArr[2]);
+        this.mDirtyFlags = -1L;
+        RelativeLayout relativeLayout = (RelativeLayout) objArr[0];
+        this.mboundView0 = relativeLayout;
+        relativeLayout.setTag(null);
+        setRootTag(view);
+        invalidateAll();
+    }
+
+    @Override // androidx.databinding.ViewDataBinding
+    public void invalidateAll() {
+        synchronized (this) {
+            this.mDirtyFlags = 1L;
+        }
+        requestRebind();
+    }
+
+    @Override // androidx.databinding.ViewDataBinding
+    public boolean hasPendingBindings() {
+        synchronized (this) {
+            return this.mDirtyFlags != 0;
+        }
+    }
+
+    @Override // androidx.databinding.ViewDataBinding
+    protected void executeBindings() {
+        synchronized (this) {
+            this.mDirtyFlags = 0L;
+        }
+    }
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:tag="layout/screen_general_settings_preferences_0" android:background="@color/background_light" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@color/background_light" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@id/button_enable_notification" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/toggleButton_enable_notification" android:layout_toStartOf="@id/toggleButton_enable_notification">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/enable_notification_title" style="@style/Settings.TitleLabelStyle" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/enable_notification_description" style="@style/Settings.DescriptionLabelStyle" />
+            </LinearLayout>
+            <androidx.appcompat.widget.SwitchCompat android:id="@id/toggleButton_enable_notification" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:checked="false" android:textOn="" android:textOff="" android:text="" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <View android:background="@color/settings_line_color" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" />
+        <RelativeLayout android:id="@id/button_sound_on_connection" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/toggleButton_sound_on_connection" android:layout_toStartOf="@id/toggleButton_sound_on_connection">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/sound_on_connection" style="@style/Settings.TitleLabelStyle" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/sound_on_connection_description" style="@style/Settings.DescriptionLabelStyle" />
+            </LinearLayout>
+            <androidx.appcompat.widget.SwitchCompat android:id="@id/toggleButton_sound_on_connection" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:checked="false" android:textOn="" android:textOff="" android:text="" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" />
+        <RelativeLayout android:id="@id/button_additional_phone_impact_detection" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/toggleButton_additional_phone_impact_detection" android:layout_toStartOf="@id/toggleButton_additional_phone_impact_detection">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/additional_phone_impact_detection" style="@style/Settings.TitleLabelStyle" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/additional_phone_impact_detection_description" style="@style/Settings.DescriptionLabelStyle" />
+            </LinearLayout>
+            <androidx.appcompat.widget.SwitchCompat android:id="@id/toggleButton_additional_phone_impact_detection" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:checked="false" android:textOn="" android:textOff="" android:text="" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" />
+        <RelativeLayout android:id="@id/button_eco_driving_activation" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/toggleButton_eco_driving_activation" android:layout_toStartOf="@id/toggleButton_eco_driving_activation">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eco_driving_activation" style="@style/Settings.TitleLabelStyle" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eco_driving_activation_description" style="@style/Settings.DescriptionLabelStyle" />
+            </LinearLayout>
+            <androidx.appcompat.widget.SwitchCompat android:id="@id/toggleButton_eco_driving_activation" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:checked="false" android:textOn="" android:textOff="" android:text="" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" />
+        <LinearLayout android:orientation="vertical" android:id="@id/button_eco_driving_profile" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eco_driving_profile_title" style="@style/Settings.TitleLabelStyle" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eco_driving_profile_description" style="@style/Settings.DescriptionLabelStyle" />
+            </LinearLayout>
+            <RadioGroup android:orientation="vertical" android:id="@id/radio_group_profile_eco_driving" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default">
+                <RadioButton android:id="@id/radio_eco_driving_profile_eco" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/eco_driving_profile_eco" style="@style/CARe.Dialog.Radio.Text" />
+                <RadioButton android:id="@id/radio_eco_driving_profile_normal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/eco_driving_profile_normal" style="@style/CARe.Dialog.Radio.Text" />
+                <RadioButton android:id="@id/radio_eco_driving_profile_sport" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/eco_driving_profile_sport" style="@style/CARe.Dialog.Radio.Text" />
+            </RadioGroup>
+            <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

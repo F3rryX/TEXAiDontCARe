@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:toDegrees="0">
+    <shape android:shape="line">
+        <size
+            android:height="1dp"
+            android:width="1000dp"/>
+        <stroke
+            android:width="0.5dp"
+            android:color="@color/sos_contacts_picker_background"/>
+    </shape>
+</rotate>

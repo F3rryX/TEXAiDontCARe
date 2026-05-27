@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="18.0dp" android:textColor="@color/primary_text" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/text_view_item_country" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:minWidth="@dimen/spinner_min_width" android:minHeight="@dimen/edit_text_min_height" android:singleLine="true" style="?android:spinnerItemStyle" />
+</LinearLayout>

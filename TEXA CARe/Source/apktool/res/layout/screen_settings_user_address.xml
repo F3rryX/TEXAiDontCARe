@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:tag="layout/screen_settings_user_address_0" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/home_address" style="@style/Settings.HeaderStyleLabel" />
+            <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" />
+        </LinearLayout>
+        <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+            <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_address" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_address" android:inputType="text" android:fontFamily="@font/font_regular" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+        <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+            <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_civic_number" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_civic_number" android:inputType="text" android:fontFamily="@font/font_regular" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+        <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+            <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_cap" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_cap" android:inputType="number" android:fontFamily="@font/font_regular" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+        <com.google.android.material.textfield.TextInputLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" style="@style/Settings.Layout">
+            <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_city" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_city" android:inputType="text" android:fontFamily="@font/font_regular" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <View android:background="@color/out_of_the_box_light_gray" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/div_height" android:layout_marginBottom="@dimen/margin_small" />
+        <com.google.android.material.textfield.TextInputLayout android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small">
+            <EditText android:textSize="@dimen/text_size_small" android:id="@id/edit_text_user_province" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/hint_province" android:inputType="text" android:fontFamily="@font/font_regular" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <View android:background="@color/settings_line_color" android:layout_width="match_parent" android:layout_height="0.5dp" android:layout_marginLeft="@dimen/margin_default" android:layout_marginStart="@dimen/margin_default" />
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_small" android:layout_marginRight="@dimen/margin_small" style="@style/Settings.Layout">
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_small" android:text="@string/hint_country" android:alpha="45.0" style="@style/Settings.TitleLabelStyle" />
+            <Spinner android:textColor="@color/primary_text" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/spinner_set_user_country" android:layout_width="wrap_content" android:layout_height="wrap_content" android:spinnerMode="dialog" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

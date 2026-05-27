@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/coordinator_layout"
+    android:tag="layout/activity_main_0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/drawer"
+        android:fitsSystemWindows="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:tag="binding_1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <include
+                android:id="@+id/toolbar_actionbar"
+                layout="@layout/toolbar"/>
+            <FrameLayout
+                android:id="@+id/container"
+                android:background="@color/primary_dark"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </LinearLayout>
+        <com.texa.careapp.base.ScrimInsetsFrameLayout
+            android:layout_gravity="start"
+            android:id="@+id/scrimInsetsFrameLayout"
+            android:fitsSystemWindows="true"
+            android:layout_width="@dimen/navigation_drawer_width"
+            android:layout_height="wrap_content"
+            app:scrimInsetForeground="#0000">
+            <fragment
+                android:name="com.texa.careapp.base.NavigationDrawerFragment"
+                android:id="@+id/fragment_drawer"
+                android:fitsSystemWindows="true"
+                android:layout_width="@dimen/navigation_drawer_width"
+                android:layout_height="match_parent"
+                app:layout="@layout/navigation_drawer_fragment"/>
+        </com.texa.careapp.base.ScrimInsetsFrameLayout>
+    </androidx.drawerlayout.widget.DrawerLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,1 @@
+ALTER TABLE Vehicles ADD COLUMN haveAdvancedDiagnosis INTEGER;

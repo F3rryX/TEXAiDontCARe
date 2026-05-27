@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:tag="layout/screen_walkthrough_0"
+    android:background="@drawable/walkthrough_gradient"
+    android:padding="@dimen/margin_default"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentStart="true">
+    <TextView
+        android:id="@+id/screen_walkthrough_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/screen_walkthrough_description"
+        style="@style/WalkThrough.Title"/>
+    <TextView
+        android:id="@+id/screen_walkthrough_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        style="@style/WalkThrough.Description"/>
+</RelativeLayout>

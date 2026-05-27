@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/screen_eco_driving_trip_item_0" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:id="@id/screen_eco_driving_trip_item_car" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0.5dp" style="@style/EcoDriving.Item.Trip.Info.Car" />
+    <RelativeLayout android:id="@id/screen_eco_driving_trip_item_lay" android:background="@color/eco_driving_trip_item_background" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="75.0dp" android:layout_marginBottom="0.5dp">
+        <View android:id="@id/screen_eco_driving_trip_item_line" android:background="@color/eco_driving_normal_color" android:layout_width="8.0dp" android:layout_height="match_parent" />
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:paddingStart="@dimen/margin_default" android:layout_toStartOf="@id/screen_eco_driving_trip_item_circle" android:layout_toEndOf="@id/screen_eco_driving_trip_item_line">
+            <TextView android:id="@id/screen_eco_driving_trip_item_date" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/EcoDriving.Item.Day" />
+            <androidx.appcompat.widget.AppCompatTextView android:id="@id/screen_eco_driving_trip_item_from_to" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="2" app:autoSizeMinTextSize="12.0dp" app:autoSizeStepGranularity="1.0dp" style="@style/EcoDriving.Item.Trip.Info" />
+        </LinearLayout>
+        <com.texa.careapp.views.CircleDisplay android:id="@id/screen_eco_driving_trip_item_circle" android:layout_width="40.0dp" android:layout_height="40.0dp" android:layout_margin="@dimen/margin_small" android:layout_centerVertical="true" android:layout_alignParentEnd="true" app:arc_width="3.0dp" app:display_text_dimension="16.0dp" />
+    </RelativeLayout>
+</LinearLayout>

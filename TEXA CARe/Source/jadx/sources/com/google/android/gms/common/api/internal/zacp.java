@@ -1,0 +1,52 @@
+package com.google.android.gms.common.api.internal;
+
+import android.os.Looper;
+import android.os.Message;
+import android.util.Log;
+import com.google.android.gms.common.api.PendingResult;
+import com.google.android.gms.common.api.Status;
+import com.google.android.gms.common.internal.Preconditions;
+
+/* JADX INFO: compiled from: com.google.android.gms:play-services-base@@17.5.0 */
+/* JADX INFO: loaded from: classes.dex */
+final class zacp extends com.google.android.gms.internal.base.zas {
+    private final /* synthetic */ zacn zaa;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public zacp(zacn zacnVar, Looper looper) {
+        super(looper);
+        this.zaa = zacnVar;
+    }
+
+    @Override // android.os.Handler
+    public final void handleMessage(Message message) {
+        int i = message.what;
+        if (i == 0) {
+            PendingResult<?> pendingResult = (PendingResult) message.obj;
+            synchronized (this.zaa.zae) {
+                zacn zacnVar = (zacn) Preconditions.checkNotNull(this.zaa.zab);
+                if (pendingResult != null) {
+                    if (!(pendingResult instanceof zacc)) {
+                        zacnVar.zaa(pendingResult);
+                    } else {
+                        zacnVar.zaa(((zacc) pendingResult).zaa());
+                    }
+                } else {
+                    zacnVar.zaa(new Status(13, "Transform returned null"));
+                }
+            }
+            return;
+        }
+        if (i == 1) {
+            RuntimeException runtimeException = (RuntimeException) message.obj;
+            String strValueOf = String.valueOf(runtimeException.getMessage());
+            Log.e("TransformedResultImpl", strValueOf.length() != 0 ? "Runtime exception on the transformation worker thread: ".concat(strValueOf) : new String("Runtime exception on the transformation worker thread: "));
+            throw runtimeException;
+        }
+        int i2 = message.what;
+        StringBuilder sb = new StringBuilder(70);
+        sb.append("TransformationResultHandler received unknown message type: ");
+        sb.append(i2);
+        Log.e("TransformedResultImpl", sb.toString());
+    }
+}

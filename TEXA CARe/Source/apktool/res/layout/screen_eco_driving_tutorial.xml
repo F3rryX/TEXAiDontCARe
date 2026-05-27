@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/screen_eco_driving_tutorial_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:id="@id/screen_eco_driving_tutorial_title" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/EcoDriving.Tutorial.Title" />
+    <androidx.appcompat.widget.AppCompatTextView android:id="@id/screen_eco_driving_tutorial_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="3" android:layout_below="@id/screen_eco_driving_tutorial_title" app:autoSizeMinTextSize="12.0dp" app:autoSizeStepGranularity="1.0dp" style="@style/EcoDriving.Tutorial.Description" />
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="50.0dp" android:layout_below="@id/screen_eco_driving_tutorial_description">
+        <ImageView android:id="@id/screen_eco_driving_tutorial_image" android:layout_width="300.0dp" android:layout_height="wrap_content" android:src="@drawable/tutorial_item_1" android:scaleType="fitCenter" android:adjustViewBounds="true" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:contentDescription="@string/app_name" />
+    </RelativeLayout>
+</RelativeLayout>

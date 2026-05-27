@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:tag="layout/screen_eco_driving_trip_map_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <fragment android:id="@id/screen_eco_driving_trip_map" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@id/screen_eco_driving_trip_map_bottom_lay" class="com.google.android.gms.maps.SupportMapFragment" />
+    <LinearLayout android:orientation="vertical" android:id="@id/screen_eco_driving_trip_map_bottom_lay" android:background="@color/eco_driving_background_map" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <TextView android:id="@id/screen_eco_driving_trip_map_locations" android:paddingLeft="@dimen/margin_smaller" android:paddingTop="@dimen/margin_smaller" android:paddingRight="@dimen/margin_smaller" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/EcoDriving.Trip.Map.Title" />
+        <RelativeLayout android:clipChildren="false" android:layout_width="match_parent" android:layout_height="100.0dp" android:layout_marginTop="@dimen/margin_small" android:layout_marginBottom="@dimen/margin_small">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/screen_eco_driving_trip_map_score" android:layout_centerVertical="true" android:layout_toStartOf="@id/screen_eco_driving_trip_map_score">
+                <TextView android:id="@id/screen_eco_driving_trip_map_distance_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/eco_driving_trip_detail_distance" style="@style/EcoDriving.Trip.Map.Label" />
+                <View android:background="@color/eco_driving_normal_color" android:layout_width="90.0dp" android:layout_height="0.5dp" />
+                <TextView android:id="@id/screen_eco_driving_trip_map_distance" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/EcoDriving.Trip.Map.Value" />
+            </LinearLayout>
+            <com.texa.careapp.views.CircleDisplay android:id="@id/screen_eco_driving_trip_map_score" android:layout_width="@dimen/eco_driving_circle_display_map_score_dimen" android:layout_height="@dimen/eco_driving_circle_display_map_score_dimen" android:layout_centerInParent="true" app:arc_whole_color="#e6576779" app:arc_width="6.0dp" app:display_text_color="@color/eco_driving_normal_color" app:display_text_dimension="40.0dp" />
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toRightOf="@id/screen_eco_driving_trip_map_score" android:layout_centerVertical="true" android:layout_toEndOf="@id/screen_eco_driving_trip_map_score">
+                <TextView android:id="@id/screen_eco_driving_trip_map_duration_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/eco_driving_trip_detail_duration" style="@style/EcoDriving.Trip.Map.Label" />
+                <View android:background="@color/eco_driving_normal_color" android:layout_width="90.0dp" android:layout_height="0.5dp" />
+                <TextView android:id="@id/screen_eco_driving_trip_map_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/EcoDriving.Trip.Map.Value" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

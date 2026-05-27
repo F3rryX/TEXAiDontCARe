@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="layout/screen_diagnosis_data_0" android:background="@color/diagnosis_data_background" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.texa.careapp.views.SlidingTabLayout android:id="@id/screen_diagnosis_data_sliding_tabs" android:background="@color/diagnosis_data_background" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <androidx.viewpager.widget.ViewPager android:id="@id/screen_diagnosis_data_view_pager" android:layout_width="match_parent" android:layout_height="match_parent" />
+</LinearLayout>

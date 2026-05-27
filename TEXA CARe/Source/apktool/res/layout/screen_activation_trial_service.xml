@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/tos_fragment_container" android:tag="layout/screen_activation_trial_service_0" android:background="@color/background_light" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/screen_activation_trial_service_header" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default">
+        <TextView android:gravity="start" android:id="@id/service_description_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activation_sos_service" android:layout_toRightOf="@id/screen_activation_trial_service_badge" android:layout_centerVertical="true" android:layout_toEndOf="@id/screen_activation_trial_service_badge" style="@style/Sos.Activation.Title" />
+        <TextView android:id="@id/screen_activation_trial_service_badge" android:layout_width="90.0dp" android:layout_height="90.0dp" android:layout_marginLeft="10.0dp" android:text="@string/sos_badge_free_trial_time" android:layout_centerVertical="true" android:layout_marginStart="10.0dp" style="@style/Sos.Badge.Free.Trial.Time" />
+    </RelativeLayout>
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/margin_default" android:fillViewport="true" android:layout_above="@id/screen_activation_trial_service_btn" android:layout_below="@id/screen_activation_trial_service_header">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:gravity="center" android:id="@id/screen_activation_trial_service_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/purchaise_description" style="@style/Sos.Activation.Description" />
+            <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:src="@drawable/medical_icon" android:contentDescription="@string/app_name" />
+        </LinearLayout>
+    </ScrollView>
+    <TextView android:gravity="center" android:id="@id/screen_activation_trial_service_btn" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:text="@string/activation_free_service" android:layout_alignParentBottom="true" style="@style/Sos.Activation.Button" />
+</RelativeLayout>

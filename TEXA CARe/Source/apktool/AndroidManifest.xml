@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="31" android:compileSdkVersionCodename="12" package="com.texa.care" platformBuildVersionCode="31" platformBuildVersionName="12">
+    <permission android:name="com.texa.careapp.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.texa.careapp.permission.C2D_MESSAGE"/>
+    <permission android:name="com.texa.careapp.permission.MAPS_RECEIVE" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.texa.careapp.permission.MAPS_RECEIVE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:maxSdkVersion="30" android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:maxSdkVersion="30" android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-feature android:glEsVersion="0x20000" android:required="true"/>
+    <uses-feature android:name="android.hardware.camera" android:required="true"/>
+    <uses-feature android:name="android.hardware.bluetooth" android:required="true"/>
+    <uses-feature android:name="android.hardware.telephony" android:required="true"/>
+    <uses-feature android:name="android.hardware.location.gps" android:required="true"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-feature android:name="android.hardware.bluetooth_le" android:required="false"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <queries>
+        <package android:name="com.google.android.apps.maps"/>
+    </queries>
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:fullBackupContent="false" android:icon="@mipmap/ic_launcher" android:isSplitRequired="true" android:label="@string/application_name" android:largeHeap="true" android:name="com.texa.careapp.CareApplication" android:roundIcon="@mipmap/ic_launcher_round" android:theme="@style/Theme.CARe" android:usesCleartextTraffic="true" android:windowSoftInputMode="adjustPan">
+        <meta-data android:name="AA_DB_NAME" android:value="care.db"/>
+        <meta-data android:name="AA_DB_VERSION" android:value="36"/>
+        <meta-data android:name="AA_SERIALIZERS" android:value="com.texa.careapp.utils.activeandroid.BigIntegerSerializer,              com.texa.careapp.utils.activeandroid.TripDataSerializer,              com.texa.careapp.utils.activeandroid.BatteryStateSerializer,              com.texa.careapp.utils.activeandroid.TripLocationsSerializer,              com.texa.careapp.utils.activeandroid.FirmwareVersionTypeSerializer,              com.texa.careapp.utils.activeandroid.SnapshotSerializer,              com.texa.careapp.utils.activeandroid.MechanicLocationTypeSerializer,              com.texa.careapp.utils.activeandroid.ReceiptSerializer"/>
+        <meta-data android:name="AA_MODELS" android:value="com.texa.careapp.model.ThresholdModel, com.texa.careapp.model.UserModel, com.texa.careapp.model.VehicleModel,                           com.texa.careapp.model.ContactModel,com.texa.careapp.model.UserScheduleModel,                           com.texa.careapp.model.VehicleScheduleModel,com.texa.careapp.model.DtcModel,com.texa.careapp.model.DongleModel,                           com.texa.careapp.emergency.EmergencyNumberModel,com.texa.careapp.model.VehicleParam,                           com.texa.careapp.app.errorsDTC.LampStatus,com.texa.careapp.model.TripModel,com.texa.careapp.model.VehicleAdditionalDataModel,                           com.texa.careapp.model.ServiceDataModel, com.texa.careapp.model.ServerLogModel, com.texa.careapp.model.VehicleParamHistoryModel,                           com.texa.careapp.model.MechanicModel , com.texa.careapp.model.BusinessTime, com.texa.careapp.model.MechanicContact,                           com.texa.careapp.app.ecodriving.model.TripEventModel, com.texa.careapp.app.ecodriving.model.TripScoreUpdateModel,                           com.texa.careapp.app.ecodriving.model.TripObjectModel, com.texa.careapp.app.ecodriving.model.TripObjectLastScore,                           com.texa.careapp.app.ecodriving.model.HintModel,com.texa.careapp.app.ecodriving.model.HintTranslationModel,                           com.texa.careapp.model.TermsModel, com.texa.careapp.model.PurchaseData,                           com.texa.careapp.model.BatteryAnalyzeModel, com.texa.careapp.model.CrashLogModel,                           com.texa.careapp.model.SelectionModel"/>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <activity android:allowBackup="true" android:configChanges="keyboardHidden|orientation" android:exported="true" android:label="@string/application_name" android:launchMode="singleTop" android:name="com.texa.careapp.app.SplashActivity" android:screenOrientation="portrait" android:theme="@style/Theme.CARe.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.texa.careapp.app.auth.LoginActivity" android:screenOrientation="portrait" android:theme="@style/Theme.CARe.OnBoarding" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:name="com.texa.careapp.app.onboarding.OnBoardingActivity" android:screenOrientation="portrait" android:theme="@style/Theme.CARe.OnBoarding" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:name="com.texa.careapp.app.walkthrough.WalkthroughActivity" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.CARe.OnBoarding"/>
+        <activity android:name="com.texa.careapp.app.walkthrough.WalkthroughActivityLastStep" android:screenOrientation="portrait" android:theme="@style/Theme.CARe.OnBoarding"/>
+        <activity android:name="com.texa.careapp.app.permission.PermissionActivity" android:screenOrientation="portrait" android:theme="@style/Theme.CARe.OnBoarding"/>
+        <activity android:name="com.texa.careapp.app.settings.companyinfo.CompanyInfoActivity" android:noHistory="true" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.settings.insertnewthreshold.InsertNewThresholdActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.settings.vehicle.SettingsVehicleActivity" android:screenOrientation="portrait"/>
+        <activity android:exported="true" android:hardwareAccelerated="true" android:label="@string/application_name" android:name="com.texa.careapp.app.MainActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.utils.webviewsection.WebViewSectionActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/application_name" android:name="com.texa.careapp.app.activationSosServices.ActivationServiceActivity" android:screenOrientation="portrait"/>
+        <service android:enabled="true" android:exported="false" android:foregroundServiceType="connectedDevice" android:name="com.texa.careapp.app.service.CareService"/>
+        <activity android:exported="true" android:name="com.texa.careapp.app.activationSosServices.NoSosServiceActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/application_name" android:name="com.texa.careapp.app.schedule.ScheduleActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/application_name" android:name="com.texa.careapp.app.schedule.addThreshold.AddNewThresholdActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/title_activity_update_configuration" android:name="com.texa.careapp.configuration.UpdateConfigurationActivity" android:screenOrientation="portrait" android:theme="@style/Theme.CARe"/>
+        <activity android:label="@string/title_activity_update_configuration" android:name="com.texa.careapp.app.calibration.CalibrationActivity" android:screenOrientation="portrait" android:theme="@style/Theme.CARe"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:launchMode="singleTop" android:name="com.texa.careapp.app.sos.AutomaticSosActivity" android:noHistory="true" android:screenOrientation="portrait"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:name="com.texa.careapp.app.sos.AlertCentralActivity" android:noHistory="true" android:screenOrientation="portrait"/>
+        <activity android:hardwareAccelerated="true" android:name="com.texa.careapp.app.vehiclefinder.VehicleFinderActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.settings.user.SettingsUserActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="com.texa.careapp.app.settings.user.SettingsUserAddressActivity" android:screenOrientation="portrait" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:exported="true" android:launchMode="singleTask" android:name="com.texa.careapp.configuration.OnBoardingConfigurationActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.vehicle.VehicleDataConfirmationActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.sos.MechanicActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.settings.troubleshooting.ProblemResolutionActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.settings.tyres.SettingsTyresActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.sos.SosPrerequisiteActivity" android:screenOrientation="portrait"/>
+        <activity android:hardwareAccelerated="true" android:name="com.texa.careapp.app.ecodriving.EcoDrivingActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.ecodriving.hint.EcoDrivingHintActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.ecodriving.tutorial.EcoDrivingTutorialActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.ecodriving.AcceptationTermsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.settings.generalsettings.GeneralSettingsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.activationSosServices.contact.ActivationServiceContactActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.activationSosServices.SosInAppBillingSubscription" android:theme="@style/Theme.CARe.Transparent"/>
+        <activity android:name="com.texa.careapp.app.settings.services.SettingsServicesActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.settings.services.ServicesSubscriptionManagerActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.documentcapturer.OcrCaptureAcquireImageActivity" android:screenOrientation="portrait"/>
+        <activity android:hardwareAccelerated="true" android:name="com.texa.careapp.app.onboarding.SellerMapActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.onboarding.CareSiteActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.settings.SettingsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.settings.settingscare.SettingsCareActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.diagnosis.DiagnosisActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.diagnosis.DiagnosisDataActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.sos.ContactsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.texa.careapp.app.activationSosServices.phone.ActivationPhoneNumberActivity" android:screenOrientation="portrait"/>
+        <service android:exported="true" android:name="com.texa.careapp.utils.authentication.AccountAuthenticatorService" android:process=":auth">
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator"/>
+            </intent-filter>
+            <meta-data android:name="android.accounts.AccountAuthenticator" android:resource="@xml/authenticator"/>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.texa.careapp.fcm.FcmMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.texa.careapp.configuration.UpdateConfigurationIntentService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.texa.careapp.app.update.FirmwareUpdateService"/>
+        <receiver android:exported="true" android:name="com.texa.careapp.utils.broadcastreceiver.NetworkStateChangedReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.texa.careapp.utils.broadcastreceiver.BluetoothStateChangedReceiver">
+            <intent-filter>
+                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name="com.texa.careapp.utils.broadcastreceiver.BootCompletedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.texa.careapp.utils.broadcastreceiver.GpsStateChangedReceiver">
+            <intent-filter>
+                <action android:name="android.location.PROVIDERS_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="io.fabric.ApiKey" android:value="023dfb905dc115ff698f7bba82e326fa9b91c9fc"/>
+        <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="@string/google_maps_key"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <provider android:authorities="com.texa.care.provider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+        <provider android:authorities="com.texa.care" android:exported="false" android:name="com.activeandroid.content.ContentProvider"/>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.components.ComponentDiscoveryService">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <provider android:authorities="com.texa.care.firebaseinitprovider" android:directBootAware="true" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_job_service_default" android:exported="true" android:name="androidx.work.impl.background.systemjob.SystemJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:directBootAware="false" android:enabled="@bool/enable_system_foreground_service_default" android:exported="false" android:name="androidx.work.impl.foreground.SystemForegroundService"/>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="false" android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"/>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy">
+            <intent-filter>
+                <action android:name="android.intent.action.BATTERY_OKAY"/>
+                <action android:name="android.intent.action.BATTERY_LOW"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy">
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW"/>
+                <action android:name="android.intent.action.DEVICE_STORAGE_OK"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="false" android:exported="false" android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver">
+            <intent-filter>
+                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:directBootAware="false" android:enabled="true" android:exported="true" android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver" android:permission="android.permission.DUMP">
+            <intent-filter>
+                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery">
+            <meta-data android:name="backend:com.google.android.datatransport.cct.CctBackendFactory" android:value="cct"/>
+        </service>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"/>
+        <service android:directBootAware="true" android:exported="false" android:name="androidx.room.MultiInstanceInvalidationService"/>
+        <meta-data android:name="com.google.android.play.billingclient.version" android:value="4.0.0"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:exported="false" android:name="com.android.billingclient.api.ProxyBillingActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="com.android.vending.splits.required" android:value="true"/>
+        <meta-data android:name="com.android.stamp.source" android:value="https://play.google.com/store"/>
+        <meta-data android:name="com.android.stamp.type" android:value="STAMP_TYPE_DISTRIBUTION_APK"/>
+        <meta-data android:name="com.android.vending.splits" android:resource="@xml/splits0"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="2"/>
+    </application>
+</manifest>

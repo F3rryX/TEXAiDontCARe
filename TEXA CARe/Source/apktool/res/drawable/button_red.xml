@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <gradient android:startColor="@color/error_pressed" android:endColor="@color/error_pressed" android:angle="0.0" />
+            <corners android:radius="@dimen/button_corner_radius" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient android:startColor="@color/error" android:endColor="@color/error" android:angle="0.0" />
+            <corners android:radius="@dimen/button_corner_radius" />
+        </shape>
+    </item>
+</selector>

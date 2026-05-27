@@ -1,0 +1,1 @@
+ALTER TABLE Dongle ADD COLUMN lastParametersUpdate INTEGER;

@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            // hide #back-top first
+            $("#back-top").hide();
+
+            // fade in #back-top
+            $(function () {
+                $(window).scroll(function () {
+                    if ($(this).scrollTop() > 100) {
+                        $('#back-top').fadeIn();
+                    } else {
+                        $('#back-top').fadeOut();
+                    }
+                });
+
+                // scroll body to 0px on click
+                $('#back-top a').click(function () {
+                    $('body,html').animate({
+                        scrollTop: 0
+                    }, 800);
+                    return false;
+                });
+            });
+
+        });
+    </script>
+    <link href="../third_part_license/Style/bootstrap.css" rel="stylesheet"/>
+    <link href="../third_part_license/Style/bootstrap-theme.css" rel="stylesheet"/>
+
+    <link href="../third_part_license/Style/care-style.css" rel="stylesheet"/>
+    <link href="../third_part_license/Style/css/glyphicons-filetypes.css" rel="stylesheet"/>
+    <link href="../third_part_license/Style/css/glyphicons-halflings.css" rel="stylesheet"/>
+    <link href="../third_part_license/Style/css/glyphicons-social.css" rel="stylesheet"/>
+    <link href="../third_part_license/Style/css/glyphicons.css" rel="stylesheet"/>
+    <style type="text/css">
+        * {
+        text-align: justify;
+        }
+
+        .glyphicons:before {
+        color: blue;
+        }
+
+        .img-circle {
+        border-radius: 50%;
+        }
+
+        .author-image {
+        max-height: 36px;
+        line-height: 36px;
+        vertical-align: top;
+        }
+
+        /*
+        Back to top button
+        */
+        #back-top {
+        position: fixed;
+        top: 30px;
+        margin-left: 50%;
+        }
+
+        #back-top a {
+        background: #80BD01;
+        padding: 10px 20px 10px 20px;
+        border-radius: 28px;
+        width: 108px;
+        display: block;
+        text-align: left;
+        font-size: 11px;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: #ffffff;
+        /* background color transition */
+        -webkit-transition: 1s;
+        -moz-transition: 1s;
+        transition: 1s;
+        }
+
+        #back-top a:hover {
+        color: #000;
+        }
+        /*arrow icon (span tag) <-- commento*/
+        #back-top span {
+        /* width: 50px;
+        height: 50px;*/
+        display: block;
+        margin-bottom: 7px;
+        /*background: #ddd url(../Images/up-arrow.png) no-repeat center center;*/
+        /* rounded corners <-- commento*/
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        border-radius: 15px;
+        /* background color transition;*/
+        -webkit-transition: 1s;
+        -moz-transition: 1s;
+        transition: 1s;
+        }
+
+        #back-top a:hover span {
+        background-color: #000;
+        }
+    </style>
+
+</head>
+<body>
+<form id="form1">
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-xs-12 bigtopspacer">
+                    <img src="../third_part_license/ThirdPartsImg/Logo.png" />
+                </div>
+                <div class="col-md-6 col-xs-12 tc-pagetitle bigtopspacer">
+                    <h3 style="padding-top: 20px;">Third Part License</h3>
+                </div>
+            </div>
+
+            <div class="row bigtopspacer"></div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-xs-12">
+                                    <h3>
+                                        Index:
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="#SpongyCastle">Spongy Castle</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Googlegson">Google-gson</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Jetbrains">Jetbrains Annotation</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Guava">Guava</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#JavaDependency">Java Dependency Injection Standard</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#CircularImageView">CircularImageView</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Lombok">Lombok</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Dexmaker">Dexmaker</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#ReactiveLocation">ReactiveLocation</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#CommonsCol">Commons Collections</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Spoon">Spoon</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#ButterKnife">Butter Knife</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#ActiveAndroid">ActiveAndroid</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Dagger">Dagger</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#CircleIndicator">CircleIndicator</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#OkHttp">OkHttp</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Retrofit">Retrofit</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#RxAndroid">RxAndroid</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Timber">Timber</a>
+                                </div>
+                                <!-- Nuove librerie terze parti versione  v.1.4.0.0-->
+                                <div class="col-xs-12">
+                                    <a href="#AndPathview">Android-pathview</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#MPAndChart">MPAndroidChart</a>
+                                </div>
+                                <div class="col-xs-12">
+                                    <a href="#Fresco">Fresco</a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-12">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/RobertoTyley.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-12">
+                                    <h4>
+                                        <a name="SpongyCastle"></a>Spongy Castle
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://rtyley.github.io/spongycastle/">WEB-SITE</a><br />
+                                    <a href="https://opensource.org/licenses/MIT">LICENSE</a><br />
+                                    <span class="tc-pagetitle">VERSION 1.54</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright (c) 2000 - 2015 The Legion of the Bouncy Castle Inc. (<a href="http://www.bouncycastle.org">http://www.bouncycastle.org</a>)
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Google_logo.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Googlegson"></a>Google-gson
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/google/gson">WEB-SITE</a><br />
+                                    <a href="https://github.com/google/gson/blob/master/LICENSE">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION 2.5</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright 2008 Google Inc.
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br />
+                                    See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Jetbrains.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Jetbrains"></a>Jetbrains Annotations
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://www.jetbrains.com/idea/help/annotating-source-code.html">WEB-SITE</a><br />
+                                    <a href="https://github.com/AFNetworking/AFNetworking/blob/master/LICENSE">LICENSE</a><br />
+                                    <span class="tc-pagetitle">VERSION: 13.0</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Google_logo.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Guava"></a>Guava
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/google/guava">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a><br />
+                                    <span class="tc-pagetitle">VERSION: 0.9.1</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/JavaDependency.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="JavaDependency"></a>Java Dependency Injection Standard
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/javax-inject">WEB-SITE</a><br />
+                                    <a href="https://github.com/google/oauth2client/blob/master/LICENSE">LICENSE</a><br />
+                                    <span class="tc-pagetitle">VERSION: 1.0</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright (C) 2009 The JSR-330 Expert Group
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+                                    <br />
+                                    See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/PkmmteXeleon.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="CircularImageView"></a>CircularImageView
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/Pkmmte/CircularImageView">WEB-SITE</a><br />
+                                    <a href="https://github.com/Pkmmte/CircularImageView#license">LICENSE</a><br />
+                                    <span class="tc-pagetitle">VERSION: 1.1</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    The MIT License (MIT)<br />
+                                    Copyright (c) 2014 Pkmmte Xeleon
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Lombok.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Lombok"></a>Lombok
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="http://jnb.ociweb.com/jnb/jnbJan2010.html">WEB-SITE</a><br />
+                                    <a href="https://opensource.org/licenses/mit-license.php">LICENSE</a><br />
+                                    <span class="tc-pagetitle">VERSION: 1.12.6</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright © 2009-2015 The Project Lombok Authors, licensed under the <a href="https://opensource.org/licenses/mit-license.php">MIT license</a>.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Crittercism.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Dexmaker"></a>Dexmaker
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/crittercism/dexmaker">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a><br />
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright (C) 2012 The Android Open Source Project
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/MichalCharmas.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="ReactiveLocation"></a>ReactiveLocation
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/mcharmas/Android-ReactiveLocation">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 0.7</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright (C) 2015 Michał Charmas (<a href="http://blog.charmas.pl">http://blog.charmas.pl</a>)
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Apache.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="CommonsCol"></a>Commons Collections
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="http://commons.apache.org/proper/commons-collections/">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 4.0</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Square.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Spoon"></a>Spoon
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/square/spoon">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 1.2.1</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright 2013 Square, Inc.
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/JakeWharton.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="ButterKnife"></a>Butter Knife
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/JakeWharton/butterknife">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 6.1.0</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright 2013 Jake Wharton
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/MichaelPardo.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="ActiveAndroid"></a>ActiveAndroid
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/pardom/ActiveAndroid">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 3.1.0</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright (C) 2010 Michael Pardo
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Google_logo.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Dagger"></a>Dagger
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/google/dagger">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 2.0</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright 2012 Google, Inc.
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Relex.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="CircleIndicator"></a>CircleIndicator
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/ongakuer/CircleIndicator">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 1.1.1</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright (C) 2014 relex
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Square.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="OkHttp"></a>OkHttp
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/square/okhttp">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 2.3.0</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/Square.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Retrofit"></a>Retrofit
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/square/retrofit">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 1.9.0</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright 2015 Square, Inc.
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/ReactiveX.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="RxAndroid"></a>RxAndroid
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/ReactiveX/RxAndroid">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 0.25</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright 2015 The RxAndroid authors
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/JakeWharton.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Timber"></a>Timber
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/JakeWharton/timber">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 4.1.0</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright 2013 Jake Wharton
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");<br />
+                                    you may not use this file except in compliance with the License.<br />
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/GeorgiEftimov.jpg" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="AndPathview"></a>Android-pathview
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/geftimov/android-pathview">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 1.0.8</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright 2016 Georgi Eftimov
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");
+                                    you may not use this file except in compliance with the License.
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software
+                                    distributed under the License is distributed on an "AS IS" BASIS,
+                                    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+                                    See the License for the specific language governing permissions and
+                                    limitations under the License.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/PhilippJahoda.jpg" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="MPAndChart"></a>MPAndroidChart
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/PhilJay/MPAndroidChart">WEB-SITE</a><br />
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 2.2.4</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright 2016 Philipp Jahoda
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Licensed under the Apache License, Version 2.0 (the "License");
+                                    you may not use this file except in compliance with the License.
+                                    You may obtain a copy of the License at
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    <a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Unless required by applicable law or agreed to in writing, software
+                                    distributed under the License is distributed on an "AS IS" BASIS,
+                                    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+                                    See the License for the specific language governing permissions and
+                                    limitations under the License.
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="row tc-pagetitle">
+                                <div class="col-md-1 col-xs-2">
+                                    <img class="img-circle author-image" src="../third_part_license/ThirdPartsImg/fresco_logo.png" />
+                                </div>
+                                <div class="col-md-11 col-xs-10">
+                                    <h4>
+                                        <a name="Fresco"></a>Fresco
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="row topspacer">
+                                <div class="col-xs-12">
+                                    <a href="https://github.com/facebook/fresco">WEB-SITE</a><br />
+                                    <a href="https://github.com/facebook/fresco/blob/master/LICENSE">LICENSE</a>
+                                    <span class="tc-pagetitle">VERSION: 0.11.0</span>
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Copyright (c) 2015-present, Facebook, Inc. All rights reserved.
+                                </div>
+                                <div class="col-xs-12 topspacer">
+                                    Fresco is <a href="https://github.com/facebook/fresco/blob/master/LICENSE">BSD-licensed</a>. We also provide an additional <a href="https://github.com/facebook/fresco/blob/master/PATENTS">patent grant</a>.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <p id="back-top">
+                <a href="#top"> GO ON TOP </a>
+            </p>
+        </div>
+    </div>
+</form>
+
+<script type="text/javascript">
+        _original_onselectstart = document.onselectstart;
+        document.onselectstart = function () { return false; }
+    </script>
+</body>
+
+</html>

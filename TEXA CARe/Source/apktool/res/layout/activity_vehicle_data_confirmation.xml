@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:tag="layout/activity_vehicle_data_confirmation_0" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/screen_signin_actionbar" android:background="@color/out_of_the_box_light_gray" android:paddingTop="@dimen/margin_default" android:paddingBottom="@dimen/margin_default" android:layout_width="match_parent" android:layout_height="@dimen/out_of_the_box_button_min_height" android:layout_alignParentTop="true">
+        <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/care_logo" android:contentDescription="@string/app_name" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/out_of_the_box_button_min_height">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:padding="@dimen/margin_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/insert_actual_km" />
+        <TextView android:textAppearance="@style/TextBoldStyle" android:textSize="@dimen/text_size_medium" android:gravity="center" android:id="@id/vehicle_data_confirm_model" android:padding="@dimen/margin_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/font_light" />
+        <com.google.android.material.textfield.TextInputLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small">
+            <EditText android:id="@id/vehicle_data_confirm_km" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="240.0dp" android:hint="@string/actual_km" android:inputType="number" />
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+    <RelativeLayout android:gravity="center" android:id="@id/activity_update_confirm" android:background="@drawable/background_gray" android:layout_width="match_parent" android:layout_height="@dimen/out_of_the_box_button_min_height" android:layout_alignParentBottom="true">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/accent" android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/confirm" android:textAllCaps="false" />
+    </RelativeLayout>
+</RelativeLayout>

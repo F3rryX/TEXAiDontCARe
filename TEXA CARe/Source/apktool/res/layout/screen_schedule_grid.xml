@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/screen_schedule_grid_0" android:background="@color/light_grey" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/emptyView" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="@dimen/margin_default">
+        <TextView android:textAppearance="@style/TextBoldStyle" android:textSize="@dimen/text_size_medium" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/why_no_schedule" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/secondary_text" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_default" android:layout_marginBottom="@dimen/margin_default" android:maxWidth="280.0dp" android:text="@string/empty_schedule_description" android:fontFamily="@font/font_light" />
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/goto_settings" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_size_medium" android:textColor="@color/ok" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_small" android:text="@string/complete_your_data_now" style="@style/TitleLabelStyle" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/secondary_text" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_small" android:layout_marginBottom="@dimen/margin_default" android:maxWidth="280.0dp" android:text="@string/empty_schedule_remeber" android:textAllCaps="true" android:fontFamily="@font/font_light" />
+        </LinearLayout>
+    </LinearLayout>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@id/screen_schedule_refresh" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/screen_schedule_recycler" android:paddingLeft="@dimen/margin_small" android:paddingTop="@dimen/margin_small" android:paddingRight="@dimen/margin_small" android:paddingBottom="@dimen/schedule_items_height" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" />
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton android:id="@id/add_new_schedule_floating_button" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:src="@null" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true" app:backgroundTint="@color/accent" />
+</RelativeLayout>

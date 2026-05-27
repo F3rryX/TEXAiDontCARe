@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/alert_central_background" android:tag="layout/alert_central_0" android:background="@color/sos_alert_background_red" android:padding="@dimen/activity_vertical_margin" android:layout_width="match_parent" android:layout_height="match_parent" android:keepScreenOn="true" android:animateLayoutChanges="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/alert_central_header" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.texa.careapp.views.CircleDisplay android:id="@id/alert_central_count_down_view" android:layout_width="100.0dp" android:layout_height="100.0dp" android:layout_margin="2.0dp" app:arc_whole_color="@android:color/white" app:display_text_color="@android:color/white" />
+        <TextView android:layout_gravity="center" android:id="@id/alert_central_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_small" android:text="@string/sos_alert_light_title" style="@style/Sos.Alert.Title" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/margin_default" android:layout_above="@id/alert_central_icon_complete" android:layout_below="@id/alert_central_header">
+        <TextView android:gravity="center" android:id="@id/alert_central_main_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/sos_alert_plus_title_manual" style="@style/Sos.Alert.Main.Title" />
+        <ScrollView android:scrollbarThumbVertical="@android:color/transparent" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/margin_default">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_gravity="center" android:id="@id/alert_central_icon" android:visibility="gone" android:layout_width="100.0dp" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:src="@drawable/phone_calling" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+                <androidx.appcompat.widget.AppCompatTextView android:id="@id/alert_message" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="@dimen/margin_default" android:layout_marginTop="@dimen/margin_default" android:layout_marginRight="@dimen/margin_default" android:text="@string/sos_alert_light_description" android:maxLines="5" app:autoSizeMinTextSize="12.0dp" app:autoSizeStepGranularity="1.0dp" style="@style/Sos.Alert.Description" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatTextView android:id="@id/alert_central_cancel_request" android:layout_width="match_parent" android:layout_height="60.0dp" android:text="@string/sos_alert_cancel" android:layout_alignParentBottom="true" app:autoSizeMinTextSize="16.0dp" app:autoSizeStepGranularity="1.0dp" style="@style/Sos.Alert.Undo" />
+    <ImageView android:layout_gravity="center" android:id="@id/alert_central_icon_complete" android:visibility="gone" android:layout_width="90.0dp" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:src="@drawable/check_mark" android:adjustViewBounds="true" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:contentDescription="@string/app_name" />
+</RelativeLayout>

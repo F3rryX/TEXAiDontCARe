@@ -1,0 +1,1 @@
+ALTER TABLE LogDataForServer ADD COLUMN status INTEGER;

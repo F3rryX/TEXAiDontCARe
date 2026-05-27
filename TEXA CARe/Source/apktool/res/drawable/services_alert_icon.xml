@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#e6010e" />
+        </shape>
+    </item>
+    <item android:left="30.0dp" android:top="30.0dp" android:right="30.0dp" android:bottom="30.0dp">
+        <bitmap android:src="@drawable/esclamation_mark" />
+    </item>
+</layer-list>

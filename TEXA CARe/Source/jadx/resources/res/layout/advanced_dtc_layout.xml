@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/advanced_error_dtc_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/lamp_status_list"
+        layout="@layout/generic_grid_error_dtc"/>
+    <include
+        android:id="@+id/lamp_status_empty"
+        layout="@layout/errors_advanced_empty_layout"/>
+</LinearLayout>

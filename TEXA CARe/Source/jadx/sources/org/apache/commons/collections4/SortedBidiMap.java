@@ -1,0 +1,16 @@
+package org.apache.commons.collections4;
+
+import java.util.Comparator;
+import java.util.SortedMap;
+
+/* JADX INFO: loaded from: classes2.dex */
+public interface SortedBidiMap<K, V> extends OrderedBidiMap<K, V>, SortedMap<K, V> {
+    @Override // org.apache.commons.collections4.OrderedBidiMap, org.apache.commons.collections4.BidiMap
+    SortedBidiMap<V, K> inverseBidiMap();
+
+    Comparator<? super V> valueComparator();
+
+    /* JADX INFO: renamed from: org.apache.commons.collections4.SortedBidiMap$-CC, reason: invalid class name */
+    public final /* synthetic */ class CC {
+    }
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textSize="16.0dp" android:textColor="@color/primary_text" android:ellipsize="marquee" android:id="@id/item_tyres_type_textView" android:padding="@dimen/margin_small" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_default" android:singleLine="true" android:fontFamily="@font/font_light" android:textAlignment="inherit"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

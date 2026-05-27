@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:tag="layout/screen_eco_driving_day_0" android:background="@color/eco_driving_background" android:layout_width="match_parent" android:layout_height="@dimen/eco_driving_day_pager_height" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/scree_eco_driving_day_item_layout_day1" android:paddingLeft="@dimen/margin_smaller" android:paddingRight="@dimen/margin_smaller" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/scree_eco_driving_day_item_score_day1" android:background="@drawable/eco_driving_item_day_positive" android:layout_width="35.0dp" android:layout_height="35.0dp" style="@style/EcoDriving.Item.Day.Score" />
+        <TextView android:id="@id/scree_eco_driving_day_item_day1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" style="@style/EcoDriving.Item.Day.DayOfWeek" />
+        <TextView android:id="@id/scree_eco_driving_day_item_date_day1" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/EcoDriving.Item.Day.Date" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/scree_eco_driving_day_item_layout_day2" android:paddingLeft="@dimen/margin_smaller" android:paddingRight="@dimen/margin_smaller" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/scree_eco_driving_day_item_score_day2" android:background="@drawable/eco_driving_item_day_positive" android:layout_width="35.0dp" android:layout_height="35.0dp" style="@style/EcoDriving.Item.Day.Score" />
+        <TextView android:id="@id/scree_eco_driving_day_item_day2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" style="@style/EcoDriving.Item.Day.DayOfWeek" />
+        <TextView android:id="@id/scree_eco_driving_day_item_date_day2" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/EcoDriving.Item.Day.Date" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/scree_eco_driving_day_item_layout_day3" android:paddingLeft="@dimen/margin_smaller" android:paddingRight="@dimen/margin_smaller" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/scree_eco_driving_day_item_score_day3" android:background="@drawable/eco_driving_item_day_positive" android:layout_width="35.0dp" android:layout_height="35.0dp" style="@style/EcoDriving.Item.Day.Score" />
+        <TextView android:id="@id/scree_eco_driving_day_item_day3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" style="@style/EcoDriving.Item.Day.DayOfWeek" />
+        <TextView android:id="@id/scree_eco_driving_day_item_date_day3" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/EcoDriving.Item.Day.Date" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/scree_eco_driving_day_item_layout_day4" android:paddingLeft="@dimen/margin_smaller" android:paddingRight="@dimen/margin_smaller" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/scree_eco_driving_day_item_score_day4" android:background="@drawable/eco_driving_item_day_positive" android:layout_width="35.0dp" android:layout_height="35.0dp" style="@style/EcoDriving.Item.Day.Score" />
+        <TextView android:id="@id/scree_eco_driving_day_item_day4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" style="@style/EcoDriving.Item.Day.DayOfWeek" />
+        <TextView android:id="@id/scree_eco_driving_day_item_date_day4" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/EcoDriving.Item.Day.Date" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/scree_eco_driving_day_item_layout_day5" android:paddingLeft="@dimen/margin_smaller" android:paddingRight="@dimen/margin_smaller" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/scree_eco_driving_day_item_score_day5" android:background="@drawable/eco_driving_item_day_positive" android:layout_width="35.0dp" android:layout_height="35.0dp" style="@style/EcoDriving.Item.Day.Score" />
+        <TextView android:id="@id/scree_eco_driving_day_item_day5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" style="@style/EcoDriving.Item.Day.DayOfWeek" />
+        <TextView android:id="@id/scree_eco_driving_day_item_date_day5" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/EcoDriving.Item.Day.Date" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/scree_eco_driving_day_item_layout_day6" android:paddingLeft="@dimen/margin_smaller" android:paddingRight="@dimen/margin_smaller" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/scree_eco_driving_day_item_score_day6" android:background="@drawable/eco_driving_item_day_positive" android:layout_width="35.0dp" android:layout_height="35.0dp" style="@style/EcoDriving.Item.Day.Score" />
+        <TextView android:id="@id/scree_eco_driving_day_item_day6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" style="@style/EcoDriving.Item.Day.DayOfWeek" />
+        <TextView android:id="@id/scree_eco_driving_day_item_date_day6" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/EcoDriving.Item.Day.Date" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/scree_eco_driving_day_item_layout_day7" android:paddingLeft="@dimen/margin_smaller" android:paddingRight="@dimen/margin_smaller" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/scree_eco_driving_day_item_score_day7" android:background="@drawable/eco_driving_item_day_positive" android:layout_width="35.0dp" android:layout_height="35.0dp" style="@style/EcoDriving.Item.Day.Score" />
+        <TextView android:id="@id/scree_eco_driving_day_item_day7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" style="@style/EcoDriving.Item.Day.DayOfWeek" />
+        <TextView android:id="@id/scree_eco_driving_day_item_date_day7" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/EcoDriving.Item.Day.Date" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,4973 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: BWWHkdIDQtW+9OmDDgFskm4IenLag2ghvhPwDOCvF6U=
+X-Android-APK-Signed: 2, 3
+
+Name: AUTHORS
+SHA-256-Digest: AWAhuDD+YXHYg7YhxHniCmi7CLn0cL86NpzdOA+tUms=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 3qeXj58oMFmqqUKI3bGn9Wyz7qbCw1YKbGOo5r3go+U=
+
+Name: Class50/lombok/eclipse/agent/EclipseLoaderPatcherTransplants.SCL
+ .lombok
+SHA-256-Digest: pNbEnKFpUHH7zZ2KrEKGV7Uz1mCQOOecTrdcC4Pwk1A=
+
+Name: Class50/lombok/launch/PatchFixesHider$Delegate.SCL.lombok
+SHA-256-Digest: tWiflADnzulD///fvBOiQcNdTe3t+moIxq5vwU3ozoY=
+
+Name: Class50/lombok/launch/PatchFixesHider$ExtensionMethod.SCL.lombok
+SHA-256-Digest: yGQ2wLDOFDUeCW/dUfv/i4KPNLGqS9Ij3acFEoZvyQA=
+
+Name: Class50/lombok/launch/PatchFixesHider$LombokDeps.SCL.lombok
+SHA-256-Digest: B1L0ORBQn2w6DAOyX7/4ZPYKo1nFFVSqRfkVLoi6Dm0=
+
+Name: Class50/lombok/launch/PatchFixesHider$PatchFixes.SCL.lombok
+SHA-256-Digest: dne7w7rFxi/TAGdEM03QkbWQoKHG0MXZKTYt4iGRzDI=
+
+Name: Class50/lombok/launch/PatchFixesHider$Transform.SCL.lombok
+SHA-256-Digest: lGwXyO8Zu0qRbQxdz9Jo1OMdDaX7okzZi9G+CmjTXIs=
+
+Name: Class50/lombok/launch/PatchFixesHider$Util.SCL.lombok
+SHA-256-Digest: KytIVl0IhZFF4lFB/iPSpDFzS1BNxZMgRY/Ne5r6nh0=
+
+Name: Class50/lombok/launch/PatchFixesHider$Val.SCL.lombok
+SHA-256-Digest: Zo70gSDRNaVWhrBAolXAjGrUIC1G17XXdhUrmTHH3DY=
+
+Name: Class50/lombok/launch/PatchFixesHider$ValPortal.SCL.lombok
+SHA-256-Digest: P0kWDcA9qG0jmpCuCjvTYQSpXrByGuLGmRqMVEDIgqA=
+
+Name: Class50/lombok/launch/PatchFixesHider.SCL.lombok
+SHA-256-Digest: kq4nSsntBJ2GyOevFLn/4WgWYyxB3LlXJv488euJzqg=
+
+Name: LICENSE-junit.txt
+SHA-256-Digest: fmtEwgkprVVrUwpicKTJn9/MMlMevQrCO86bAV8pamo=
+
+Name: META-INF/android.support.design_material.version
+SHA-256-Digest: +mjqZvbKq8GIgD0md4JLQkcVqFf6hwaFloi3nYhCk/Y=
+
+Name: META-INF/androidx.activity_activity.version
+SHA-256-Digest: ratfz4kMEa912SP/uqBfjQMS6pAxdT34zSGheHVxcoU=
+
+Name: META-INF/androidx.annotation_annotation-experimental.version
+SHA-256-Digest: 1kXi7X+0fkUVZdpJPpZVPjKTkWzOkOQjS1yiM1Loq+s=
+
+Name: META-INF/androidx.appcompat_appcompat-resources.version
+SHA-256-Digest: aVVLq2tnWevSAW9U8shs/DBulMfz9Ad630lm4jwT+is=
+
+Name: META-INF/androidx.appcompat_appcompat.version
+SHA-256-Digest: u0HmcgAsp6/Cr6dm4dpdwt7NJf3vKo6Q1KQsYK0k/pQ=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA-256-Digest: pRy/nXi+kk6toVZaAqzApmmp2d6LtJyE3tKb6ezdf3c=
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.versio
+ n
+SHA-256-Digest: bklZ/y3Re6SesUTXbG7n/N/wWgQPn6gViz3GuXIV/EE=
+
+Name: META-INF/androidx.cardview_cardview.version
+SHA-256-Digest: w3rBvX8N0psHNiJuIFiib1mKqouVqoWd0fNVacJmm6c=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA-256-Digest: cDfJYXynxmptWYHMqLR4soAlmoUcgZnR8hLK3y3QXnk=
+
+Name: META-INF/androidx.core_core.version
+SHA-256-Digest: LLGgv+RO9Nhs1boLCxXNEOGNJFhUlF6K7FguQTVsbp4=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA-256-Digest: 9NVKlG7NeVnMyrB1WgWyxDka/xV6GCB5Deq12PVcRHg=
+
+Name: META-INF/androidx.customview_customview.version
+SHA-256-Digest: sBXfV6fOpm4gx92kOvMmYlDyT3/2yEwDvZwNUXog7ZY=
+
+Name: META-INF/androidx.databinding_baseAdapters.version
+SHA-256-Digest: viXvMD2CIQWWONY9Iqbq7bTr37Qbog6k608+YbC/9Cc=
+
+Name: META-INF/androidx.databinding_library.version
+SHA-256-Digest: cZjg93MJ6z1EGHoz9wtOAUXLagl2GWDFU7jtZYSWN+w=
+
+Name: META-INF/androidx.databinding_viewbinding.version
+SHA-256-Digest: T2+YAwo9gSGkMoU7DTe7QBNww2+IRJkGYcO+c7xK5pk=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA-256-Digest: FepoKtabezo6LsjEEqbJfB5QDcrTB1jcAqG1EOfFSds=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA-256-Digest: ev1cdi6MfVTvsmeg4DxA2GqCIaAFtLjdawfK+SddtJ0=
+
+Name: META-INF/androidx.exifinterface_exifinterface.version
+SHA-256-Digest: QuPZjgQKj9QFgDqN0i0/vPPjXDYOizmhL5hH9nCJh2U=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA-256-Digest: 5TTZO1cEWxPqfkLZplyZ1FMefefscCyxs/dAv0jalic=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA-256-Digest: cXcB/K2AKR4NBsyLxMJm/YrOYXNSLW1iPNN+HpKtyZ4=
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA-256-Digest: rvTRHml/lowwz8JzJ9MT/avDzuFrIHtz1URkMIraiOA=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA-256-Digest: pdj/fsvK6p1rUHhBRAUupoWea3to1eDTkw3nAXm+kl0=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA-256-Digest: 8x2jU5cOrFo5pgQr1ysWAKXHrqK+8sqHGNAcrAjLtyM=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA-256-Digest: fDmEvpenTm5mTYkyVnK3a9zbX9wLVOfjOj42g9gDOkk=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: DD0J+lKUKnPYPH8hPNkp3tt0QGRqwBvUpCd2lMYHAec=
+
+Name: META-INF/androidx.lifecycle_lifecycle-service.version
+SHA-256-Digest: /sA+ac30V8UK/JWg33PfLK5QR3NewD7L1XcZcjsilf0=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.versi
+ on
+SHA-256-Digest: SD4vgLcG8Fx727UQFldBF7kfsiuvfsJwA55RL6ScmGU=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA-256-Digest: SddsFd86Gsf8AIdcjLKug4nvdUbvgxErIpR++U3cxcg=
+
+Name: META-INF/androidx.loader_loader.version
+SHA-256-Digest: U/8Mggt0wI0pqD9haINJnmP8D0bZQQ02nLntwOd7zfc=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA-256-Digest: PijU9R/BimvNPa/7jal2sPSzNwBCxKTMTCjOJajqIWE=
+
+Name: META-INF/androidx.percentlayout_percentlayout.version
+SHA-256-Digest: 8q7mKOjZoimPeJ1VvNpaEVrHCDNAOeS7Nr+4mVxednA=
+
+Name: META-INF/androidx.print_print.version
+SHA-256-Digest: GyoSUnks4q5sEJOfOqlgJVt3iSxcu3SprMMpsSskYIk=
+
+Name: META-INF/androidx.recyclerview_recyclerview.version
+SHA-256-Digest: v1Imm+sGjZ3vt4y25kFk/1+ABwWVTVgqii9YEmhfYT8=
+
+Name: META-INF/androidx.room_room-runtime.version
+SHA-256-Digest: LlmvsuEBHFIcRHIxMijG+rPD39PPNaAKk2GEmxUDZWM=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA-256-Digest: h0cR4mvbqpulHWOR9CheSn8aWLc6aoba45bYicZBPOk=
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA-256-Digest: rL2bSVamCE8QaingtXg1r4vOaWuDSleXfM5SAVsctgA=
+
+Name: META-INF/androidx.sqlite_sqlite-framework.version
+SHA-256-Digest: aCJOhS+HkQabjHUDW+K6kcmUF2rG4DmEoBKLMBldhNM=
+
+Name: META-INF/androidx.sqlite_sqlite.version
+SHA-256-Digest: owcdBnhbHq2Nu7180bRozZDs541a6544myaIgfk3SCE=
+
+Name: META-INF/androidx.startup_startup-runtime.version
+SHA-256-Digest: 9RyWNanCZpe29rDIS6Y8pIxGM5vcWlkQFNo1/+nU/6k=
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA-256-Digest: kJbqeLZJ2OGRUxQpbzYDTfK1jtj3rjkMKemaqYpn0uY=
+
+Name: META-INF/androidx.tracing_tracing.version
+SHA-256-Digest: JH1h4G4PJTQ7Lfk4BRGypl727qvMGl63/MF/nb+FB0Y=
+
+Name: META-INF/androidx.transition_transition.version
+SHA-256-Digest: MjTjHT2FjSElohYhpDtQD9T8rT8Zgl6DLJif17etEO8=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable-animated.version
+SHA-256-Digest: wqCaKhd9lUrhrwsPIu2b0kz+XlDwwNZPH+9GyrRtU+E=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable.version
+SHA-256-Digest: SxJ5Gle3gvkgInXn6Ufnwb2kXx0fr2pgozqmeXMTFOs=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA-256-Digest: s/0pgtuKcRTX+BvAcqcODytXp6q48QathsOscGo3Zzg=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA-256-Digest: vU90lQInBk3t53YggAT4tlv1ISvSbqeBYu+DYpKtTeQ=
+
+Name: META-INF/androidx.work_work-runtime.version
+SHA-256-Digest: 3An7MQdcCwLbmG3pi97oCzr9AfGWZxLuLYIBVooet2g=
+
+Name: META-INF/com.google.android.material_material.version
+SHA-256-Digest: PODgWVmxc57ui6paLQw0ReDLlqMvnYa1T5PX/r7/+u0=
+
+Name: META-INF/com.google.dagger_dagger.version
+SHA-256-Digest: zmFwS64V/dkxbN4sCHh46nCd/IsMZH3U4uZGF/yAdaM=
+
+Name: META-INF/gradle/incremental.annotation.processors
+SHA-256-Digest: BLj6OnQz9nkjl0+4313+kCknp0LTHCwqrHnWcFC/7bA=
+
+Name: META-INF/services/javax.annotation.processing.Processor
+SHA-256-Digest: eX6fHc7UqQVNZL+69Gy5xzhFQhZyeOKOVk88i7piP90=
+
+Name: META-INF/services/lombok.core.LombokApp
+SHA-256-Digest: wFwOjQfbM34d5dxMwH5AzuUM2OCGPuRAKyqdYDw8W1M=
+
+Name: META-INF/services/lombok.core.PostCompilerTransformation
+SHA-256-Digest: wOJrsjRh+smRjJAMdTcTWij2SY60Z9KgJkFUWmOXa6o=
+
+Name: META-INF/services/lombok.core.runtimeDependencies.RuntimeDepende
+ ncyInfo
+SHA-256-Digest: 76uGDCKp7749UK5BVnywUNg3qhgNrnaM+cDphkUA4X8=
+
+Name: META-INF/services/lombok.eclipse.EclipseASTVisitor
+SHA-256-Digest: j9gFGfdcWcUq3GTpprwPIHg3JVH/cghZRQSS5j4Sf8U=
+
+Name: META-INF/services/lombok.eclipse.EclipseAnnotationHandler
+SHA-256-Digest: lWBZGBYeN7+d5H8cIX0a0I5qIE2aMcriJOg0jz/3Tjs=
+
+Name: META-INF/services/lombok.eclipse.handlers.EclipseSingularsRecipe
+ s$EclipseSingularizer
+SHA-256-Digest: Dh1FTUlbJ1jEpFvlUkpbz4l+1SHA4BdmRsZUCkNhn9w=
+
+Name: META-INF/services/lombok.installer.IdeLocationProvider
+SHA-256-Digest: jTDC+GshjG2268jNR8gPX+fipHNfmK34Ll1FcOC//KY=
+
+Name: META-INF/services/lombok.javac.JavacASTVisitor
+SHA-256-Digest: O2CJs1Cp8VrB7ZsqERJrgeS9upP2d9biiTN9S5jHvB8=
+
+Name: META-INF/services/lombok.javac.JavacAnnotationHandler
+SHA-256-Digest: WDyZyqABwXfRndI7s/26sZ/pN6xhsPLl6Sx7Nw5npz0=
+
+Name: META-INF/services/lombok.javac.handlers.JavacSingularsRecipes$Ja
+ vacSingularizer
+SHA-256-Digest: /b7hNk32hLgdwMUwTr4W2f0lpooZ2f1d0DhWBXol+io=
+
+Name: META-INF/services/org.mapstruct.ap.spi.AstModifyingAnnotationPro
+ cessor
+SHA-256-Digest: xozAr6keLgLffD5ux5fgSG8ND3YXuo34zdqKS2nszjw=
+
+Name: androidsupportmultidexversion.txt
+SHA-256-Digest: /ozB4iWCv4KQhBIH6rZJtXMfwltgyz6k/votYXVgXCA=
+
+Name: assets/Installation_helper.pdf
+SHA-256-Digest: PdfGTBYH1T5S3iuNSTFRq0niNu0bwzPv6P32uNQmaFQ=
+
+Name: assets/migrations/10.sql
+SHA-256-Digest: V/ONnBaAGjtYzBAoqx8hQJe61V4XnLyNNdnL8hF6buk=
+
+Name: assets/migrations/11.sql
+SHA-256-Digest: yUVHJZO9JJupyQkuwyvd7udUbTUpaxYtdIzgSO6uy4A=
+
+Name: assets/migrations/14.sql
+SHA-256-Digest: TXS/IJZjc0jvNj8L5Qn6TEw0RJXeboAv89Uhyq3T7FI=
+
+Name: assets/migrations/15.sql
+SHA-256-Digest: HU9cQTqzAfOiHlUIalg/M1rR7nWU8hbQrJimlQIEdtE=
+
+Name: assets/migrations/16.sql
+SHA-256-Digest: lzHMoJmYkAm0zu0dE3Ch8RHEL25sImt22GUXQfK16Ks=
+
+Name: assets/migrations/18.sql
+SHA-256-Digest: /Og3t1G4cEXG4et7QTHDtZYPAGhjhLJii2p70qvfE6k=
+
+Name: assets/migrations/19.sql
+SHA-256-Digest: CJrP5svjiKbqV7Hvssxbd+2qTiMPoZjqn7gPKTQSLDU=
+
+Name: assets/migrations/24.sql
+SHA-256-Digest: CFAX78ZEjhR+DwZknDNyAvPLMqai81UTom1+gPejXd8=
+
+Name: assets/migrations/32.sql
+SHA-256-Digest: m/jF8T1FMxxUbYmPMIBrUwxTeNtJCt6+pAV6ZYpD+zo=
+
+Name: assets/migrations/34.sql
+SHA-256-Digest: T2mCr6fJIhzqUCkaquZrhhXh+KGaQ6MM+WTMvaHKl48=
+
+Name: assets/migrations/36.sql
+SHA-256-Digest: G+8eyoSRpmjEaXHQPOAvyYsy9KVVQNU1AmrzTDLmqaM=
+
+Name: assets/migrations/4.sql
+SHA-256-Digest: qeifklUZD8RIZ/WuxxzylRt/A/gBA74JtWvvqea+TLc=
+
+Name: assets/migrations/5.sql
+SHA-256-Digest: PN+50Uz9wYzryPeIiUKs87GqrBoMfIxS1C9BnJuB75w=
+
+Name: assets/migrations/6.sql
+SHA-256-Digest: nvt8OGfbt99Ir7yo28JU1pvJ/DGAIqRW/HKbKoKFkRA=
+
+Name: assets/migrations/7.sql
+SHA-256-Digest: ADlcyDhE1fF/7HByaPWIsAuRy5J1BCSiuAQWEiTbD9s=
+
+Name: assets/migrations/8.sql
+SHA-256-Digest: TD0XWSknnAlt0PkGAwhEyhAqz+n2Jb6hbLsWNagoRdg=
+
+Name: assets/migrations/9.sql
+SHA-256-Digest: B8/t9AbM2PN/NhpUX1b5xIcxkVJleZSXIQL42fPXnrU=
+
+Name: assets/third_part_license/Style/bootstrap-theme.css
+SHA-256-Digest: 9NAALgsxhd47KWJoVtdEollSQfrFXt2XMPZy1c1TLbc=
+
+Name: assets/third_part_license/Style/bootstrap.css
+SHA-256-Digest: Ijm9L3LSCq34zvhoVyulETz0fItYPYgDsfMVrnsU1SM=
+
+Name: assets/third_part_license/Style/care-style.css
+SHA-256-Digest: JmJuRNiEFBKhG/kS0pJ3FdBdB8gFqC5zlTfbUfKoBDE=
+
+Name: assets/third_part_license/Style/css/glyphicons-filetypes.css
+SHA-256-Digest: R07A2vkH0abpLjQFSGPD1krkpMXbcE2BCe2bZQ1OncQ=
+
+Name: assets/third_part_license/Style/css/glyphicons-halflings.css
+SHA-256-Digest: PVp3XW/s+E1sI3jnSZq+MQVOC3a5/er6NOgF9HvbEkM=
+
+Name: assets/third_part_license/Style/css/glyphicons-social.css
+SHA-256-Digest: KHmjSP9lDWTxo28nTU4SKHnp8dvHAxfBC++HeWnUzG0=
+
+Name: assets/third_part_license/Style/css/glyphicons.css
+SHA-256-Digest: 1IA6lw4BeQ1KeONUXCL+HhO2nP0JNHA7anyaqNSgFGs=
+
+Name: assets/third_part_license/ThirdPartLibraryAndroid.html
+SHA-256-Digest: A0gnU+Bjyh6A9J9zCSKAvMamyG/GxMeUvlaA4TQD7bM=
+
+Name: assets/third_part_license/ThirdPartsImg/AFNetworking.png
+SHA-256-Digest: UMp74iYNPSeo8Yd78qw6AdBfvnae7bLmWGz7HYS1CmA=
+
+Name: assets/third_part_license/ThirdPartsImg/Apache.png
+SHA-256-Digest: XuPxvbw//5eV1M9Qaoa2Ua1xTimg9PYfTNetgyyL7FA=
+
+Name: assets/third_part_license/ThirdPartsImg/Crittercism.png
+SHA-256-Digest: p8inx6XVIcEPehM3mF0t5/8fqNnk7f5m5YwIA7SvMx8=
+
+Name: assets/third_part_license/ThirdPartsImg/GeorgiEftimov.jpg
+SHA-256-Digest: 6dKYQiIbtdnrjaw6e8ipDlRBYASIwd4h+tVcEAHjxdw=
+
+Name: assets/third_part_license/ThirdPartsImg/Google_logo.png
+SHA-256-Digest: jhBPv8sZhpX4sFoOPXmimdvj+YMn49srmyZSQdMz5/s=
+
+Name: assets/third_part_license/ThirdPartsImg/JakeWharton.png
+SHA-256-Digest: RggOfCFOk1jQbUxhPHj0vb9lVSYDeK/0fjeBHBIrCqY=
+
+Name: assets/third_part_license/ThirdPartsImg/JavaDependency.png
+SHA-256-Digest: pOSOGsFDaT2W/DQqR5DzlCLhYITjfbmUuuCeCyWChks=
+
+Name: assets/third_part_license/ThirdPartsImg/Jetbrains.png
+SHA-256-Digest: e15WYZfBBvxVLq7rCPtPIT6p5rESskc7nFIx/6VIxnk=
+
+Name: assets/third_part_license/ThirdPartsImg/Logo.png
+SHA-256-Digest: XdADzUwdB41bVFpa/423BaFfYHwOXB+x8PITYqB2wJQ=
+
+Name: assets/third_part_license/ThirdPartsImg/Lombok.png
+SHA-256-Digest: iTPrJmNtcesvrU0cMeNhY7E927GvMKoFfQsMzmByT8o=
+
+Name: assets/third_part_license/ThirdPartsImg/MagicalPanda.png
+SHA-256-Digest: uIAkfv4TW9AtFFrHKQYuOI+WdKCwmCsVxVpyzphOJNo=
+
+Name: assets/third_part_license/ThirdPartsImg/MatejBukovinski.png
+SHA-256-Digest: nsn2ZAhmOJxRNKwkXpPtporoFQPKvELjs1ZVagKyYeQ=
+
+Name: assets/third_part_license/ThirdPartsImg/MatthewYork.png
+SHA-256-Digest: pdFO74nGufxpqwDb7Q3zVJRQ+RnNT3wn0IkesDiIk2g=
+
+Name: assets/third_part_license/ThirdPartsImg/MichaelPardo.png
+SHA-256-Digest: UfG+R18/TAFiv76U3m12HdGI2LANY54llEgP5TQ/Tx0=
+
+Name: assets/third_part_license/ThirdPartsImg/MichalCharmas.png
+SHA-256-Digest: 41i/GzjtH+g64YujcES5zPoolts9bD9SZN5zuRO/Vi8=
+
+Name: assets/third_part_license/ThirdPartsImg/Monospaceltd.png
+SHA-256-Digest: HBVuDxB1CZvn8YmrneG0j2iMQNY42g5QSY9kZUXoWzA=
+
+Name: assets/third_part_license/ThirdPartsImg/PhilippJahoda.jpg
+SHA-256-Digest: zjxKIVcz97ToDJjYwtBywn4HGSt3dSTTTUGyqWl77iw=
+
+Name: assets/third_part_license/ThirdPartsImg/PkmmteXeleon.png
+SHA-256-Digest: Qf+dhCCZ4ErkJ1p0FO7w1hxkwEZIGsoYnee2boZupk8=
+
+Name: assets/third_part_license/ThirdPartsImg/ReactiveX.png
+SHA-256-Digest: x+LhVXIuJ1NzjedsUC03z52jGoX/qkocLbuww0A3LGk=
+
+Name: assets/third_part_license/ThirdPartsImg/Relex.png
+SHA-256-Digest: xZyU7EWdnJ/MvjhJWxhS66khBJfgRWMoAiRoqw8249I=
+
+Name: assets/third_part_license/ThirdPartsImg/RobertoTyley.png
+SHA-256-Digest: zh+OnoTL1NfYcLaQe7sbfVro5vj1tacsG16GxYxvs1g=
+
+Name: assets/third_part_license/ThirdPartsImg/Square.png
+SHA-256-Digest: lboHkh+Oq7f0lTc8Xt91qQtK/htyV6ovGatp/G13TAc=
+
+Name: assets/third_part_license/ThirdPartsImg/crashlytics.png
+SHA-256-Digest: GSXqbZSTivd700AoDX+RFRzdUPsJuNBWwbiT6J9452k=
+
+Name: assets/third_part_license/ThirdPartsImg/fresco_logo.png
+SHA-256-Digest: l75MlSrpXMHATtR+DfsGpdvMbxKacFfB0S34NFHEch4=
+
+Name: assets/third_part_license/ThirdPartsImg/nxtbgthng_oauth.png
+SHA-256-Digest: AxE1yTK5xFXLfDwd+DXQ3Ay1XSouSWaqXcpQTrJOzOg=
+
+Name: billing.properties
+SHA-256-Digest: w1QFmWJGGOFE2rMTerEh5B4gH2F4+PP37u/uuTSPeXY=
+
+Name: changelog.txt
+SHA-256-Digest: fGTEYX8qCGblZqEJsVrO1n1V/W/NcJoJCcpqxxouYZA=
+
+Name: classes.dex
+SHA-256-Digest: ronY4N6gbMPIElXnqLFD3dVjDdUlLzD1gFU/meWetqc=
+
+Name: classes2.dex
+SHA-256-Digest: Nt3S2vpSSlg1xA70JoMksa7OiugxBESt0s9SoRg0l84=
+
+Name: classes3.dex
+SHA-256-Digest: DdBfgs2xsYyTbT5xRrxwnYG3wb99HFCnsSa+//ww718=
+
+Name: com/robotium/solo/RobotiumWeb.js
+SHA-256-Digest: Gecn2AyEu4Cco5KSgfYQyDTNHdgzw9fxFMUgMYkArJ0=
+
+Name: com/zwitserloot/cmdreader/CmdReader$1State.SCL.lombok
+SHA-256-Digest: vqrdaPJUjNhG5gUHp7ScwGmyxfbQuCNk5KkpqehPl3k=
+
+Name: com/zwitserloot/cmdreader/CmdReader.SCL.lombok
+SHA-256-Digest: aN8SkAhexlTIkAE3atlgdZxVsAuynB5cannz+0ucvnA=
+
+Name: com/zwitserloot/cmdreader/Description.SCL.lombok
+SHA-256-Digest: huG0bUVFEeY1FGM1CzsyPQtAB+Q4gRk4K+bbR8RXrno=
+
+Name: com/zwitserloot/cmdreader/Excludes.SCL.lombok
+SHA-256-Digest: Mo1M80OroVQcY6CdCdAGwZTKxD5EX1LmNNSCOnwzBy4=
+
+Name: com/zwitserloot/cmdreader/FullName.SCL.lombok
+SHA-256-Digest: j8CnoGmyXDWhvSGklKTP0eP0aEBWAT/JGXcNLe+y5mU=
+
+Name: com/zwitserloot/cmdreader/InvalidCommandLineException.SCL.lombok
+SHA-256-Digest: Ie8FD2dH/dx/Xb4uLbs1AFwSpISPGn9YqRTRyDPnH5E=
+
+Name: com/zwitserloot/cmdreader/Mandatory.SCL.lombok
+SHA-256-Digest: IRGjXu+9Fc6RHZ9svgxppCS2MsP3y12cmK+W8IIMQ8k=
+
+Name: com/zwitserloot/cmdreader/ParseItem.SCL.lombok
+SHA-256-Digest: 5HBX7FMatXvZFJeJO6NQpUqMmlEf4EJ3GXpdebar4IQ=
+
+Name: com/zwitserloot/cmdreader/Requires.SCL.lombok
+SHA-256-Digest: CKT3O2VkXPupvhcNSqwPHh17S9rjptwj2CtmGl7gC4o=
+
+Name: com/zwitserloot/cmdreader/Sequential.SCL.lombok
+SHA-256-Digest: R8skH7bkpIIRpxBfLIp6TdwikUgwsDWvP8WF6GuQ3zQ=
+
+Name: com/zwitserloot/cmdreader/Shorthand.SCL.lombok
+SHA-256-Digest: qnFfNMZ3knKgtdl9OceMnzdgq1sYltcs/n4RzOrFz/c=
+
+Name: firebase-analytics.properties
+SHA-256-Digest: gU+d4qW4uHTH7noTfbDFok4D0MA+5IRiWo3HtiyU4T4=
+
+Name: firebase-annotations.properties
+SHA-256-Digest: JPa6k3gBueYLarXzROtk6V9W0gGsz5rKAq+puPSNXKA=
+
+Name: firebase-appindexing.properties
+SHA-256-Digest: xjlOT1OvtyS6VmPDtoE1K/BY3loNDVGen5/cIbqBSm8=
+
+Name: firebase-common.properties
+SHA-256-Digest: Bh2Hm3acxZDeaWfxURpr/uwfmzDu5zvN0DzbqtsD3fs=
+
+Name: firebase-components.properties
+SHA-256-Digest: hE5+c7gJZBmypRm0vVlcsuvVQt/21Muua3xrhBaoi+c=
+
+Name: firebase-core.properties
+SHA-256-Digest: PlpKI0hAn/8q2QMyYYJ9wU7crAw1RGUOj+m1MvGPxEI=
+
+Name: firebase-crashlytics.properties
+SHA-256-Digest: 72amQAukfbKwPoid1C8lIYpcVvC2efm6IHE25NkENIg=
+
+Name: firebase-datatransport.properties
+SHA-256-Digest: 1koTlFpvpLx8kigkBBor9QtA5PX/iG3irVvlBuwa5NU=
+
+Name: firebase-encoders-json.properties
+SHA-256-Digest: 7wdGW/TuhesJEVypn0Hmz90an0c0WtXHM8RT/eTtOB4=
+
+Name: firebase-encoders-proto.properties
+SHA-256-Digest: dKNRhDhPvwf43ImIiwUow1t+CxUQ/NFaN657T4NLJCA=
+
+Name: firebase-encoders.properties
+SHA-256-Digest: CjVWjqcqSx0qISlwM0nXsygTQ+bOlscG9Dm1F745xT8=
+
+Name: firebase-iid-interop.properties
+SHA-256-Digest: JMijvxRAdsjFPX85sP9oFxuYsUEE8WaouysbvifYO7s=
+
+Name: firebase-installations-interop.properties
+SHA-256-Digest: fS4r5YtPz+JZalGxAieV5lW78ElBbgUVxgV9JvpOMEY=
+
+Name: firebase-installations.properties
+SHA-256-Digest: hpy97DVp8Y3pbdiqBzocYzlVTZnUW4b5yyiIMe4tNJw=
+
+Name: firebase-measurement-connector.properties
+SHA-256-Digest: pmWu7Wzi99P4Y/XWMfCq68k0wv8aSAhYZL5+PECOvVA=
+
+Name: firebase-messaging.properties
+SHA-256-Digest: f8PliPNeyVg9qsU1nZow57tiWVVpjU3pPdsOYCkTiT8=
+
+Name: junit/runner/logo.gif
+SHA-256-Digest: ZNYwhg3h4PNj5yJ09XjFcvkleBe7tQH7Z9lB2HY+/W0=
+
+Name: junit/runner/smalllogo.gif
+SHA-256-Digest: i3XszUGBcsCyhZodPsbxpxmWxEDa7eDS7K8jjYe7PWc=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA-256-Digest: 2kZfon1lRo0UGgaGv88sZi7sEP+awuzOStpYx9cLGdc=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA-256-Digest: Q7jZRv9+2qLROmcpCDWJWzGOsq/s4QM2TNcA5RrXm70=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA-256-Digest: QETf+Rc+3vjnIqvzEpc9ejAXaloigQfzV2j4bU5faEU=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA-256-Digest: QpIzSzrENMtt2HiEaPGEbDVFvKbWqAIZwbj9IJOkDOI=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA-256-Digest: ivxov2N9pjMLKy8oWCW5Af1cpanFsDe1EGUzq0RPEwg=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA-256-Digest: TJdvlVJY5fkbaAnm4hALqSoUpQG9Fbfi8t9Ru+pXua8=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA-256-Digest: jQBOQkJjN00xf407pYHlvktVk8m3ybiFxtUkHrz04yc=
+
+Name: latestchanges.html
+SHA-256-Digest: EzJLHaNO/L2ZmvLM7RDjLwhBHP0eiQagkwnYlW5ABz0=
+
+Name: lombok/bytecode/AsmUtil$1.SCL.lombok
+SHA-256-Digest: BBQiriBqVY1scbF7FrwIpiMXzLQPM6XZ3hwRpKdKidA=
+
+Name: lombok/bytecode/AsmUtil.SCL.lombok
+SHA-256-Digest: OHVCwavWHw/LElBAESEnCPvSDXh66tcZDZEdWJLBKR0=
+
+Name: lombok/bytecode/ClassFileMetaData.SCL.lombok
+SHA-256-Digest: nMIQjmgj6r+hAXwQQBVQYqrpmckIlDRWlPt8x4Aqpt8=
+
+Name: lombok/bytecode/FixedClassWriter.SCL.lombok
+SHA-256-Digest: iOfmwXyUXFlQYO+K9ePeReyYSsI8N44ScXsMUQhrWrg=
+
+Name: lombok/bytecode/PoolConstantsApp$CmdArgs.SCL.lombok
+SHA-256-Digest: lzOiPZ3HoAVY/02ZFB3A+/9etGYsrQH9fmsXJTyQuxQ=
+
+Name: lombok/bytecode/PoolConstantsApp.SCL.lombok
+SHA-256-Digest: 73+ByqQC6Kksrb0Yg0c11SA3EONnnf/T5cRwFmPOeqI=
+
+Name: lombok/bytecode/PostCompilerApp$CmdArgs.SCL.lombok
+SHA-256-Digest: IoPLKtoTy1eJ56C1nGqUQ2H1nof+4oGM86HLVaWp7Ws=
+
+Name: lombok/bytecode/PostCompilerApp.SCL.lombok
+SHA-256-Digest: eOXbN9cYqOSQ6YiA1Gjr27H4a54OBq2IEnsCFs1Ajgc=
+
+Name: lombok/bytecode/PreventNullAnalysisRemover$1.SCL.lombok
+SHA-256-Digest: zWPR2My+/Nw/WsKPeTPWeF31BCyawigxGxyZFHL3kiU=
+
+Name: lombok/bytecode/PreventNullAnalysisRemover$1PreventNullAnalysisV
+ isitor.SCL.lombok
+SHA-256-Digest: DtlzkKAP4t//hRwD8G4ndr22ASDLtDXa7EoHxcHm9o4=
+
+Name: lombok/bytecode/PreventNullAnalysisRemover.SCL.lombok
+SHA-256-Digest: StlAWyNnbHgffvFK84rcRZ9v4kNJWQYFdq5DyljMNG0=
+
+Name: lombok/bytecode/SneakyThrowsRemover$1.SCL.lombok
+SHA-256-Digest: 86i3+vYmtDpPquS6tdIBqNVDuLF1myNwcAImanrsuLo=
+
+Name: lombok/bytecode/SneakyThrowsRemover$1SneakyThrowsRemoverVisitor.
+ SCL.lombok
+SHA-256-Digest: 2dnu72KEax3oRM0kAh0S2ajmJsrv1kT6eqo2lj2MkEE=
+
+Name: lombok/bytecode/SneakyThrowsRemover.SCL.lombok
+SHA-256-Digest: sS0qInchlZUTfochkYnH/i1eK5iDe7DEcjp/7w5ArPE=
+
+Name: lombok/bytecode/package-info.SCL.lombok
+SHA-256-Digest: ZROq4xlkVOZINfnSknhjKDtoaNwkyfd4jtQ6G6Beeck=
+
+Name: lombok/core/AST$FieldAccess.SCL.lombok
+SHA-256-Digest: 2B0xRtTTEO7nAtzsjpoIbug5EJ/lo63eBtt6ImuhCIM=
+
+Name: lombok/core/AST$Kind.SCL.lombok
+SHA-256-Digest: TaHA29H0wCELsApC61hMWsEy78j1TAQVR0CMnC1HYYk=
+
+Name: lombok/core/AST.SCL.lombok
+SHA-256-Digest: uUmrCcP29h/WThDzttc/hYVx6Ex4XbwvB7NKonejSnI=
+
+Name: lombok/core/AgentLauncher$AgentInfo.SCL.lombok
+SHA-256-Digest: FWvfQX2+kEjbSNX93Dabl0FY4MmkSecUZmhFnO1ZJgE=
+
+Name: lombok/core/AgentLauncher$AgentLaunchable.SCL.lombok
+SHA-256-Digest: LMO1fqNZPIEKuMpp0jBPvP55zvhF/08NZ3tuO07980I=
+
+Name: lombok/core/AgentLauncher$EclipsePatcherInfo.SCL.lombok
+SHA-256-Digest: LXJrQJnTLYfhC3FgDiTql8WYZZUMTFbjAvA+ohPoGfU=
+
+Name: lombok/core/AgentLauncher.SCL.lombok
+SHA-256-Digest: c5fvXZjhEGgPrn9GPiLSP4OmBkC/x/zBtAggNLqj4Vs=
+
+Name: lombok/core/AlreadyHandledAnnotations.SCL.lombok
+SHA-256-Digest: IYpd2yeLLLq0JYmmSSsu+oQeCosX4z0A3n36YVtnlHo=
+
+Name: lombok/core/AnnotationProcessor$EcjDescriptor.SCL.lombok
+SHA-256-Digest: C4Nq1sIkmUN7oRRhPE+G2PsPEFuhobm7qOwWZSY5iec=
+
+Name: lombok/core/AnnotationProcessor$JavacDescriptor.SCL.lombok
+SHA-256-Digest: Oh3S18bjO1PXfDJl89PUS9WYqoWfz+4I80whi+Mf/SA=
+
+Name: lombok/core/AnnotationProcessor$ProcessorDescriptor.SCL.lombok
+SHA-256-Digest: 5UCDOMTXc40OA9favfbbUH2qvXxMRESZ6FMCBP1GAdg=
+
+Name: lombok/core/AnnotationProcessor.SCL.lombok
+SHA-256-Digest: Jr4Wd6ZZgIM6XElyjsNhvL3fwJUi0OMmo3YqU3ffqAw=
+
+Name: lombok/core/AnnotationValues$1.SCL.lombok
+SHA-256-Digest: Y683fx7jFEjI04jQWGEB2DMpx3FANx97EuvfWhflfPw=
+
+Name: lombok/core/AnnotationValues$AnnotationValue.SCL.lombok
+SHA-256-Digest: ySNOp8fqAwSJlKjrtCZe4AJMKi83rdsnu1jFtqW1vyQ=
+
+Name: lombok/core/AnnotationValues$AnnotationValueDecodeFail.SCL.lombo
+ k
+SHA-256-Digest: C/fmmmC7MSBtmr3FU6/xK+PJH+34GATGuwF5d5DtHcg=
+
+Name: lombok/core/AnnotationValues.SCL.lombok
+SHA-256-Digest: /FBfR6XaxloRib2n475DNg5RNEWONRwvuGmcuH8Qj/8=
+
+Name: lombok/core/Augments.SCL.lombok
+SHA-256-Digest: jycLgFJ5eb+xYKyxyqWuWlOtvdTnLh+ApJ3aZZEZGAk=
+
+Name: lombok/core/ClassLiteral.SCL.lombok
+SHA-256-Digest: gTmWSZMze0IFpWk6GStQjdUFeDcPm+TpX4IUhcbCz+4=
+
+Name: lombok/core/CleanupRegistry$CleanupKey.SCL.lombok
+SHA-256-Digest: xRD6nuXvG40RBVN5eKlglHgCmVmaTDh2dhsMWAljUXw=
+
+Name: lombok/core/CleanupRegistry.SCL.lombok
+SHA-256-Digest: ffT+G+iER6HGvCioiwfixFeDBgUs7qAI/HfU4XtPJcw=
+
+Name: lombok/core/CleanupTask.SCL.lombok
+SHA-256-Digest: AEOy43OHZM8CqeLKxDVfO+AebMdBND77700LqHTAAT8=
+
+Name: lombok/core/DiagnosticsReceiver$1.SCL.lombok
+SHA-256-Digest: hq0/hsVpi5f1uuWfWrTYrc8coiXsLLr9EVLG5u85XJ4=
+
+Name: lombok/core/DiagnosticsReceiver.SCL.lombok
+SHA-256-Digest: TX3v777r1B4Xlun3zyT2QmoImq7t4Z7tJwhKp4xdsfM=
+
+Name: lombok/core/FieldAugment$MapFieldAugment.SCL.lombok
+SHA-256-Digest: xfDFIewaelwBe5VPSHo0MRSL0Tzz6+z2R0dpml/1xCc=
+
+Name: lombok/core/FieldAugment$MapWeakFieldAugment.SCL.lombok
+SHA-256-Digest: I2RD2DUl/ao+mt5Rex/ztAD+ehEq0nwERUhdmZ+t0Go=
+
+Name: lombok/core/FieldAugment$ReflectionFieldAugment.SCL.lombok
+SHA-256-Digest: Rq+YMNcqsMseA8xYeo8dYKo3bdFoblWRCnlTayIdZQc=
+
+Name: lombok/core/FieldAugment.SCL.lombok
+SHA-256-Digest: gvc/sr0kLy8kakD2LRXSJYZUyv8oSJBZ9ypPooJEnI8=
+
+Name: lombok/core/FieldSelect.SCL.lombok
+SHA-256-Digest: mekKFeWVuA74vKDDBeRNYoDgiGimVrMa0kyKrOWh6h8=
+
+Name: lombok/core/GuavaTypeMap.SCL.lombok
+SHA-256-Digest: rzEF22JMi606m4/C5CrNBBAxKRQZCjdjXEorBkRyIws=
+
+Name: lombok/core/HandlerPriority.SCL.lombok
+SHA-256-Digest: 4/lC0r5TkkSwvY7lcERrZlgXBrP53kiLsosRefuTTVs=
+
+Name: lombok/core/ImportList.SCL.lombok
+SHA-256-Digest: LcuhKoJutsRPdXDHvFmBFpiV3afgFoYuHhbIu+Vfg1U=
+
+Name: lombok/core/JavaIdentifiers.SCL.lombok
+SHA-256-Digest: mhd88VaEfXNs/ORz2pqWBuucF0UF95UXefyQO8T8mtw=
+
+Name: lombok/core/LombokApp.SCL.lombok
+SHA-256-Digest: 2wavkKq9Zcu1BIoCnn/22pWPNIDjItxsiy5cqkEUxJM=
+
+Name: lombok/core/LombokConfiguration$1.SCL.lombok
+SHA-256-Digest: pobN1IHAlw4HV8Lip52NVdJVYVlcrjqBc2CBNOYUB48=
+
+Name: lombok/core/LombokConfiguration$2.SCL.lombok
+SHA-256-Digest: 0ti8b9vayXsOBhtg3BivRIn37oRzlL3jzHGtIzrdMFM=
+
+Name: lombok/core/LombokConfiguration$3.SCL.lombok
+SHA-256-Digest: uh3vpsMRZR55tH4Qljg7DkDFc2wjDrKth7a650uPJO0=
+
+Name: lombok/core/LombokConfiguration.SCL.lombok
+SHA-256-Digest: Q1Mr22TCPnAwQxut73Sq75D43vI2itLbeQE0Wk5P7L4=
+
+Name: lombok/core/LombokImmutableList$1.SCL.lombok
+SHA-256-Digest: 8ELQTdg9IEpkRjXTqSoX2AueCtfmDrqXtB8eh77Ibps=
+
+Name: lombok/core/LombokImmutableList.SCL.lombok
+SHA-256-Digest: R6Qvu4IV3uIGvfXw2YQ0Xx0GmzMOCVLMMVShNf9+SO4=
+
+Name: lombok/core/LombokInternalAliasing.SCL.lombok
+SHA-256-Digest: wbnXm6bt4nx+oY+8MN+CWU5B7Zyxd/IxjdUU8eHfWm8=
+
+Name: lombok/core/LombokNode.SCL.lombok
+SHA-256-Digest: n3GgjEA7Ylz+ns/oGivJ7/0T5FNq3br4LYtG+cSmIjo=
+
+Name: lombok/core/Main$LicenseApp.SCL.lombok
+SHA-256-Digest: n+VOmmursIWjFvHHjF33tscJWZr6LM/NDTDIhRnorwo=
+
+Name: lombok/core/Main$VersionApp.SCL.lombok
+SHA-256-Digest: DOWKEbleLshtAj8NHRZUCTju8Blr7KcU//tLPWYr+Cc=
+
+Name: lombok/core/Main.SCL.lombok
+SHA-256-Digest: ZoBI3r9X4jm5IknJsUuZbFMVWDcY4N5EQHmTdWxTe+g=
+
+Name: lombok/core/PostCompiler$1.SCL.lombok
+SHA-256-Digest: CC+Kp53dA37UauujfBQ2LeFw03E/pdDBfFkAl45uwKs=
+
+Name: lombok/core/PostCompiler.SCL.lombok
+SHA-256-Digest: eAHkksP6v6iLJNTX7c2Eh/yE06Gj+ggy6uJxZlVR6fs=
+
+Name: lombok/core/PostCompilerTransformation.SCL.lombok
+SHA-256-Digest: zEsxpRzl8jq41gMfFoDQ0gQL95yPNRSMlb6yQm13CzE=
+
+Name: lombok/core/PrintAST.SCL.lombok
+SHA-256-Digest: UYHen8tTvcFEDnPTZ2CW+wVCKAhmdqWMoDJp/mwmC9M=
+
+Name: lombok/core/PublicApiCreatorApp$Fail.SCL.lombok
+SHA-256-Digest: OGGKeAvJBrk40V27IBaun38za8lLSYitQWvpHUANH5c=
+
+Name: lombok/core/PublicApiCreatorApp.SCL.lombok
+SHA-256-Digest: WBhZFVsGY60/jOlOQWUzuctd/Vovjcx5KIO11TKCR3Y=
+
+Name: lombok/core/SpiLoadUtil$1$1.SCL.lombok
+SHA-256-Digest: C41XLvD3PW1MkoCAfwDnfqmrdYtcEJbq6mLQgoZ4EI4=
+
+Name: lombok/core/SpiLoadUtil$1.SCL.lombok
+SHA-256-Digest: ZnrXVJCDN0m2yf/bfczWLDP8RzrUXmlQ+3XcDsSkEX0=
+
+Name: lombok/core/SpiLoadUtil.SCL.lombok
+SHA-256-Digest: pnb4KERaKEPj6bZZ4ZPdoYAk+yDdcEweelKRGA7HVXE=
+
+Name: lombok/core/TypeLibrary.SCL.lombok
+SHA-256-Digest: l4S+Z2oP5KnjfyIgn1zC5tZaGffo5S4Ki0YOLoUc9wA=
+
+Name: lombok/core/TypeResolver.SCL.lombok
+SHA-256-Digest: oQY0yZ2OPQgz5edY/1YfGO9G7skFRFhKOB2SQmACIMw=
+
+Name: lombok/core/Version.SCL.lombok
+SHA-256-Digest: hN/GIdg+QQ8EF5QhpofioPY0wGl2JbijAyXHEuFHfBU=
+
+Name: lombok/core/configuration/AllowHelper.SCL.lombok
+SHA-256-Digest: pGX7f8QNBNm5Tzj/dsHiHFAXKVkdvmB6RX04uY4qfjU=
+
+Name: lombok/core/configuration/BubblingConfigurationResolver.SCL.lomb
+ ok
+SHA-256-Digest: A42w4WDDzfjhjsCJ6gwLjRUCWsjDPs812Nrh4YX0mhs=
+
+Name: lombok/core/configuration/CallSuperType.SCL.lombok
+SHA-256-Digest: zRaq+Fo7JukTCwl7IZG6e5FCwK0JrCjSK9A+AYyiGdM=
+
+Name: lombok/core/configuration/ConfigurationApp$1.SCL.lombok
+SHA-256-Digest: 9FENSaK1cUF8hZxpK9tVyUuOuL+KyAdZ9WnXMbft1GI=
+
+Name: lombok/core/configuration/ConfigurationApp$2.SCL.lombok
+SHA-256-Digest: VZha0iwOl3knrjrRreHuRNkz5UgdzcayRN6gDqXs4CU=
+
+Name: lombok/core/configuration/ConfigurationApp$3.SCL.lombok
+SHA-256-Digest: fbW8ObfbRBXgMheIWemtsl30fplUlZD5KvQykiyiWxs=
+
+Name: lombok/core/configuration/ConfigurationApp$4.SCL.lombok
+SHA-256-Digest: 9H/5/bWnR7QnFAYIU00MLI1DndPNLlwn1jsxmLZIewI=
+
+Name: lombok/core/configuration/ConfigurationApp$CmdArgs.SCL.lombok
+SHA-256-Digest: HadLxTvQEbA8aWnkCDKtminueE3Yla/E2tzx1LNV6VI=
+
+Name: lombok/core/configuration/ConfigurationApp.SCL.lombok
+SHA-256-Digest: VuMTmWxY2eYdbjKDPrl8HM0Uhi94IEptGRqdcKgUKmE=
+
+Name: lombok/core/configuration/ConfigurationDataType$1.SCL.lombok
+SHA-256-Digest: +Ao3DWQN7FR2gIdArhJ4/+69iSU9eL5LefHU+B+xZic=
+
+Name: lombok/core/configuration/ConfigurationDataType$2.SCL.lombok
+SHA-256-Digest: Uyur4ZdhNIY+Tb0zl8KiBVZYhLvhOtxX1nlNDtNIz4A=
+
+Name: lombok/core/configuration/ConfigurationDataType$3.SCL.lombok
+SHA-256-Digest: 1WfjFTIIelQlh3hO0sZHMaXZH3Kn/xb6d0mwK124Cjg=
+
+Name: lombok/core/configuration/ConfigurationDataType$4.SCL.lombok
+SHA-256-Digest: xVq+SVCTtu1nIhoqsqMJ0jcHj6ygyVxhZlhY6lMRuuA=
+
+Name: lombok/core/configuration/ConfigurationDataType$5.SCL.lombok
+SHA-256-Digest: 8zvXbB4Ieu/e/e38iWowP7IIK0B4poh52qHODZCHgz4=
+
+Name: lombok/core/configuration/ConfigurationDataType$6.SCL.lombok
+SHA-256-Digest: of78q9zzPxMFJDv1xg1mtYdg62eknOQR7WZ75+stbn4=
+
+Name: lombok/core/configuration/ConfigurationDataType$7.SCL.lombok
+SHA-256-Digest: haqE0X/7IqNr/++5faLyrmM7yZmiSdZbSiKUljz95nA=
+
+Name: lombok/core/configuration/ConfigurationDataType.SCL.lombok
+SHA-256-Digest: LqcxD0hSCgwsM4hdAllJdeSC4ex3ios1mK9w6lXIYLg=
+
+Name: lombok/core/configuration/ConfigurationKey.SCL.lombok
+SHA-256-Digest: 8xP2RqOLHyeaQW1VslzEQxLFYhMqdV77jotSZ5zvTo0=
+
+Name: lombok/core/configuration/ConfigurationKeysLoader$LoaderLoader.S
+ CL.lombok
+SHA-256-Digest: QUOGyHW2Jfz5P1ZeeRSvuhotxhItfWznwPC93hkCH8M=
+
+Name: lombok/core/configuration/ConfigurationKeysLoader.SCL.lombok
+SHA-256-Digest: 0LpjIvl/uZ4sa5gaWJ4eu1chRY1paRj6S5AUR36MJFg=
+
+Name: lombok/core/configuration/ConfigurationParser$Collector.SCL.lomb
+ ok
+SHA-256-Digest: ahiP8upwjUFWebmQATUhD80Lmh0bgo3jO2Pf9XVtvog=
+
+Name: lombok/core/configuration/ConfigurationParser.SCL.lombok
+SHA-256-Digest: dSQ+3OuD2r4R45ABvMDu5aDj1rpzn+6fH8WcqKBPh4w=
+
+Name: lombok/core/configuration/ConfigurationProblemReporter$1.SCL.lom
+ bok
+SHA-256-Digest: vXKcr59M0GvrY7Y9HG4MWWFALdIC2UEyCcTzztKGX1U=
+
+Name: lombok/core/configuration/ConfigurationProblemReporter.SCL.lombo
+ k
+SHA-256-Digest: tlnVja8q/ZuwGlsL/3qvaWW8OoOSq5sEmcZjKqC/6Jo=
+
+Name: lombok/core/configuration/ConfigurationResolver.SCL.lombok
+SHA-256-Digest: z7YRQxxcsls7VJ53+h+ZmCqEpP4b99GnLNtH/c1az1k=
+
+Name: lombok/core/configuration/ConfigurationResolverFactory.SCL.lombo
+ k
+SHA-256-Digest: G+0EnV7HoSv2NdHUYd5ybpB0qtCbRa8fw4jei89FkH0=
+
+Name: lombok/core/configuration/ConfigurationSource$ListModification.S
+ CL.lombok
+SHA-256-Digest: EyeU7D8GnUHv8W0jyb74dS6Ctpq6x9XXrJnjLjwcqg8=
+
+Name: lombok/core/configuration/ConfigurationSource$Result.SCL.lombok
+SHA-256-Digest: vizTsQLAizuxxYtWvcTaF0w1QoZkMsQzgN0amoOJR0Q=
+
+Name: lombok/core/configuration/ConfigurationSource.SCL.lombok
+SHA-256-Digest: YhJUQ3QfochIOl6Xutlt+ttJzH5zQkvysPG9xbJeEmQ=
+
+Name: lombok/core/configuration/ConfigurationValueParser.SCL.lombok
+SHA-256-Digest: +dz8WO9hA9PFYpF4xnOEq9X3g1y91EtrW0DLovptBLs=
+
+Name: lombok/core/configuration/ExampleValueString.SCL.lombok
+SHA-256-Digest: 3FePf3FvThPjBj6hHA7sucXiwVm3AgQj6aTxK7aTBWk=
+
+Name: lombok/core/configuration/FileSystemSourceCache$1.SCL.lombok
+SHA-256-Digest: V0UWbQ19DiPmOJ/iqsx+S+wIG/sh2dG/4LUeU12VuIU=
+
+Name: lombok/core/configuration/FileSystemSourceCache$2$1.SCL.lombok
+SHA-256-Digest: 10hNhxAEa+rA+FeiFO6ueEr8gfFoL/0QEC/nIE4Q7bU=
+
+Name: lombok/core/configuration/FileSystemSourceCache$2.SCL.lombok
+SHA-256-Digest: iezYWXulP38VQEuQ0Ee4p3c2a7bA6IcLiHGbV386d4I=
+
+Name: lombok/core/configuration/FileSystemSourceCache$Content.SCL.lomb
+ ok
+SHA-256-Digest: 7aMV0EqhvehdiUbIM+Bhh1biWGQX2WQ13C8L6COgVWI=
+
+Name: lombok/core/configuration/FileSystemSourceCache.SCL.lombok
+SHA-256-Digest: ms4byDdLVF3CBXwIYtLruJIF9rv/9p47aDKC650FxfY=
+
+Name: lombok/core/configuration/FlagUsageType.SCL.lombok
+SHA-256-Digest: EcHz3XKzqiiNgIlFo1byo1Kihq9fOusCwxAPM9Wddi4=
+
+Name: lombok/core/configuration/NullCheckExceptionType$1.SCL.lombok
+SHA-256-Digest: Z7cCuUBVPeWGf/YnHgQT8hm8gF10eAA2YkK1aSRam6k=
+
+Name: lombok/core/configuration/NullCheckExceptionType$2.SCL.lombok
+SHA-256-Digest: CcSPVd90YMi9tsNL7cUScf5J0LKyX0CfpyX0oq8uSa8=
+
+Name: lombok/core/configuration/NullCheckExceptionType.SCL.lombok
+SHA-256-Digest: cw3FBbAgBknrWrhaMFixzRz1wKog5FXIuSm/sn1Lx7o=
+
+Name: lombok/core/configuration/StringConfigurationSource$1.SCL.lombok
+SHA-256-Digest: kYvJah5aTVa3NYw4UJESOH47cSjRNCfGwPKXmlHSeRs=
+
+Name: lombok/core/configuration/StringConfigurationSource.SCL.lombok
+SHA-256-Digest: OP+HPx2L/+iwfgL556tDmUgES0xY+yspSoFT93syqmg=
+
+Name: lombok/core/configuration/TypeName.SCL.lombok
+SHA-256-Digest: EgSU0voUa6BbSBdiiEMf556yerGKCmWfbMWVxmt6jEM=
+
+Name: lombok/core/debug/AssertionLogger.SCL.lombok
+SHA-256-Digest: TB3autXoeRB2VfDuYnVbaHmaU9FzzLvmxI1i+v4Gitw=
+
+Name: lombok/core/debug/DebugSnapshot.SCL.lombok
+SHA-256-Digest: LPGwIkUT6GKbyMTs7Y3YVXFLDVo0CWlQsBSy7UPWuLQ=
+
+Name: lombok/core/debug/DebugSnapshotStore.SCL.lombok
+SHA-256-Digest: l7aF3ukQhUwepsMW+fCTUVm9F5BPDTf2szfk7G9QLRI=
+
+Name: lombok/core/debug/FileLog$1.SCL.lombok
+SHA-256-Digest: y+X8ozAr37x6MA1OVkbvlfHUeJ6K7bbwN1NnWSHfLkA=
+
+Name: lombok/core/debug/FileLog.SCL.lombok
+SHA-256-Digest: yrN0mxfzmkziEUB7z3LoyTwPVrgjNwaZ8T9+eZVhDMM=
+
+Name: lombok/core/debug/HistogramTracker$1.SCL.lombok
+SHA-256-Digest: JEwmpe2KPP2AXNFRPlYKAZG9KtuA6PMRJyfOOydCilY=
+
+Name: lombok/core/debug/HistogramTracker.SCL.lombok
+SHA-256-Digest: ztGmr4L4CfrXjBGPKZlO8oO9nssatvuY7AL4moVy210=
+
+Name: lombok/core/debug/ProblemReporter$EclipseWorkspaceLogger.SCL.lom
+ bok
+SHA-256-Digest: obHdzQ1Mr9/cxa74Xe26bmDUNdPL5c6S2gSecVvbplE=
+
+Name: lombok/core/debug/ProblemReporter$ErrorLogger.SCL.lombok
+SHA-256-Digest: hmbR+uHtKOZM1l9Uxx2SBhVzAiUrpdSez8xWYKEe4cU=
+
+Name: lombok/core/debug/ProblemReporter$TerminalLogger.SCL.lombok
+SHA-256-Digest: XXCRchG4/LUZ6lCl2GB07WjfDAakCQI7GSiSDNewUm0=
+
+Name: lombok/core/debug/ProblemReporter.SCL.lombok
+SHA-256-Digest: hMqy6L4iW5E6WC/Lkz6SSM1ViCurJdhlcLVeRxvO5wk=
+
+Name: lombok/core/debug/package-info.SCL.lombok
+SHA-256-Digest: WowSN4yNtKDWcKPO5omwM7czMePtxEBTW01Df6tZAvg=
+
+Name: lombok/core/handlers/HandlerUtil$FieldAccess.SCL.lombok
+SHA-256-Digest: 5ysWCac8vF4b+6NAPMVz93UH39RlkBHlWW2jaj9Ie3Q=
+
+Name: lombok/core/handlers/HandlerUtil.SCL.lombok
+SHA-256-Digest: 0HzEjBvZMLcMYt7WT/GVDASF1jWCB6lPDa5ZBbYePsI=
+
+Name: lombok/core/handlers/InclusionExclusionUtils$1.SCL.lombok
+SHA-256-Digest: lPWQXPXdtWz7ILgLCYAbyLkM//1UyimgfAlKyNY2HaE=
+
+Name: lombok/core/handlers/InclusionExclusionUtils$Included.SCL.lombok
+SHA-256-Digest: KpDjpZltl6MNdbFnQuSITEFvuGEeIQja+LsHrdS4kkE=
+
+Name: lombok/core/handlers/InclusionExclusionUtils.SCL.lombok
+SHA-256-Digest: GW9wDUmhgUMmuBC5WP3DLV4uw0N07MKMkt4VwMqurX0=
+
+Name: lombok/core/handlers/Singulars.SCL.lombok
+SHA-256-Digest: FkcTZ0c37OeLfcNXgVFXLPQDVYPt9akKne472o33LNM=
+
+Name: lombok/core/handlers/SneakyThrowsAndCleanupDependencyInfo.SCL.lo
+ mbok
+SHA-256-Digest: jJj/AB6tAzymJIlLc75yufGVlmk0Z69H68rPqbl5/XM=
+
+Name: lombok/core/handlers/package-info.SCL.lombok
+SHA-256-Digest: P37F/tD2Mks8nRy/CFFuejyTNQsLG5mCmbOonDL5F+0=
+
+Name: lombok/core/handlers/singulars.txt
+SHA-256-Digest: rl4m5zEcGMAwII8dK+v6/RbebqbBkBMnem3NtmPKkoI=
+
+Name: lombok/core/package-info.SCL.lombok
+SHA-256-Digest: rSfWmkREyel4Ec5xU1aYDCi2Rd4YUCn5QaO44ovHoAg=
+
+Name: lombok/core/runtimeDependencies/CreateLombokRuntimeApp$CmdArgs.S
+ CL.lombok
+SHA-256-Digest: OSogzuh5G99XNsQiFwtcag3hh8+tz9FFMQOKZXaZda4=
+
+Name: lombok/core/runtimeDependencies/CreateLombokRuntimeApp$Fail.SCL.
+ lombok
+SHA-256-Digest: xtoZRnXSWHFVKXqHZVGSTHMHy1XPwCVGEO0eLlhTnFU=
+
+Name: lombok/core/runtimeDependencies/CreateLombokRuntimeApp.SCL.lombo
+ k
+SHA-256-Digest: 1wLqZL0yClYYL32b5QnXPw+0ZRuP3yey5NcjivrXrpA=
+
+Name: lombok/core/runtimeDependencies/RuntimeDependencyInfo.SCL.lombok
+SHA-256-Digest: 89QoWInyllqxbXj3FlvSL2X6WBL052XHPN1b64QzrEE=
+
+Name: lombok/core/runtimeDependencies/package-info.SCL.lombok
+SHA-256-Digest: q2NIY0uWnhWuhK1PLx2zqi/OY81jMkQ4GKASrHlMqHw=
+
+Name: lombok/delombok/Delombok$1.SCL.lombok
+SHA-256-Digest: cco+ZvSgqOJVEw5boGGwxzxILgfX1Db3qJPWoQPuSSA=
+
+Name: lombok/delombok/Delombok$CmdArgs.SCL.lombok
+SHA-256-Digest: ciorHuEFJURtMGRY2Qs1E0casKIfTCu2z1x7cK8ZCs8=
+
+Name: lombok/delombok/Delombok$InvalidFormatOptionException.SCL.lombok
+SHA-256-Digest: unOFb1G5Ukxg4fEw6FWWTEZaQR4WJGEsw9mMDHjy9g0=
+
+Name: lombok/delombok/Delombok.SCL.lombok
+SHA-256-Digest: sVAxdpWJqzlpodYR7W7dBGMKN+tT5ZtFqz08C7ozEH4=
+
+Name: lombok/delombok/DelombokApp$1$1.SCL.lombok
+SHA-256-Digest: O2CgRrtHkSVrgDmQiS6nPDXYqlvWISLxgoPR9QSxepw=
+
+Name: lombok/delombok/DelombokApp$1.SCL.lombok
+SHA-256-Digest: 8+rXP5/a6nUyplJ1/ZzgJOjF7CJ34WHRezTL0w7F2UM=
+
+Name: lombok/delombok/DelombokApp.SCL.lombok
+SHA-256-Digest: eDxjnx3meKykqi4RIvdd6+0+eitoEpXGrg217YuLC/c=
+
+Name: lombok/delombok/DelombokResult.SCL.lombok
+SHA-256-Digest: baVluQLj0a/9b7kochJArXkNY7AMtJK0z+OkXotHK9Y=
+
+Name: lombok/delombok/DocCommentIntegrator$CommentAttacher_8$1.SCL.lom
+ bok
+SHA-256-Digest: OV/RPnYZ9zv2bCPWuCkOpyX5GC9MjNewQCHyfk4eNwo=
+
+Name: lombok/delombok/DocCommentIntegrator$CommentAttacher_8.SCL.lombo
+ k
+SHA-256-Digest: vXWFLOKblX8wjhRFAu5O18v2zgUBm6FqlCYL3OsYZh8=
+
+Name: lombok/delombok/DocCommentIntegrator.SCL.lombok
+SHA-256-Digest: OWxkJYaAv2qTEOTpV6LnapKHhm/MmLZPpcDPakaPMdM=
+
+Name: lombok/delombok/FormatPreferenceScanner$1.SCL.lombok
+SHA-256-Digest: tNO6hzWyQ1RHg06RRIt8gMjyaKnTHy6twz5FZZxVI+o=
+
+Name: lombok/delombok/FormatPreferenceScanner.SCL.lombok
+SHA-256-Digest: S/WnQepy7GhVeQNh6HTWC8lQq1rlEPuyVqJfahiy5vU=
+
+Name: lombok/delombok/FormatPreferences.SCL.lombok
+SHA-256-Digest: ZOVlR3Fsxo9pbHkTyJ6LssNovOh92KsSkAa56HDcG84=
+
+Name: lombok/delombok/LombokOptionsFactory$1.SCL.lombok
+SHA-256-Digest: 6p28K99tP7iuMv12EFl3jlYnstS+JjAHOzChJiAPfR4=
+
+Name: lombok/delombok/LombokOptionsFactory$LombokOptionCompilerVersion
+ $1.SCL.lombok
+SHA-256-Digest: /otiMzwvQ3+GcOBqyBAYsJz+ohL5BADZgVwmGSJ3avg=
+
+Name: lombok/delombok/LombokOptionsFactory$LombokOptionCompilerVersion
+ $2.SCL.lombok
+SHA-256-Digest: CreASATsUujR7aqI/PZ4JBs2xcvEK1yU1imIR6lWxEI=
+
+Name: lombok/delombok/LombokOptionsFactory$LombokOptionCompilerVersion
+ $3.SCL.lombok
+SHA-256-Digest: Rnb/gMprI91wQCWa9fCfBO6CJNrIZRyM6+WXa3bMI6I=
+
+Name: lombok/delombok/LombokOptionsFactory$LombokOptionCompilerVersion
+ .SCL.lombok
+SHA-256-Digest: FN1ddjjapaQcUyNdcsaUrDACwli9wQDuZn4BzmydfN8=
+
+Name: lombok/delombok/LombokOptionsFactory.SCL.lombok
+SHA-256-Digest: mNJIhlCWt64OzLOyvfosgSB6VHtbok04KAoplshcT4A=
+
+Name: lombok/delombok/PrettyPrinter$1.SCL.lombok
+SHA-256-Digest: v4K+7ldKfuBSYh4uAllUkfUAi3600429l8Fab0/lyPI=
+
+Name: lombok/delombok/PrettyPrinter$UncheckedIOException.SCL.lombok
+SHA-256-Digest: QKkuZkQPyIulUd46dZGSrWu2OIToIEZaSE20Uz+Xan8=
+
+Name: lombok/delombok/PrettyPrinter.SCL.lombok
+SHA-256-Digest: l1DHSvQH6RrdcmFLmpLaAcN1CThJyTwd8pb/TM6d1mg=
+
+Name: lombok/delombok/UnicodeEscapeWriter.SCL.lombok
+SHA-256-Digest: ub6GJ1fcYOWMWVJye7RcC+OmLdSVGummqmDesR154mE=
+
+Name: lombok/delombok/ant/DelombokTaskImpl.SCL.lombok
+SHA-256-Digest: KHDSnamvll3L7arOREQ1GtVh0GCRlN0yU5HWEe4xK4Y=
+
+Name: lombok/eclipse/DeferUntilPostDiet.SCL.lombok
+SHA-256-Digest: mMFajhMbEweAvB8wiZmNMXQIkI3GUKGVK0ekIitYWiI=
+
+Name: lombok/eclipse/Eclipse.SCL.lombok
+SHA-256-Digest: +labBmWGXQVHqVmZs1kbKFBO5tgoF67NhUF2CAXnRVA=
+
+Name: lombok/eclipse/EclipseAST$EcjReflectionCheck.SCL.lombok
+SHA-256-Digest: YEgkimkltx8lqQmsRhgp7KvYByd/fWU0JIpiA2oEAXo=
+
+Name: lombok/eclipse/EclipseAST$EclipseWorkspaceBasedFileResolver.SCL.
+ lombok
+SHA-256-Digest: Ss5Usjv9fXW9FTNSkJ9oCo3YffrMQhcDfnVOfZfWx+A=
+
+Name: lombok/eclipse/EclipseAST$ParseProblem.SCL.lombok
+SHA-256-Digest: 4TvqVaHiwKB9zVir+Uweloz7e07+F2Hfzs+wuTDkqTY=
+
+Name: lombok/eclipse/EclipseAST.SCL.lombok
+SHA-256-Digest: ffC+9eNpRwN1F8IjO7RTVtJ7j3T9jFUIgWSPAfLCbFA=
+
+Name: lombok/eclipse/EclipseASTAdapter.SCL.lombok
+SHA-256-Digest: 6nrRUiQ6R41mhAow5pNJjefQ24OeznFddwLi0xQiz38=
+
+Name: lombok/eclipse/EclipseASTVisitor$Printer.SCL.lombok
+SHA-256-Digest: nHGvijSirYyeABbp1Bip7bX8hIX0Cso/ImhnCZDjGHc=
+
+Name: lombok/eclipse/EclipseASTVisitor.SCL.lombok
+SHA-256-Digest: jrxGKy6rn1ZGlKlLhLcWyCYATDdBgMHwpjUHV6G6Cxk=
+
+Name: lombok/eclipse/EclipseAnnotationHandler.SCL.lombok
+SHA-256-Digest: JXFEs5CG2LvAjd9TPq0yysXqXAk6z2gOlXnYNIl87ao=
+
+Name: lombok/eclipse/EclipseAstProblemView$LombokProblem.SCL.lombok
+SHA-256-Digest: 4Zd5bX79ZNJ6qks5uDKjbhjepdw8rleJKtCGfrqqQGs=
+
+Name: lombok/eclipse/EclipseAstProblemView.SCL.lombok
+SHA-256-Digest: NsNOMplT3+FfqEkW4k3QWHlJJqlggivz+f9kuUDTVQQ=
+
+Name: lombok/eclipse/EclipseAugments.SCL.lombok
+SHA-256-Digest: q0/z1LCQm6TChfGIzI98WAQixUUZhAbw0Dmq/W1iy+8=
+
+Name: lombok/eclipse/EclipseImportList.SCL.lombok
+SHA-256-Digest: ac38cVvD0dEnW7Cc3tyIocqLwqBYQdZ6dUVEl3EE/HU=
+
+Name: lombok/eclipse/EclipseNode.SCL.lombok
+SHA-256-Digest: MjB1SaebYChphYZvFZP+LYm1Ez68uLqLdhHD184oDNQ=
+
+Name: lombok/eclipse/HandlerLibrary$AnnotationHandlerContainer.SCL.lom
+ bok
+SHA-256-Digest: LOFuCG8rOMfTEYsRJodfZOlYVH+mEkfvIMx82ivQckI=
+
+Name: lombok/eclipse/HandlerLibrary$VisitorContainer.SCL.lombok
+SHA-256-Digest: eYMnT9WjEzV2e/PkAgQN8lxDy01DLODb7ML1jD42NUw=
+
+Name: lombok/eclipse/HandlerLibrary.SCL.lombok
+SHA-256-Digest: 4fJJ1ed69SZpwOa2hGA2hp9Uqdq7lVgLuhyvSYVZXug=
+
+Name: lombok/eclipse/TransformEclipseAST$AnnotationVisitor.SCL.lombok
+SHA-256-Digest: TK/vi1Hy+r3UFPf/HAd5VQqA3RNQ9+gpUeOvXSIoMz0=
+
+Name: lombok/eclipse/TransformEclipseAST.SCL.lombok
+SHA-256-Digest: ECmTIeP/bdFqzb7mqHE5BMCIl/h+kIZfsQrPfqYv2G0=
+
+Name: lombok/eclipse/agent/EclipseLoaderPatcher.SCL.lombok
+SHA-256-Digest: 1sgF63dHEhO8mkiyT6ujpxaBFWA34ibKxNEGREXZp9E=
+
+Name: lombok/eclipse/agent/EclipseLoaderPatcherTransplants.SCL.lombok
+SHA-256-Digest: 0134BpInvVg4nafCPfQuVy66YDNIn+JpkS3Reu+Pz3U=
+
+Name: lombok/eclipse/agent/EclipsePatcher$1.SCL.lombok
+SHA-256-Digest: IutBQC7XMJYrXvUkNt7jQ70Fbv3DxfnnlFW53JfVWT8=
+
+Name: lombok/eclipse/agent/EclipsePatcher$2.SCL.lombok
+SHA-256-Digest: 6iZ6X+01wmIAoP+gQEKWJQN89gDsylRaGPWdukKp4+Q=
+
+Name: lombok/eclipse/agent/EclipsePatcher$3.SCL.lombok
+SHA-256-Digest: n8vqkwrInujaiggHG0Nt4maKUKzKQ09uAfkOWcsfPOM=
+
+Name: lombok/eclipse/agent/EclipsePatcher$4.SCL.lombok
+SHA-256-Digest: q1pVNVHkD93YZYsu69lM7Q0n1Clj2KGoNXazlJUxrM4=
+
+Name: lombok/eclipse/agent/EclipsePatcher.SCL.lombok
+SHA-256-Digest: JiwYTMYvap+mSZQnjT4gz3MMfJlYN1FyqoXAPaL5LgI=
+
+Name: lombok/eclipse/agent/ExtensionMethodCompletionProposal.SCL.lombo
+ k
+SHA-256-Digest: AqXojZ7c6L1aXlltLc+7e4B3Vc2jt3VbSxJGxkJccF0=
+
+Name: lombok/eclipse/agent/PatchDelegate$1.SCL.lombok
+SHA-256-Digest: 8d2pJpTN1yy9ZFUN5XV4G5IyCBHJLDnLeolb5xALtgY=
+
+Name: lombok/eclipse/agent/PatchDelegate$BindingTuple.SCL.lombok
+SHA-256-Digest: VIOQxz+QYTTzWFbDIv7FMw++AhzbFFA8GTL85dsERIs=
+
+Name: lombok/eclipse/agent/PatchDelegate$CantMakeDelegates.SCL.lombok
+SHA-256-Digest: YzCWznQu2Qzc5s2tW6j4mK30jEdHpohZiiNmF2fbcQs=
+
+Name: lombok/eclipse/agent/PatchDelegate$ClassScopeEntry.SCL.lombok
+SHA-256-Digest: rDV1ePX7lKldp+kepLZFFdQ2rxWMhfWMYCp9GOhbQMk=
+
+Name: lombok/eclipse/agent/PatchDelegate$DelegateReceiver$1.SCL.lombok
+SHA-256-Digest: 7MnvNr0RzQifloX1QmOzeq4uyC7cgmsFI29y1h4zRhU=
+
+Name: lombok/eclipse/agent/PatchDelegate$DelegateReceiver$2.SCL.lombok
+SHA-256-Digest: 14kIF1picHQq3+wxr+fHUtA5ybdqs4Yydlvodkafpes=
+
+Name: lombok/eclipse/agent/PatchDelegate$DelegateReceiver.SCL.lombok
+SHA-256-Digest: U8nWt4xDnu1POnzrqNA+6NyLaP8nfKQG0oUeWIuuGwE=
+
+Name: lombok/eclipse/agent/PatchDelegate$DelegateRecursion.SCL.lombok
+SHA-256-Digest: F5LrATvlT8PL+/CL/2rVkhZznyJ1kGNstzg4NQnyNEw=
+
+Name: lombok/eclipse/agent/PatchDelegate$EclipseTypeBindingScanner.SCL
+ .lombok
+SHA-256-Digest: s5pBBO4uQadgcZndsy9yU4PCaYF4JJ5iZxLLcYvQZ4k=
+
+Name: lombok/eclipse/agent/PatchDelegate$Reflection.SCL.lombok
+SHA-256-Digest: kyD1GXa/lzhSN6mJoyzP9pX5+uuLd2f4uiOYFgq+aIk=
+
+Name: lombok/eclipse/agent/PatchDelegate$TypeVarFinder.SCL.lombok
+SHA-256-Digest: GR12wvrGI6dffE8udjE7ckGYl+7JodpQKqhCiQtJgrI=
+
+Name: lombok/eclipse/agent/PatchDelegate.SCL.lombok
+SHA-256-Digest: rzZQnjey0NTowoQIwD/ihmdYOYF3tXBpZYWPfo2/KFk=
+
+Name: lombok/eclipse/agent/PatchDelegatePortal$Reflection.SCL.lombok
+SHA-256-Digest: tkp30wxBkwLtLYVjs9CbkWP+2Km5jmQZIEiDwzqOQic=
+
+Name: lombok/eclipse/agent/PatchDelegatePortal.SCL.lombok
+SHA-256-Digest: OwJnO37YBb9VZ7uSjuK30ZvBE5xvKqofOF5yOfknjVM=
+
+Name: lombok/eclipse/agent/PatchDiagnostics.SCL.lombok
+SHA-256-Digest: iC+6zZ5YBOVAokRLNUIZfNaJ0ksBHlZ1CX6JEoJ/N1E=
+
+Name: lombok/eclipse/agent/PatchExtensionMethod$Extension.SCL.lombok
+SHA-256-Digest: HDUP7896GX3o8nt/nCljcTKtN5lZxB5PpJlxLpvlRxE=
+
+Name: lombok/eclipse/agent/PatchExtensionMethod$PostponedError.SCL.lom
+ bok
+SHA-256-Digest: ESj+7gpqNcy0A6b3USjTErYCYr2Z/2AmACtQeadNZrQ=
+
+Name: lombok/eclipse/agent/PatchExtensionMethod$PostponedInvalidMethod
+ Error.SCL.lombok
+SHA-256-Digest: xrGdFm2m8DqxQL6RykSX1p0eczh72qDeDAUMe/nbWXA=
+
+Name: lombok/eclipse/agent/PatchExtensionMethod$PostponedNoMethodError
+ .SCL.lombok
+SHA-256-Digest: WOotcje6BddXl2Y+bwNkG84DRp46WCKJT0KpP/E0j7Q=
+
+Name: lombok/eclipse/agent/PatchExtensionMethod.SCL.lombok
+SHA-256-Digest: HAICh4h+irn/N3PXPxNuctTAa+MTjcReIXXGpkoJNM0=
+
+Name: lombok/eclipse/agent/PatchExtensionMethodCompletionProposal$Refl
+ ection.SCL.lombok
+SHA-256-Digest: xjxLW+/4FqN99Z1R2GC5A01+IKFMPctSSA76naNMoqM=
+
+Name: lombok/eclipse/agent/PatchExtensionMethodCompletionProposal.SCL.
+ lombok
+SHA-256-Digest: BN8IaxiiLwr7A6KXfK4ZQrMP9LxvBeUpab+xjAmWyAc=
+
+Name: lombok/eclipse/agent/PatchExtensionMethodCompletionProposalPorta
+ l$ReflectionForUi.SCL.lombok
+SHA-256-Digest: TUntPnR/DR+GOAzYP1ZYMWghWPS2qEYIKIQOMs5s9Qs=
+
+Name: lombok/eclipse/agent/PatchExtensionMethodCompletionProposalPorta
+ l.SCL.lombok
+SHA-256-Digest: VaDwMPlDzxFltlG1myBrG5RyNswMPyRZfCYEfz0NWVE=
+
+Name: lombok/eclipse/agent/PatchExtensionMethodPortal$Reflection.SCL.l
+ ombok
+SHA-256-Digest: uwsWT8zAR70wBSybXyPuAPOP1FbhfhkQWKO9vylFbHU=
+
+Name: lombok/eclipse/agent/PatchExtensionMethodPortal.SCL.lombok
+SHA-256-Digest: 6pvHyf4QoLMvORFHwNmmUYyIF/4vIYxdzGcH7Z0DXDo=
+
+Name: lombok/eclipse/agent/PatchFixesShadowLoaded.SCL.lombok
+SHA-256-Digest: o/xDvcuElumsEF8jb5QImGDMD5ASejtPRUdF1XPmi7A=
+
+Name: lombok/eclipse/agent/PatchVal$Reflection.SCL.lombok
+SHA-256-Digest: og40WrKUyA+vdCfdBZMWGzf1gSuB9bnc+mIi6t6FkQ0=
+
+Name: lombok/eclipse/agent/PatchVal.SCL.lombok
+SHA-256-Digest: 0v75BGJZw5Jo65mt6KPXvOPkroZtiy6S7+m/DXsSWDU=
+
+Name: lombok/eclipse/agent/PatchValEclipse$Reflection.SCL.lombok
+SHA-256-Digest: 66XWWdcAOM1r+T9dgp0xJxqHSKtYohSiCipGK2Uyi90=
+
+Name: lombok/eclipse/agent/PatchValEclipse.SCL.lombok
+SHA-256-Digest: LHz/CXgAmtl92ExRyPfLI5MxsEi3S5AfaXvTvoujrKQ=
+
+Name: lombok/eclipse/agent/PatchValEclipsePortal$Reflection.SCL.lombok
+SHA-256-Digest: 0UEtdgRxzFShF3xpbcZlySpIyRfPxpkt+o/W6Q06wU4=
+
+Name: lombok/eclipse/agent/PatchValEclipsePortal.SCL.lombok
+SHA-256-Digest: SWRqH17QhM/7svZdmG/0TvDL2o8tAfOOa9cU6geGh0Y=
+
+Name: lombok/eclipse/agent/package-info.SCL.lombok
+SHA-256-Digest: Biu1sfkveyqan8AiIiLAVXCNXw3vy6xNYRW6R0jo0Y8=
+
+Name: lombok/eclipse/handlers/EclipseHandlerUtil$1.SCL.lombok
+SHA-256-Digest: 1cnAPE3/vt8NlhQlgjY8Au0XI7nWhwtGQ49Qvk4qR/Q=
+
+Name: lombok/eclipse/handlers/EclipseHandlerUtil$2.SCL.lombok
+SHA-256-Digest: QJQK1i2QbWq3bGkfLZ487ULebG93dgS6WvuczQ7y7jE=
+
+Name: lombok/eclipse/handlers/EclipseHandlerUtil$EclipseReflectiveMemb
+ ers.SCL.lombok
+SHA-256-Digest: DuKtC7LBFdtFd/z9rMlx655Z86ZStKkFLKvE6R9jXaQ=
+
+Name: lombok/eclipse/handlers/EclipseHandlerUtil$GetterMethod.SCL.lomb
+ ok
+SHA-256-Digest: NiDCn03RmB3Up5Sbz1Wg5w+GfsggHjorrV6daqb7khc=
+
+Name: lombok/eclipse/handlers/EclipseHandlerUtil$MemberExistsResult.SC
+ L.lombok
+SHA-256-Digest: A31niyMtiQnph/3Q295NE7rz0/YJVjBDPrHDtz7ZxzU=
+
+Name: lombok/eclipse/handlers/EclipseHandlerUtil.SCL.lombok
+SHA-256-Digest: DzdJkmOTj2lvaCGPQyzYSSB3Sv9JCHnIB0Den7H4nXs=
+
+Name: lombok/eclipse/handlers/EclipseSingularsRecipes$EclipseSingulari
+ zer$1.SCL.lombok
+SHA-256-Digest: P+L6OPdBMtt7xH80XlPVRzisvxjK0Vrgycv64Y7mnZ4=
+
+Name: lombok/eclipse/handlers/EclipseSingularsRecipes$EclipseSingulari
+ zer$2.SCL.lombok
+SHA-256-Digest: kJorL13qQzB2YFFkgXDZFLmWN6l9o+SBwwlhTykHPuw=
+
+Name: lombok/eclipse/handlers/EclipseSingularsRecipes$EclipseSingulari
+ zer.SCL.lombok
+SHA-256-Digest: WwQ+XiuwfgENXgYg3WGDyldExBu9sgU/p6/yzSVc4cs=
+
+Name: lombok/eclipse/handlers/EclipseSingularsRecipes$SingularData.SCL
+ .lombok
+SHA-256-Digest: v0BfcOoYW5QjN53aPpoiszD6hnvj9Mwq+NWfu5U2wY0=
+
+Name: lombok/eclipse/handlers/EclipseSingularsRecipes$StatementMaker.S
+ CL.lombok
+SHA-256-Digest: Wp4bzeFQS/qtm4q9YSOZOLdsW1Ta+EWDoJ9NdnA4YUQ=
+
+Name: lombok/eclipse/handlers/EclipseSingularsRecipes$TypeReferenceMak
+ er.SCL.lombok
+SHA-256-Digest: R+KoszYWwXtp9/6R3uy56KYZpRm7AgqMxxHPd8rsphM=
+
+Name: lombok/eclipse/handlers/EclipseSingularsRecipes.SCL.lombok
+SHA-256-Digest: M7Vo57B7UyCIY0ZodOftPe0qO8YHQpjJRatSKFtgaGs=
+
+Name: lombok/eclipse/handlers/HandleAccessors.SCL.lombok
+SHA-256-Digest: eCWpSuD6dbgZ/Lxro+Boc4AxIfbJ0HltnARMFmTcX8Y=
+
+Name: lombok/eclipse/handlers/HandleBuilder$BuilderFieldData.SCL.lombo
+ k
+SHA-256-Digest: AK/tWIL7BUljMYjice09hS1YtACJcLDcrxzCnPmlg0M=
+
+Name: lombok/eclipse/handlers/HandleBuilder.SCL.lombok
+SHA-256-Digest: 9T84YlJPLtC4+DyHDafiFuEzNEkxrQDdovuxcRWaN6c=
+
+Name: lombok/eclipse/handlers/HandleBuilderDefault.SCL.lombok
+SHA-256-Digest: CMpnu2Na4jfq34P/uMJYPWEjR2LccseyJvGk16CF1vM=
+
+Name: lombok/eclipse/handlers/HandleCleanup.SCL.lombok
+SHA-256-Digest: B33rpNspId18iUV7eLkSRNDGvGvPWwZCC3e4XRUjMaw=
+
+Name: lombok/eclipse/handlers/HandleConstructor$HandleAllArgsConstruct
+ or.SCL.lombok
+SHA-256-Digest: xgGImxUNT7VwAYNj8wqk2f1KUf7lB4B8ah3K6QaEx58=
+
+Name: lombok/eclipse/handlers/HandleConstructor$HandleNoArgsConstructo
+ r.SCL.lombok
+SHA-256-Digest: R7AI/bUJRcCTONPN4BpxNhDI7O1nIbx/dA1oVB2q6iU=
+
+Name: lombok/eclipse/handlers/HandleConstructor$HandleRequiredArgsCons
+ tructor.SCL.lombok
+SHA-256-Digest: 8itvH5jLF55Ddd5WyE9XKOV2uePS5JhnxmgdpJj9oko=
+
+Name: lombok/eclipse/handlers/HandleConstructor$SkipIfConstructorExist
+ s.SCL.lombok
+SHA-256-Digest: /CHOAlo1V0QXqwLBOz/HdHPbXdlNJ7qvgNUIzgFNmAE=
+
+Name: lombok/eclipse/handlers/HandleConstructor.SCL.lombok
+SHA-256-Digest: Wn9r2oJN7wDnhlppJEKO3iqHxmE+AgRL+Tl3bTkxis0=
+
+Name: lombok/eclipse/handlers/HandleData.SCL.lombok
+SHA-256-Digest: rLW7XjUlEprE7slKoFFsXbNZhkbyY34n+6yASnfcQJ4=
+
+Name: lombok/eclipse/handlers/HandleDelegate.SCL.lombok
+SHA-256-Digest: b5O8Mzr4edb7IDVhSRKKs5zT0l0UZVQoYqbVsjoygDg=
+
+Name: lombok/eclipse/handlers/HandleEqualsAndHashCode.SCL.lombok
+SHA-256-Digest: 0j0RDAYTqw6YrL09+RGwQ3Nl01TY/oH9wG/Ryshmxpg=
+
+Name: lombok/eclipse/handlers/HandleExtensionMethod.SCL.lombok
+SHA-256-Digest: hoTMetPJoSZFV/BlME54HD4AOYxmsLL3aO6lfDrBlhI=
+
+Name: lombok/eclipse/handlers/HandleFieldDefaults.SCL.lombok
+SHA-256-Digest: Qt/zb94RLxDnh3Ec2M3N8r2mqe3cKYspRR/m3JJQY0s=
+
+Name: lombok/eclipse/handlers/HandleFieldNameConstants.SCL.lombok
+SHA-256-Digest: N2HKzUEF9Vf8RrYpxPb66iRld0IOeCvU425ciHiJbGs=
+
+Name: lombok/eclipse/handlers/HandleGetter.SCL.lombok
+SHA-256-Digest: 8+j/whS0ZBHff4teYLN5CW2WxZTH1aj8+cSOS7RW048=
+
+Name: lombok/eclipse/handlers/HandleHelper$1.SCL.lombok
+SHA-256-Digest: ryRSbHMJWN4KqB0fZbZR6uW22YxXiMjpxqYzvewTR68=
+
+Name: lombok/eclipse/handlers/HandleHelper.SCL.lombok
+SHA-256-Digest: yhr3edCdRrZYIMHUunmnaDD89/J5X/oWpViq9M5wSzI=
+
+Name: lombok/eclipse/handlers/HandleLog$HandleCommonsLog.SCL.lombok
+SHA-256-Digest: gkzPqxGDa0YZoteW/Lhp3TsihuT2ks+++Z3Tpw/nYVM=
+
+Name: lombok/eclipse/handlers/HandleLog$HandleFloggerLog.SCL.lombok
+SHA-256-Digest: sh4Kr+lxrU/nX4akSEsV2zjfgO8QOAGCQCmmFbgG/04=
+
+Name: lombok/eclipse/handlers/HandleLog$HandleJBossLog.SCL.lombok
+SHA-256-Digest: 5bstz54pbYILWSsl6ZK+OCJGbMG5rDlDay2F2T2ZLVo=
+
+Name: lombok/eclipse/handlers/HandleLog$HandleJulLog.SCL.lombok
+SHA-256-Digest: Wficlp6+cht1Wsd0k6BNx8y4y7tgbFUDCV4R6HjVUog=
+
+Name: lombok/eclipse/handlers/HandleLog$HandleLog4j2Log.SCL.lombok
+SHA-256-Digest: xjkiMAbz0EIqXuKCeSUz4E41E4tiAmrU+/SRLpzFV1Q=
+
+Name: lombok/eclipse/handlers/HandleLog$HandleLog4jLog.SCL.lombok
+SHA-256-Digest: f3X276SVJ8XLcSyHrD67bmEazNt50AAMXPGqnhWvac8=
+
+Name: lombok/eclipse/handlers/HandleLog$HandleSlf4jLog.SCL.lombok
+SHA-256-Digest: HjHeAo8sSB7zoJ+FHXLvqeqw2SpDnlM+BpgLPJn1hlg=
+
+Name: lombok/eclipse/handlers/HandleLog$HandleXSlf4jLog.SCL.lombok
+SHA-256-Digest: 3InStDQfy1UdgScz9tzwBeWeB+qulwwcZzYTL5k7PHI=
+
+Name: lombok/eclipse/handlers/HandleLog$LoggingFramework$1.SCL.lombok
+SHA-256-Digest: IvTRE3DxnvE2+/85Sqf38HuW6UZCC5miyM0doYgrY8g=
+
+Name: lombok/eclipse/handlers/HandleLog$LoggingFramework.SCL.lombok
+SHA-256-Digest: aOex71OOGGbBGIwdGLYCId+zBMpaQ8WU8i4I+XglyzI=
+
+Name: lombok/eclipse/handlers/HandleLog.SCL.lombok
+SHA-256-Digest: /zcVGiJTL9j2azbqV7kPQxUh5bpK4aoD5J1C29oR0es=
+
+Name: lombok/eclipse/handlers/HandleNonNull.SCL.lombok
+SHA-256-Digest: Du07Q55fCKPhwUBSjJsPSzYFgALFJVpgQeCIkyTamI8=
+
+Name: lombok/eclipse/handlers/HandlePrintAST.SCL.lombok
+SHA-256-Digest: OC/UKOhlTepoLotnR1/+S9ulQuMYCcFpnnoGPHl39iM=
+
+Name: lombok/eclipse/handlers/HandleSetter.SCL.lombok
+SHA-256-Digest: A0aLlklckAD/utyRUOUNGv1Ue5cahCkRX0Sf8e+Cnk0=
+
+Name: lombok/eclipse/handlers/HandleSneakyThrows$DeclaredException.SCL
+ .lombok
+SHA-256-Digest: UgO/XRdS+XKGepQnigGLJIG6g/U9cpKG3foXByLUJIw=
+
+Name: lombok/eclipse/handlers/HandleSneakyThrows.SCL.lombok
+SHA-256-Digest: +yFsiHRiA8KBGACQfTsYh691iD4nmEYwj8AgLSrMGhk=
+
+Name: lombok/eclipse/handlers/HandleSuperBuilder$1.SCL.lombok
+SHA-256-Digest: 7U3VxlRHfKk/VAGgh8DfG9e7ODIoP/w1zjVk0hkiIsc=
+
+Name: lombok/eclipse/handlers/HandleSuperBuilder$2.SCL.lombok
+SHA-256-Digest: 0qlw52lIuu2/+S/H1PI3X+oOyyZaaSubykm0z514kFk=
+
+Name: lombok/eclipse/handlers/HandleSuperBuilder.SCL.lombok
+SHA-256-Digest: MpYFY9htOWGUCswtmpjvpuIBLWOnm5Hft8CcoG3VcP8=
+
+Name: lombok/eclipse/handlers/HandleSynchronized.SCL.lombok
+SHA-256-Digest: u0eOc2zP/6lmzzFhuP6WR7U7ofA7JwiJNF57IJkMXVs=
+
+Name: lombok/eclipse/handlers/HandleToString.SCL.lombok
+SHA-256-Digest: pGsK2cMMBt1ZMmFV8oXFjteWZ8gy0mFffekVLpMH64M=
+
+Name: lombok/eclipse/handlers/HandleUtilityClass.SCL.lombok
+SHA-256-Digest: mWAsF989Xn5Br150doaY2AaqfWfpgMXw5EEeRf/ZQ8g=
+
+Name: lombok/eclipse/handlers/HandleVal.SCL.lombok
+SHA-256-Digest: Pt98PvypMR02ivlH1VZFRPxVCe49c5+wkM8mDDb5fxc=
+
+Name: lombok/eclipse/handlers/HandleValue.SCL.lombok
+SHA-256-Digest: QNxr41LlsL+luVXEZna7MvazAFSTiNhZQCkBWPoCEng=
+
+Name: lombok/eclipse/handlers/HandleWither.SCL.lombok
+SHA-256-Digest: SX/4BeBHPoX+QGKKpXVD8BILh9RaaEo5tQAllyjh8Vg=
+
+Name: lombok/eclipse/handlers/SetGeneratedByVisitor.SCL.lombok
+SHA-256-Digest: e0leP1xQEthpHzZ3GkrgcMut7+9Hu7WSi5B3OJqvXaQ=
+
+Name: lombok/eclipse/handlers/package-info.SCL.lombok
+SHA-256-Digest: a4pB4nfReI2PuA7Ft9Hy7Hehj9Im5ei9OJfpu1TTjYI=
+
+Name: lombok/eclipse/handlers/singulars/EclipseGuavaMapSingularizer.SC
+ L.lombok
+SHA-256-Digest: nguq7aPFDZpN1ZMKCTASciDlSJt5aqZxr7jW0pVWE+0=
+
+Name: lombok/eclipse/handlers/singulars/EclipseGuavaSetListSingularize
+ r.SCL.lombok
+SHA-256-Digest: sMjRudqdKw/7HGeePbT2bxqZlnM0zCfTPwt3r9lspyg=
+
+Name: lombok/eclipse/handlers/singulars/EclipseGuavaSingularizer.SCL.l
+ ombok
+SHA-256-Digest: o5pNZ4yEFJMag3OtkJvLH1v9iurLfHTCGY7yzo56riY=
+
+Name: lombok/eclipse/handlers/singulars/EclipseGuavaTableSingularizer.
+ SCL.lombok
+SHA-256-Digest: GZ8nethinBY0G3xYtY5yxe1DMQHGB4Fj7+zLTn4oiuc=
+
+Name: lombok/eclipse/handlers/singulars/EclipseJavaUtilListSetSingular
+ izer.SCL.lombok
+SHA-256-Digest: 9o4qX0UPtJZk7xh7QxDxhd5rutCgixaq3oBnl1nLDAo=
+
+Name: lombok/eclipse/handlers/singulars/EclipseJavaUtilListSingularize
+ r.SCL.lombok
+SHA-256-Digest: qA6KfMHuZIUPus45KgamHROjjb/m3cqdHNVwidplWgg=
+
+Name: lombok/eclipse/handlers/singulars/EclipseJavaUtilMapSingularizer
+ .SCL.lombok
+SHA-256-Digest: Ny1Rl1wEhE2FH3Kc4zbm68hocfYaFPKrqXWq1jNcJ7g=
+
+Name: lombok/eclipse/handlers/singulars/EclipseJavaUtilSetSingularizer
+ .SCL.lombok
+SHA-256-Digest: IDSd9COGnP2OcAIC62LGi3ex+jBHjhypf1IB1q/0mok=
+
+Name: lombok/eclipse/handlers/singulars/EclipseJavaUtilSingularizer.SC
+ L.lombok
+SHA-256-Digest: 4hkjtPpbYtYbb4DRuGDZEJZ7I5AtbMhJjwiDnQcokts=
+
+Name: lombok/eclipse/package-info.SCL.lombok
+SHA-256-Digest: dYsLeLCrmwQLRJPCew06eljYr3scAowbmB0SaEMMS5Q=
+
+Name: lombok/installer/AppleNativeLook.SCL.lombok
+SHA-256-Digest: 9aWhXgROQi6UIhId0UmUPEyBMY5ZFnzETSvfEiYFrKk=
+
+Name: lombok/installer/CorruptedIdeLocationException.SCL.lombok
+SHA-256-Digest: utDdAJ5HRm9tBpAgFVoQIEWMXd0vtvWXTUplKNZ4Ahw=
+
+Name: lombok/installer/IdeLocation.SCL.lombok
+SHA-256-Digest: JfxImRXs7W8Kc1TKog/rN2Gp5KOdBW36sCxh6j98AnA=
+
+Name: lombok/installer/IdeLocationProvider.SCL.lombok
+SHA-256-Digest: hO0t7bxr/r9Kglf2lYiMEC70bVryc/s1zq9Sp+iWlZ8=
+
+Name: lombok/installer/InstallException.SCL.lombok
+SHA-256-Digest: 5/fEIfF6E88+BZzClXPOCQ/Fu7snndYCVKXeBJ5ILBQ=
+
+Name: lombok/installer/Installer$1.SCL.lombok
+SHA-256-Digest: vvwASaGuqsTRIs2izmO4l7jxM9RFREHZa5wuZ1+Spa8=
+
+Name: lombok/installer/Installer$CmdArgs.SCL.lombok
+SHA-256-Digest: NwBPtze4f780MAm7Ld9/aA0yyXfR3udqkTFVxWg6Vfk=
+
+Name: lombok/installer/Installer$CommandLineInstallerApp.SCL.lombok
+SHA-256-Digest: 2o5VxAc4RtAWGdLYdoHtYOCcVZPvACI6mXLViT/D8tQ=
+
+Name: lombok/installer/Installer$CommandLineUninstallerApp.SCL.lombok
+SHA-256-Digest: qZuZbI5+oZC80qh/jnJWlKraeXGZPqsLkZxfW2IjKFw=
+
+Name: lombok/installer/Installer$GraphicalInstallerApp.SCL.lombok
+SHA-256-Digest: DWuJrAuzLLUKAD8A27zh6pFXDYjp8fiG70f/I3R+Hg0=
+
+Name: lombok/installer/Installer.SCL.lombok
+SHA-256-Digest: PlXgdXni+4KJSysTco+60w7qgxy80+EEwI7ai7Lxudc=
+
+Name: lombok/installer/InstallerGUI$1.SCL.lombok
+SHA-256-Digest: 6HrMVyrc4WGNRqIdnoQoTYHRZ/f12Bf3K+NJSZXf5Iw=
+
+Name: lombok/installer/InstallerGUI$10$1.SCL.lombok
+SHA-256-Digest: VAGo15Oe+f1STNkns58UyJsKZ1eheG4OX1xiWg6YDX0=
+
+Name: lombok/installer/InstallerGUI$10$2.SCL.lombok
+SHA-256-Digest: meduiT0X+Adilwv6woOBod1XQXODW4URGOruz+jzxjI=
+
+Name: lombok/installer/InstallerGUI$10$3.SCL.lombok
+SHA-256-Digest: 7zOA0ZxtIZZCF++pZxAeiWlM5aN0M0CpJebhtMenV9M=
+
+Name: lombok/installer/InstallerGUI$10$4.SCL.lombok
+SHA-256-Digest: T7IrT4HlGYrpm0/Wrk8IYPqR7v9eIvsKC53GrWQTBgA=
+
+Name: lombok/installer/InstallerGUI$10.SCL.lombok
+SHA-256-Digest: kg5gm2AfvjPBxtGG3MlxzicTwS/CITJenH80FkY8+Oo=
+
+Name: lombok/installer/InstallerGUI$11$1.SCL.lombok
+SHA-256-Digest: 4gaT9kZAJxQ7JC/uskm9qGon85zLIaA1qj2mch6yol0=
+
+Name: lombok/installer/InstallerGUI$11$2.SCL.lombok
+SHA-256-Digest: E1yxfylws6THd5Gz3Uj38Jfd8SB1wHUMdrzixIy0Vas=
+
+Name: lombok/installer/InstallerGUI$11$3.SCL.lombok
+SHA-256-Digest: uD4mm9OncRmxz+P9ZfNK1TnjcJJiG4OzC0eBvkM2ZwA=
+
+Name: lombok/installer/InstallerGUI$11.SCL.lombok
+SHA-256-Digest: sdnKZKpUoCbbvefFsBK0YSY2ADEx9OsPDhEBTw8WiK4=
+
+Name: lombok/installer/InstallerGUI$12.SCL.lombok
+SHA-256-Digest: NmNbRmqruirjScnoDSpqLLVE/1WU24K2YhQEVipQYok=
+
+Name: lombok/installer/InstallerGUI$13.SCL.lombok
+SHA-256-Digest: oevebBYsS6b8qNaOSZkN1AUSYDaz4dgTvaHE35dtCwE=
+
+Name: lombok/installer/InstallerGUI$2.SCL.lombok
+SHA-256-Digest: UDi/ckBzDqn1RrY4IHdtqWLve9uFmKVlcRBiwx5/VSc=
+
+Name: lombok/installer/InstallerGUI$3.SCL.lombok
+SHA-256-Digest: 5Gy9Mp9AU8AyZrf4m3cb+lR4TWu8UckcBxZwbLU/HmQ=
+
+Name: lombok/installer/InstallerGUI$4.SCL.lombok
+SHA-256-Digest: dge4FxyGuQVupDz/JB2BFBfq0PY/WaqMCJgKiv5CljY=
+
+Name: lombok/installer/InstallerGUI$5$1.SCL.lombok
+SHA-256-Digest: vZDG9YxD/75l1B26/e4qSks94iCOSg1tEAz0l2Ro1HQ=
+
+Name: lombok/installer/InstallerGUI$5.SCL.lombok
+SHA-256-Digest: OJX40y67XXDmkjsc8KtCd7btjcxvVFbH2xfhQnmA9Mc=
+
+Name: lombok/installer/InstallerGUI$6$1.SCL.lombok
+SHA-256-Digest: 99s68j9f6UOQ60sIN1BKS1h3z5CMmnJ4YPl6X9VFNfU=
+
+Name: lombok/installer/InstallerGUI$6$2.SCL.lombok
+SHA-256-Digest: OR4vLESpQaODQk3zyERyw2zSjdth7FgrLAEkhhu40A0=
+
+Name: lombok/installer/InstallerGUI$6.SCL.lombok
+SHA-256-Digest: bz/OJQagvoGDl9v89TqQ60wBgFduC2SKMjo6GDM9j1w=
+
+Name: lombok/installer/InstallerGUI$7.SCL.lombok
+SHA-256-Digest: I9rp749UltPMl5DWYohn02ZwwPBjvuVyz+FJWfEFjHY=
+
+Name: lombok/installer/InstallerGUI$8.SCL.lombok
+SHA-256-Digest: OkSM6tNCjkwIFmSLzSKjqQHhz1/CIgDG4v56c2GjboY=
+
+Name: lombok/installer/InstallerGUI$9.SCL.lombok
+SHA-256-Digest: 3ujyw1WQC9AdqliF0QyE8phDIti0hXxaZYnaYSEqwFA=
+
+Name: lombok/installer/InstallerGUI$IdesList$1.SCL.lombok
+SHA-256-Digest: zTUSK6O6dASg6TURdaUAT8MKh8jiVuRyt3QKdg7NR40=
+
+Name: lombok/installer/InstallerGUI$IdesList.SCL.lombok
+SHA-256-Digest: 49FUJifFEeSbsW0ZPdv63IN2mfjqauQoIS8b1vARd5E=
+
+Name: lombok/installer/InstallerGUI$JHyperLink.SCL.lombok
+SHA-256-Digest: 3ADfLlRCwEaD2D9M3Vqe6RH7YZ8v7RL5z1MSf1Uxfwk=
+
+Name: lombok/installer/InstallerGUI.SCL.lombok
+SHA-256-Digest: 5MEhl/zBpjfMOY84zHn/p1Oh4kRpCsyzLfs6fWK6F1w=
+
+Name: lombok/installer/OsUtils$OS.SCL.lombok
+SHA-256-Digest: R0QX+SIxIxXo6al3ROeM1cIPNEq2vvlLElI1NGv26+U=
+
+Name: lombok/installer/OsUtils.SCL.lombok
+SHA-256-Digest: 3nxrAsC8SspVQBDv1l75GI+YONMqUZXe+KlJj7b5eXg=
+
+Name: lombok/installer/UninstallException.SCL.lombok
+SHA-256-Digest: AVtVQyvNvq23fV4XtyTOeKTcCMCnia2i0p6y9IlDnd4=
+
+Name: lombok/installer/WindowsDriveInfo-i386.dll
+SHA-256-Digest: e5+HKF1Os+eqLSs24pwGu0Bb/anuOo9Zp2p1i/kbl9A=
+
+Name: lombok/installer/WindowsDriveInfo-x86_64.dll
+SHA-256-Digest: 9VVtXBz4zEUBBOrdYYLbmdpJ62cpePnx6TOz/E/6/EI=
+
+Name: lombok/installer/WindowsDriveInfo.SCL.lombok
+SHA-256-Digest: uOwm3S5l7Y2poHuO4CXAN39ffEpZm2vnIujY05bnY+o=
+
+Name: lombok/installer/eclipse/AngularIDELocationProvider.SCL.lombok
+SHA-256-Digest: 9KFnVwrA+XeFCxO50dY1LUX0V7Bq6lxRbq+MCgmQMWQ=
+
+Name: lombok/installer/eclipse/EclipseLocationProvider.SCL.lombok
+SHA-256-Digest: Yclkh6kJvzzreujJrwPUcysL168kYA2a0Dt6kPT38W0=
+
+Name: lombok/installer/eclipse/EclipseProductDescriptor.SCL.lombok
+SHA-256-Digest: 8aZAufQL4coS5KDJExpY68JO+Thzti6JuTCT7WU6NtA=
+
+Name: lombok/installer/eclipse/EclipseProductLocation.SCL.lombok
+SHA-256-Digest: vqmfg9eT4gQCG6z7GAMN8w6BI6Wp4oPFBEW0mnY/hQA=
+
+Name: lombok/installer/eclipse/EclipseProductLocationProvider$Director
+ yFinder.SCL.lombok
+SHA-256-Digest: zp/cS+AmdsIhDVey7Dt21es7CbWs1J7gaT19kAapqTE=
+
+Name: lombok/installer/eclipse/EclipseProductLocationProvider$MacFinde
+ r.SCL.lombok
+SHA-256-Digest: VKMDrLrVkacySwJ1ZZlsGHjQ5/G0X3qxVIFI6aCSCUI=
+
+Name: lombok/installer/eclipse/EclipseProductLocationProvider$UnixFind
+ er.SCL.lombok
+SHA-256-Digest: I/5n15b6odI0CQfesID8rCBRPtwvKNGWUGbkJvRmSR4=
+
+Name: lombok/installer/eclipse/EclipseProductLocationProvider$WindowsF
+ inder.SCL.lombok
+SHA-256-Digest: DqpBhnMcMx+wg20sT37sqbUafAvZeidUF4AYXEbpQC4=
+
+Name: lombok/installer/eclipse/EclipseProductLocationProvider.SCL.lomb
+ ok
+SHA-256-Digest: WnbP4y4xo/yyo1054R33TBFBZsjALfk4ywGNWEwPcCY=
+
+Name: lombok/installer/eclipse/JbdsLocationProvider.SCL.lombok
+SHA-256-Digest: PHRqH4Af4WTQc70aa4GQIIajHwOaVLk4OZuAP6d6q2c=
+
+Name: lombok/installer/eclipse/MyEclipseLocationProvider.SCL.lombok
+SHA-256-Digest: nWoiYnqq+465BJOF83uboZTaC5CG3lqcuBE0VmfO3rk=
+
+Name: lombok/installer/eclipse/RhdsLocationProvider.SCL.lombok
+SHA-256-Digest: vOgVo36VvNbVciqrGXrzcq68SQaKrkQcMdOikBGz2YU=
+
+Name: lombok/installer/eclipse/STS.png
+SHA-256-Digest: HUoFqVPBHzeynoR1k5qoGW5b8yGG+rphr128K1xKRys=
+
+Name: lombok/installer/eclipse/STS4LocationProvider.SCL.lombok
+SHA-256-Digest: d4+xDH/8gnGqqJ9y8jg48mw7GjfnrlnuwjstQTRTJYw=
+
+Name: lombok/installer/eclipse/STSLocationProvider.SCL.lombok
+SHA-256-Digest: d+L5OUnY7wxeXsCzorV5HAgSBr8Iel/uBJ7Fef2dUa4=
+
+Name: lombok/installer/eclipse/StandardProductDescriptor.SCL.lombok
+SHA-256-Digest: v/LymmMFlShrdC7n3OJOGP8EzIoOOgiAlJHTyIeNOvI=
+
+Name: lombok/installer/eclipse/angular.png
+SHA-256-Digest: j6WQaqOf7/Mclo5oUAKC1dj1NQieBoGSHxx4yaC7PVw=
+
+Name: lombok/installer/eclipse/eclipse.png
+SHA-256-Digest: 2byUjueD3WEEXGsD9tZV2etvx1jkk40xl28tiAoqEHU=
+
+Name: lombok/installer/eclipse/jbds.png
+SHA-256-Digest: HBoT0VmsoFMIkLoTaqqsqUALVOxjT6RTRw9d0P/sQT4=
+
+Name: lombok/installer/eclipse/myeclipse.png
+SHA-256-Digest: MVZQdn/yYfnb1ncmjtbyDDmqnx5y42MiqhZkjInYGxs=
+
+Name: lombok/installer/eclipse/rhds.png
+SHA-256-Digest: TwM4kHnAWBVBc5WrbeOEGkEcvkFXOAxeNhZHHkc4V7o=
+
+Name: lombok/installer/loading.gif
+SHA-256-Digest: kp+4jJo56wRlHHOU6q39jCpBZ1wR9IlPQ8FRr53nUlc=
+
+Name: lombok/installer/lombok.png
+SHA-256-Digest: rhG2hOpI60nZnX0go/kBBYiXXx8WdCSl7H85r2w/1SE=
+
+Name: lombok/installer/lombok.svg
+SHA-256-Digest: TGoGhGJ/Xy+m3gXfxHH0E+AJfnxYsa+kJqvN+3S+oRg=
+
+Name: lombok/installer/lombokIcon.png
+SHA-256-Digest: ZTY8JQ8aWWzURK5lZLtTemLqFJQzG8ysuL71Aw8HiIg=
+
+Name: lombok/installer/lombokText.png
+SHA-256-Digest: SzfBxadpmzkjgDAkvdFSA9TBb6sBAGimmPvfoGLCcf4=
+
+Name: lombok/installer/lombokText.svg
+SHA-256-Digest: aqoLkXYSkr8/rrCqqmn940dRwcp52WBtNpO7j4zJ3UQ=
+
+Name: lombok/installer/package-info.SCL.lombok
+SHA-256-Digest: xqkRK7r1nymkfqXmAXdDsklEhR4vfaOLTqSos7rm3bA=
+
+Name: lombok/javac/CapturingDiagnosticListener$CompilerMessage.SCL.lom
+ bok
+SHA-256-Digest: as5XqKVx1zACvdMEVkexXKvbn83pZfvyVsKjdVzlOF8=
+
+Name: lombok/javac/CapturingDiagnosticListener.SCL.lombok
+SHA-256-Digest: P0HgkXsS7LalRN+CGDTrrTuCzFI2/M7tA3PeUeRZ7Ug=
+
+Name: lombok/javac/CommentCatcher.SCL.lombok
+SHA-256-Digest: YMOllBvVDz4LRQb/otOUv7GbxredL4rtUdcuVrgmUgQ=
+
+Name: lombok/javac/CommentInfo$EndConnection.SCL.lombok
+SHA-256-Digest: PsKsSEHLRCF7FdGGctvib1avWGQgiHM4D792vI7qNlI=
+
+Name: lombok/javac/CommentInfo$StartConnection.SCL.lombok
+SHA-256-Digest: fx2B2pACoz8P7OLVOdoFAZKhVZd6b7vSKXUrU8ytPz4=
+
+Name: lombok/javac/CommentInfo.SCL.lombok
+SHA-256-Digest: Qm0Bvze0rnozgPh61rVQVvDk3U5Ur0gZ85F0bn4AFCM=
+
+Name: lombok/javac/CompilerMessageSuppressor$Java8WriterField.SCL.lomb
+ ok
+SHA-256-Digest: uKG8WGVCq5D/zBX9g5KeJNmKmbmT9pSBfQym0P8D9q4=
+
+Name: lombok/javac/CompilerMessageSuppressor$Java9WriterField.SCL.lomb
+ ok
+SHA-256-Digest: zoaUKme0LDEVD7M1ntc4dwd1EHKFzTSHGv6fMy399cs=
+
+Name: lombok/javac/CompilerMessageSuppressor$WriterField$1.SCL.lombok
+SHA-256-Digest: cMYKwEQQsvr/ydiJOpnXiZ676hldr+xDJYNfIIN794o=
+
+Name: lombok/javac/CompilerMessageSuppressor$WriterField$2.SCL.lombok
+SHA-256-Digest: SPoGhZwzPmY7RancSIsCWdhX01OO0XFU8vpcUyNtZi0=
+
+Name: lombok/javac/CompilerMessageSuppressor$WriterField.SCL.lombok
+SHA-256-Digest: ViI+GqNk3OhsnGUnA5W+QIgJwrej456TjQgtWqH4m1k=
+
+Name: lombok/javac/CompilerMessageSuppressor$Writers.SCL.lombok
+SHA-256-Digest: q9teIDIZhgf9DzgoOgKW/qs4OHUWU36EaVi11T+iSQs=
+
+Name: lombok/javac/CompilerMessageSuppressor.SCL.lombok
+SHA-256-Digest: xZeHttH5YjJJwv/EORubXmMXUdfIeoix5q8snnA2ZhY=
+
+Name: lombok/javac/FindTypeVarScanner.SCL.lombok
+SHA-256-Digest: f+HimU8nuLTgNZWV6etfFJVT4nBeHh4ITayc4T9Pq38=
+
+Name: lombok/javac/HandlerLibrary$AnnotationHandlerContainer.SCL.lombo
+ k
+SHA-256-Digest: lff4p3dfhSTrU1cIQtHGDbUVH0vpbX8+CJ79mi4VpOM=
+
+Name: lombok/javac/HandlerLibrary$VisitorContainer.SCL.lombok
+SHA-256-Digest: 1nyXx2IaBzABT03Xlrx3lQ9dISajoUyExEujZGiEWj8=
+
+Name: lombok/javac/HandlerLibrary.SCL.lombok
+SHA-256-Digest: 5j77HU+0Fecxeaqx+JG+l28rhKQIlx4HIqk9X0UJ1E8=
+
+Name: lombok/javac/Javac$JCNoType.SCL.lombok
+SHA-256-Digest: gBi+Udj/I/Ap/AepytOBihncTdSCb/50qb5nyDg84M8=
+
+Name: lombok/javac/Javac$JavadocOps_8$1.SCL.lombok
+SHA-256-Digest: ttim6NJ72wbnKc5/yIsH+2tiMxG9Yojj1+V39Vw8lO8=
+
+Name: lombok/javac/Javac$JavadocOps_8.SCL.lombok
+SHA-256-Digest: g5e95Aml9BmbpGkU5TbuqAbb/W+WYDsZ6wTXb0+AYk0=
+
+Name: lombok/javac/Javac.SCL.lombok
+SHA-256-Digest: boDG/lc1Lx8yHjSKzq+Qovl+nbzyTaaM9r4y9tujdrM=
+
+Name: lombok/javac/Javac6BasedLombokOptions.SCL.lombok
+SHA-256-Digest: oN2PqMBscE6BOkGgIbwqAWN8oE5bxBYskgVUGnq5Em4=
+
+Name: lombok/javac/Javac8BasedLombokOptions.SCL.lombok
+SHA-256-Digest: l+n6YOc7tKlJ0oxEMRgSnuHV2wie+117wAxcFjHKY9Y=
+
+Name: lombok/javac/Javac9BasedLombokOptions.SCL.lombok
+SHA-256-Digest: Z5zRmDt7dJRVuTiN/BZsUYRzKgipBRjenh+WdklbcbU=
+
+Name: lombok/javac/JavacAST$1.SCL.lombok
+SHA-256-Digest: xaIYeXlvoJDrEDvmfz/+2wxsiFB+jvwfdfLZ6NPNe3o=
+
+Name: lombok/javac/JavacAST$ErrorLog.SCL.lombok
+SHA-256-Digest: jSXxtoYUojR+q5RD3KtoL4ZUMymPw1fn3dQhPG7udBE=
+
+Name: lombok/javac/JavacAST$Jdk9Plus.SCL.lombok
+SHA-256-Digest: kPP/Q6ttoBADjAEgjZb7RoUzaWHBtzoH1kAWsqyRdBQ=
+
+Name: lombok/javac/JavacAST$JdkBefore9.SCL.lombok
+SHA-256-Digest: rzI5fhViMcV7D0MZa5txmpwcL2Z57tKgWPamS/aMsrI=
+
+Name: lombok/javac/JavacAST.SCL.lombok
+SHA-256-Digest: ctQfc1sQjyuY/XPf7w5vywZDOA4EjkAFrqGCYA/ZkQc=
+
+Name: lombok/javac/JavacASTAdapter.SCL.lombok
+SHA-256-Digest: 4ApfB3GmikhEQKpB0m/OXRMLG3yuaMbwSvPqaGHC9nY=
+
+Name: lombok/javac/JavacASTVisitor$Printer.SCL.lombok
+SHA-256-Digest: HioV/G/13KXuLiQo8pxsAI0gPx7sbO3vqHWEiLOFmyI=
+
+Name: lombok/javac/JavacASTVisitor.SCL.lombok
+SHA-256-Digest: C6i/QB9YgnQxjTlQFNm9cUZ+1MjdBfMWJUJhVe6Lzq0=
+
+Name: lombok/javac/JavacAnnotationHandler.SCL.lombok
+SHA-256-Digest: 0rX5h0/E555YcSuuUyfc1kGREjcZSfJnpfaF3sMXe0A=
+
+Name: lombok/javac/JavacAugments.SCL.lombok
+SHA-256-Digest: Zib7eD6lXgtM2Co4/EGmn4LCUXH5Q0ZZsQgedT3xBUI=
+
+Name: lombok/javac/JavacImportList.SCL.lombok
+SHA-256-Digest: stdaPNTkvJ8gqh5Q2AdpfdmhmXVi0g1GuYp9ySVMCb0=
+
+Name: lombok/javac/JavacNode$1.SCL.lombok
+SHA-256-Digest: kFHNGQD15pzrLRdgW02tNygY/t7LVLw0pWr//yAUgB8=
+
+Name: lombok/javac/JavacNode.SCL.lombok
+SHA-256-Digest: tAwJt8ai6Grp5W/rx8PHSni5oHmt/OQMXE6MFXTgoG8=
+
+Name: lombok/javac/JavacResolution$1.SCL.lombok
+SHA-256-Digest: XdQ8KhSIwfH7lqmDbjQArMhOD98P8x19B6BNLPNJCUU=
+
+Name: lombok/javac/JavacResolution$EnvFinder.SCL.lombok
+SHA-256-Digest: RkAb+RmTwdr+ZbNBScmfrHSquX5sOK1m1U6Qe6AkQYs=
+
+Name: lombok/javac/JavacResolution$ReflectiveAccess.SCL.lombok
+SHA-256-Digest: MpzOmMTze2k7IswfqFWA8mJ8Ebwqnk0hcBe8uHqnDk8=
+
+Name: lombok/javac/JavacResolution$TypeNotConvertibleException.SCL.lom
+ bok
+SHA-256-Digest: jLEImjoOp7D4RogTWCWzcOioGb1W2YxEiQDEYglwOhI=
+
+Name: lombok/javac/JavacResolution.SCL.lombok
+SHA-256-Digest: CJaD4p3Egqo2Vi+q2oBcfA4yqDwkFu+mEga7M/vjQZw=
+
+Name: lombok/javac/JavacTransformer$AnnotationVisitor.SCL.lombok
+SHA-256-Digest: 5JV0YiDB8doHEvVRnMlZA9rx6vnoJZqe1a5JcmPCuEg=
+
+Name: lombok/javac/JavacTransformer.SCL.lombok
+SHA-256-Digest: rXug6D66EaH5CU0vbzbwgE3Yqpo1gnL/V6KFQqXQNA8=
+
+Name: lombok/javac/JavacTreeMaker$1.SCL.lombok
+SHA-256-Digest: ANz/+VeKTmEjdxYQ63/+BGA/yZnrl/anPzLr5roCEg4=
+
+Name: lombok/javac/JavacTreeMaker$Case12.SCL.lombok
+SHA-256-Digest: qtXQlOQgV4JKWPbBB5F/3uO92jp4nJFf7ifQV6OgVo8=
+
+Name: lombok/javac/JavacTreeMaker$MethodId.SCL.lombok
+SHA-256-Digest: erRccnhh5KOyfw/cOvgBxgoKWOYdlZPIxPw82PhYw6w=
+
+Name: lombok/javac/JavacTreeMaker$SchroedingerType.SCL.lombok
+SHA-256-Digest: m1lK/jvR1zTZIXWouiYeeZyI5yUOe+lP+64T13C4fCk=
+
+Name: lombok/javac/JavacTreeMaker$TreeTag.SCL.lombok
+SHA-256-Digest: wOfnkOk6S2O3j5BrwRzGrpW9N0FR/kzD8IXQmOowa0k=
+
+Name: lombok/javac/JavacTreeMaker$TypeTag.SCL.lombok
+SHA-256-Digest: 0OQcSSBnES86XYak/b1aafTK2DxM7y5GVbHv9o8fk1U=
+
+Name: lombok/javac/JavacTreeMaker.SCL.lombok
+SHA-256-Digest: pv9VNO/IEmK+x5IKmf0TmT2Q2GuCJ02N/TkjIcSK/Ro=
+
+Name: lombok/javac/LombokOptions.SCL.lombok
+SHA-256-Digest: z0CqO6a4p+VHLaxE6i7//lfU4B4+1+MwhJNzpGZbS5U=
+
+Name: lombok/javac/PackageName.SCL.lombok
+SHA-256-Digest: 92J2PfD47P1dJbxtcPzQdVgQxxle4e6atqU3hdSQzOY=
+
+Name: lombok/javac/ResolutionResetNeeded.SCL.lombok
+SHA-256-Digest: K2yF1Rda7Fs8ORiRFKnZGiYJzpo7unISCGVJR4nGrwc=
+
+Name: lombok/javac/TreeMirrorMaker.SCL.lombok
+SHA-256-Digest: aCPwrPRvVnoca3mmiJ7aYv/uuEdfvXe683dt+1qXSQ8=
+
+Name: lombok/javac/apt/InterceptingJavaFileManager.SCL.lombok
+SHA-256-Digest: evwoSa/+gKyJLy+51CfXaEw4rAaxAnbd3SpK7cuXG4E=
+
+Name: lombok/javac/apt/InterceptingJavaFileObject.SCL.lombok
+SHA-256-Digest: cxj/TcuFYrwkPVAvy5KFl1woxIJdoqJNEZcNnhAK0wE=
+
+Name: lombok/javac/apt/Javac6BaseFileObjectWrapper.SCL.lombok
+SHA-256-Digest: jfBxSms0Vh0fktaUap0owOflcDN5RhHdZwD540qpBis=
+
+Name: lombok/javac/apt/Javac7BaseFileObjectWrapper.SCL.lombok
+SHA-256-Digest: EP/uO6QmfJ+YKClqr2PgoV5sTQrnfrzOVytfrcu1qzg=
+
+Name: lombok/javac/apt/Javac9BaseFileObjectWrapper.SCL.lombok
+SHA-256-Digest: eR2p3CRWM9OH1EoPJPH3kvXBNlKsofjRc2TWTfIOtwU=
+
+Name: lombok/javac/apt/Javac9JavaFileObjectWrapper.SCL.lombok
+SHA-256-Digest: J6d+mPY8o5ePeR8yzk0tEXvTdrv6pX6/C7hpkKFZyYE=
+
+Name: lombok/javac/apt/LombokFileObject.SCL.lombok
+SHA-256-Digest: mwWnlVPEkRIxHNaiGAz/Hi8D+qdN8/NZO87lDTQT/JY=
+
+Name: lombok/javac/apt/LombokFileObjects$Compiler$1.SCL.lombok
+SHA-256-Digest: W7fUjEmlndmC/1WedD0RjpaoMB+Wtu0J/N6ncszGgNE=
+
+Name: lombok/javac/apt/LombokFileObjects$Compiler$2.SCL.lombok
+SHA-256-Digest: sR6cBw145hTKBpsYlEkexbbR9xcSMtj6zl+kTPQZv4Q=
+
+Name: lombok/javac/apt/LombokFileObjects$Compiler.SCL.lombok
+SHA-256-Digest: mgVQhZhDVrP/X44iBeYGjpBPgk3fPMCMzZzAjGFOId8=
+
+Name: lombok/javac/apt/LombokFileObjects$Java9Compiler$FileManagerWrap
+ per.SCL.lombok
+SHA-256-Digest: QSLdZtGBWO/Y+ykfnTMx/uPNPa13VNeGq060ZOebvrg=
+
+Name: lombok/javac/apt/LombokFileObjects$Java9Compiler.SCL.lombok
+SHA-256-Digest: 91mtfPTLuTw/LlieWtg1RrisDzLhLC+QWPsgqbJaXMw=
+
+Name: lombok/javac/apt/LombokFileObjects.SCL.lombok
+SHA-256-Digest: 1R9sqcudcQKxdgaw6hX5qUKl22MGKG3q0Twf8myr2+w=
+
+Name: lombok/javac/apt/LombokProcessor$1.SCL.lombok
+SHA-256-Digest: +gfVFu8ctWsOziEy5RY18o5x4/A0v2Hk8tshx5do0+Y=
+
+Name: lombok/javac/apt/LombokProcessor$ModuleNameOracle.SCL.lombok
+SHA-256-Digest: vNm6Ke5j2AKkonZ9jUStzh2gdlI1xOl/xpgx+XW2gB8=
+
+Name: lombok/javac/apt/LombokProcessor.SCL.lombok
+SHA-256-Digest: 4vPUYBCI8Kl8Zo+tlTQE25xowslNABaNHIhQk0uhSXs=
+
+Name: lombok/javac/apt/MessagerDiagnosticsReceiver.SCL.lombok
+SHA-256-Digest: iheE40RijBJ7PjRUQzF4GF/tZ5FbJ1kHrzR07Gj8IYk=
+
+Name: lombok/javac/apt/package-info.SCL.lombok
+SHA-256-Digest: ZMiKDjo2kcXREWGxLo95jjOtJO4wUtrvI5PQtziX0c0=
+
+Name: lombok/javac/handlers/HandleAccessors.SCL.lombok
+SHA-256-Digest: eFUb7CltNaqUKAKHz4+flY4NVmDiOm6JWOeEh/srvsk=
+
+Name: lombok/javac/handlers/HandleBuilder$1.SCL.lombok
+SHA-256-Digest: tiap/XdmxjJFr3Q3ybPLaShP43B80svRt2HqlBDjROc=
+
+Name: lombok/javac/handlers/HandleBuilder$BuilderFieldData.SCL.lombok
+SHA-256-Digest: gAynNbNbAfQdhtL8PbUHGDEGTVNColvYpQUHwV8EGck=
+
+Name: lombok/javac/handlers/HandleBuilder.SCL.lombok
+SHA-256-Digest: YYkEVBb0Pu32T3AQ7QGi5q04PA1AP756FBvYBqs19Ow=
+
+Name: lombok/javac/handlers/HandleBuilderDefault.SCL.lombok
+SHA-256-Digest: eYsYyAgGHmF0l0P4shp3xNDnnU9IZ4TOSfyQi1RUWv4=
+
+Name: lombok/javac/handlers/HandleBuilderDefaultRemove.SCL.lombok
+SHA-256-Digest: E7EMgCThoJu7am5g1foynRWMlpwnuzC4zlFLBzCZcco=
+
+Name: lombok/javac/handlers/HandleCleanup.SCL.lombok
+SHA-256-Digest: wSh48ZpdkreK7tWtwAmRdsmS/QFKxEQgFR8F4khCg6A=
+
+Name: lombok/javac/handlers/HandleConstructor$1.SCL.lombok
+SHA-256-Digest: lzqb/3o5+iw2kpuWOfkEc6Y9eF5o1bc5xfBYepixZ1w=
+
+Name: lombok/javac/handlers/HandleConstructor$HandleAllArgsConstructor
+ .SCL.lombok
+SHA-256-Digest: 2HyaLszrKxc0qcECDQfC21dL9W/NjGFlaU135rXQKqE=
+
+Name: lombok/javac/handlers/HandleConstructor$HandleNoArgsConstructor.
+ SCL.lombok
+SHA-256-Digest: jG6jAozJXw295e7LvqN2T6UZ8yJbwBb/KMerWYroopI=
+
+Name: lombok/javac/handlers/HandleConstructor$HandleRequiredArgsConstr
+ uctor.SCL.lombok
+SHA-256-Digest: sAi24l1fNeKUFV3Cy1bi1aLMtlD+jfhmTWsyH4tnBlc=
+
+Name: lombok/javac/handlers/HandleConstructor$SkipIfConstructorExists.
+ SCL.lombok
+SHA-256-Digest: /wFzqdiYQEbvX5fgY+SdqhwAIDq63OBdpO7OlaY0VNk=
+
+Name: lombok/javac/handlers/HandleConstructor.SCL.lombok
+SHA-256-Digest: EyBElZsjpcD0vBw+rFzda57YixoRlZRXRZ6aeJ9Nmqo=
+
+Name: lombok/javac/handlers/HandleData.SCL.lombok
+SHA-256-Digest: 4d+FL+JKC8p68/HcPdsA8PZOj2MT+iiDdZeM6mfEOfs=
+
+Name: lombok/javac/handlers/HandleDelegate$1.SCL.lombok
+SHA-256-Digest: u422L2l6AJVklJ4/CHSeuvV2BAvHVmLeqmro4Kk2m0k=
+
+Name: lombok/javac/handlers/HandleDelegate$CantMakeDelegates.SCL.lombo
+ k
+SHA-256-Digest: 0ptm0zMUmqMc/00FEDJC8fmAcxsRapk89x5psGlyxL4=
+
+Name: lombok/javac/handlers/HandleDelegate$DelegateReceiver$1.SCL.lomb
+ ok
+SHA-256-Digest: jYg9S/N9wDknn/rctkGn3dcIt68wa1liahw885XDdaQ=
+
+Name: lombok/javac/handlers/HandleDelegate$DelegateReceiver$2.SCL.lomb
+ ok
+SHA-256-Digest: uY7TWZ7yIMPT5gUvZr7G6bPhhxySiVPHPZ4oLDJUKuU=
+
+Name: lombok/javac/handlers/HandleDelegate$DelegateReceiver.SCL.lombok
+SHA-256-Digest: Cu6T4ST/zesyevOg6ogdUBO2Qnqu/ZvOHw9Q5W11kaE=
+
+Name: lombok/javac/handlers/HandleDelegate$DelegateRecursion.SCL.lombo
+ k
+SHA-256-Digest: x9hjCA6LMAn4ADVn0oEDwvHk7Qn8mU1biPZ2REq3fHA=
+
+Name: lombok/javac/handlers/HandleDelegate$MethodSig.SCL.lombok
+SHA-256-Digest: HT9bU4uKGHzZOOtcRcJ2yO1U3L9o6F5mRJ60IDRBrFk=
+
+Name: lombok/javac/handlers/HandleDelegate$Unannotated.SCL.lombok
+SHA-256-Digest: tWaf+qOeGUqJuklwGUl6fC1lcsP8YlfWaHK3TFX3Khg=
+
+Name: lombok/javac/handlers/HandleDelegate.SCL.lombok
+SHA-256-Digest: 1agyVrR8YReWuDkEvbKdFVl4rzW3beI2/Yn9odYZlD8=
+
+Name: lombok/javac/handlers/HandleEqualsAndHashCode$1.SCL.lombok
+SHA-256-Digest: fknoaT46mExlLzCypokMw1L8jADDQ8nhf0u8i7exnrk=
+
+Name: lombok/javac/handlers/HandleEqualsAndHashCode.SCL.lombok
+SHA-256-Digest: bNNaGOsl3a14rwNzlhC75863x2JGtjOna/RVrRImXS8=
+
+Name: lombok/javac/handlers/HandleExtensionMethod$Extension.SCL.lombok
+SHA-256-Digest: 8+lKFGAh9hsDBFkm0KpfBek2lqf+4z6djmluxar2sFU=
+
+Name: lombok/javac/handlers/HandleExtensionMethod$ExtensionMethodRepla
+ ceVisitor.SCL.lombok
+SHA-256-Digest: TUfSLoj/YgxiNuR0wwqL5J77bZFS2iBMh/96nPrLM/E=
+
+Name: lombok/javac/handlers/HandleExtensionMethod.SCL.lombok
+SHA-256-Digest: 0X7L22ufBvuiJCMCaPfuv4GJRi7yDr43MNXcZfNniuk=
+
+Name: lombok/javac/handlers/HandleFieldDefaults.SCL.lombok
+SHA-256-Digest: +RK3UIUhpqegFtIgxRmuKheXYRAOhjRZEHpqD5k8Oq4=
+
+Name: lombok/javac/handlers/HandleFieldNameConstants.SCL.lombok
+SHA-256-Digest: DtVHXlvBZUxnBlstDvP/Akno3fQ6Q/zyNuMxR3d1Rqs=
+
+Name: lombok/javac/handlers/HandleGetter$1.SCL.lombok
+SHA-256-Digest: ICprRZo0IY5k8tphdLjibLTD5dH4p66p1ECcSMo0viU=
+
+Name: lombok/javac/handlers/HandleGetter.SCL.lombok
+SHA-256-Digest: /3GpdcjzLJKI9sMJsYpTMgtZA5gDIVasLgRGwQreujc=
+
+Name: lombok/javac/handlers/HandleHelper$1.SCL.lombok
+SHA-256-Digest: vE79NpAZvzna7TUkAA4SCqvTK9QxgfoPhuy82ZVSHLU=
+
+Name: lombok/javac/handlers/HandleHelper.SCL.lombok
+SHA-256-Digest: Ua9rXhgBvMMd6gaSuZjpaUj8op2yGX7Hiu6pWmSylys=
+
+Name: lombok/javac/handlers/HandleLog$1.SCL.lombok
+SHA-256-Digest: C6SUHMIzHRCGiZ1WaL0goTxXi+nujZ6EZKvflwH59z8=
+
+Name: lombok/javac/handlers/HandleLog$HandleCommonsLog.SCL.lombok
+SHA-256-Digest: 8YwV5kDMGoJDU9AV3t6Mj8UIWeM5FU0AWThCCFG+WwI=
+
+Name: lombok/javac/handlers/HandleLog$HandleFloggerLog.SCL.lombok
+SHA-256-Digest: GlAFeTJkoj01NNmnzObt//Ja3UYeLA5KBqxDftxb0XQ=
+
+Name: lombok/javac/handlers/HandleLog$HandleJBossLog.SCL.lombok
+SHA-256-Digest: YUdN8ROwepcpGvlFTCjbJKCVlJhkXtSU7N3UBbHs0k0=
+
+Name: lombok/javac/handlers/HandleLog$HandleJulLog.SCL.lombok
+SHA-256-Digest: 5m8tROOkMW0FWOyBFxL1ucrqcvqQ4cTvXjXMP9FPW84=
+
+Name: lombok/javac/handlers/HandleLog$HandleLog4j2Log.SCL.lombok
+SHA-256-Digest: LYGBuvHY+oA50yedh/NlTJxxnG6ek4+byKDlcAGI+g4=
+
+Name: lombok/javac/handlers/HandleLog$HandleLog4jLog.SCL.lombok
+SHA-256-Digest: TwW6yWc2aCeO8oqFdNvLPdg+oeqEF6GLk1e4GQX2EsM=
+
+Name: lombok/javac/handlers/HandleLog$HandleSlf4jLog.SCL.lombok
+SHA-256-Digest: ACzMlpmKgaNHeVy2CeBySThi5wlXjz36yH+9t05hUtc=
+
+Name: lombok/javac/handlers/HandleLog$HandleXSlf4jLog.SCL.lombok
+SHA-256-Digest: /MmXByUnOlNnJZvH3T4fXtqMBuuV/1KMvXxISpL8MRU=
+
+Name: lombok/javac/handlers/HandleLog$LoggingFramework$1.SCL.lombok
+SHA-256-Digest: dQZHUxrFt/znDcK54q6DyAkVJoK69Ev+2eqbSk5tysE=
+
+Name: lombok/javac/handlers/HandleLog$LoggingFramework.SCL.lombok
+SHA-256-Digest: gQigrG/4lDFiuSJxRZtKFK/rsh+jygsBSa1w3iAAXgg=
+
+Name: lombok/javac/handlers/HandleLog.SCL.lombok
+SHA-256-Digest: q0rbjsa0cy/iXBt0BqvvA+6zZL8qDcR2YK1rhsvRO/4=
+
+Name: lombok/javac/handlers/HandleNonNull$1.SCL.lombok
+SHA-256-Digest: liozkAZNscFIopgSj464MY9bd16JjES0EOGTCUbk2pE=
+
+Name: lombok/javac/handlers/HandleNonNull.SCL.lombok
+SHA-256-Digest: KQPO66rGPHSpVWTX8PzAebziXJgwfnMtG4GqaOhMywk=
+
+Name: lombok/javac/handlers/HandlePrintAST.SCL.lombok
+SHA-256-Digest: iPQQ/XJcZFyilw3yU8m1LXxHHT0McY713SVegYgMItc=
+
+Name: lombok/javac/handlers/HandleSetter$1.SCL.lombok
+SHA-256-Digest: u+4J3yQpOUTpjqWipMB35lwBu52rut1R3BzptGZm69c=
+
+Name: lombok/javac/handlers/HandleSetter.SCL.lombok
+SHA-256-Digest: Vren+40X10UsJAdH3kLcD0dVxY26JaWjK31tNu/A368=
+
+Name: lombok/javac/handlers/HandleSneakyThrows$1.SCL.lombok
+SHA-256-Digest: Uucujq08yPyv88H2vy5pGnxWWzIHa8NSAtLVUOSJFvM=
+
+Name: lombok/javac/handlers/HandleSneakyThrows.SCL.lombok
+SHA-256-Digest: vYq7Sg2coFp4ZOyohSX/MwvqcBIVnrwDYiZBbhaffqo=
+
+Name: lombok/javac/handlers/HandleSuperBuilder$1.SCL.lombok
+SHA-256-Digest: gqPXxtSWC/Ee+oh/YEIeLOeRRSbcq+fphG7w+7SqU88=
+
+Name: lombok/javac/handlers/HandleSuperBuilder$2.SCL.lombok
+SHA-256-Digest: vVfupWTTnHS0JHVxrBYj7DFGiqIwZYKSjQdwppau5nM=
+
+Name: lombok/javac/handlers/HandleSuperBuilder$3.SCL.lombok
+SHA-256-Digest: p3v/MN9B5MmJo9BmBKv+3kbEeJxzLqAZEjRmfS71rqo=
+
+Name: lombok/javac/handlers/HandleSuperBuilder.SCL.lombok
+SHA-256-Digest: P1hQ0a0gwnZvM4gR1ryhjLPrK93+M7qmL0G8b2uPcrM=
+
+Name: lombok/javac/handlers/HandleSynchronized.SCL.lombok
+SHA-256-Digest: 8cuug88lG/Nag6IyP418qYaVxLmwZLzyf/4jaDNGTyA=
+
+Name: lombok/javac/handlers/HandleToString$1.SCL.lombok
+SHA-256-Digest: X6CJqRyVf4qRQ/3mloJvG4mAzFfJUYylahNbFD+WThM=
+
+Name: lombok/javac/handlers/HandleToString.SCL.lombok
+SHA-256-Digest: 5w7ZtlIERL4UDgBrbzvgQX2EI44rzSUInBjAWqROgT8=
+
+Name: lombok/javac/handlers/HandleUtilityClass$1.SCL.lombok
+SHA-256-Digest: XUbq1l9IyLQdhvU3aXd2R+5cOqdQZhR8skV7BWAG64k=
+
+Name: lombok/javac/handlers/HandleUtilityClass.SCL.lombok
+SHA-256-Digest: 4JrmUHoe3aZfOzFBAYmkLpc8NhdR6qqWle4ysRiDqYc=
+
+Name: lombok/javac/handlers/HandleVal.SCL.lombok
+SHA-256-Digest: n7HNwgO6zR7H3erWBcv1KCkBqKaWsjMzkgiebFbYApw=
+
+Name: lombok/javac/handlers/HandleValue.SCL.lombok
+SHA-256-Digest: w36NEjuBDtvlDi4ZVt0umbrZEpO/BIh3xQSSDZDorU8=
+
+Name: lombok/javac/handlers/HandleWither$1.SCL.lombok
+SHA-256-Digest: bBh5UFR368GlusiXNp+eqy2UMk/wme9HggGq6vLuUBc=
+
+Name: lombok/javac/handlers/HandleWither.SCL.lombok
+SHA-256-Digest: aCmMedzT+mzjQabUX+xCLSVAnrWvp1FFgVHLAfKAdRc=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$1.SCL.lombok
+SHA-256-Digest: EoZ8ozwUm8nubkoUm63S+YXc0KftYe9wWpiYqCmAtd4=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$2.SCL.lombok
+SHA-256-Digest: hv90JAsUSkGT+I4JW+7KB61OwaQhjOyrxcBDzGJyZ/A=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$3.SCL.lombok
+SHA-256-Digest: PNPq0jnz8bZix1kas0L9gI2dobqTxY0eBjdSpB4CTIY=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$ClassSymbolMembersField.S
+ CL.lombok
+SHA-256-Digest: 7WGoRS4xzKqUTVZb85ewh0LmAYx1xFuEUWOBLWC6UJo=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$CopyJavadoc$1.SCL.lombok
+SHA-256-Digest: ipYgOHT5s++vhzqtc1/n1oNpaBMpCmpsiwEd1H6V8TY=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$CopyJavadoc$2$1.SCL.lombo
+ k
+SHA-256-Digest: dabRT4xYvfws62NoDGY5PngvIX986k12YAJXioujPrY=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$CopyJavadoc$2.SCL.lombok
+SHA-256-Digest: 6/geK4qD2k1QSF0IX2jfkcJe7oSXihJ09h/Eetc2R+w=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$CopyJavadoc$3.SCL.lombok
+SHA-256-Digest: VW99ubyZS43Oo7xr8L7S66ZBpwrc1EsjGGKrzx5IM14=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$CopyJavadoc$4.SCL.lombok
+SHA-256-Digest: QFWucH5z6XhAOSA9krrgBr6m1kNNi1DEeY7k6pFU58Y=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$CopyJavadoc$5.SCL.lombok
+SHA-256-Digest: Mti9R/kKLfDqWTWuIOrumdM3/XkFum1+jaIiNc/BwmI=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$CopyJavadoc.SCL.lombok
+SHA-256-Digest: DdxpmJnyxMTXIPkyFaTl2eEznSRjK81So28u0BcQZe0=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$GetterMethod.SCL.lombok
+SHA-256-Digest: sWvVlLqRpDN6AHFsK9DvS8ztBbex5pd0QmUTB+V4aW4=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$JCAnnotatedTypeReflect.SC
+ L.lombok
+SHA-256-Digest: 5GOCntJ48zRwQ3nczPMZnL1JGW3eIfuNdU9123h2wP0=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$MarkingScanner.SCL.lombok
+SHA-256-Digest: J2dySYRcZxXP9nBBG47oW47k9bGzfOJYgmUAQq/Wt9E=
+
+Name: lombok/javac/handlers/JavacHandlerUtil$MemberExistsResult.SCL.lo
+ mbok
+SHA-256-Digest: tkoUYE/9HEKQ3XQRu0xjxJh3aKv1Y2xfuc8zxqERg0M=
+
+Name: lombok/javac/handlers/JavacHandlerUtil.SCL.lombok
+SHA-256-Digest: cA1Xz/ORUZXQl/Ti2Djgc+gnhY8suhqF5BvGNquzfRA=
+
+Name: lombok/javac/handlers/JavacResolver$1.SCL.lombok
+SHA-256-Digest: 75qbPvLC0tjK+m5y65FHNBgLE3WhPVRQtyiOuPMeJEQ=
+
+Name: lombok/javac/handlers/JavacResolver$2.SCL.lombok
+SHA-256-Digest: 2Mx2RIOJFSN1DSs+lnZr1L07Z3/G94eCJpCOR2n55hQ=
+
+Name: lombok/javac/handlers/JavacResolver$3.SCL.lombok
+SHA-256-Digest: R6TXCPMdmsNdvcMz0cyZxurKJtZFd+NHa0UVR5U8pBY=
+
+Name: lombok/javac/handlers/JavacResolver.SCL.lombok
+SHA-256-Digest: 84Csom51MNUeFppjw0jHSbfNXRHdt1i3N7CLyBm6PPI=
+
+Name: lombok/javac/handlers/JavacSingularsRecipes$1.SCL.lombok
+SHA-256-Digest: rjEO8noAp22iolxG6ntXPOfsqxAIsTowAVx08bPu2Gc=
+
+Name: lombok/javac/handlers/JavacSingularsRecipes$ExpressionMaker.SCL.
+ lombok
+SHA-256-Digest: 9SVHiNeRRV1F2HAtrfwO1F7mjeX5d+SapqhYVjOYObU=
+
+Name: lombok/javac/handlers/JavacSingularsRecipes$JavacSingularizer$1.
+ SCL.lombok
+SHA-256-Digest: TCfI3bzucAQl1UsCSEG2y+NMgSj5JqR+YYnJ/y3rvw4=
+
+Name: lombok/javac/handlers/JavacSingularsRecipes$JavacSingularizer$2.
+ SCL.lombok
+SHA-256-Digest: rcWa0JNw5br31rj7e9NmVFPMgDBEBT91LU348M8NlX0=
+
+Name: lombok/javac/handlers/JavacSingularsRecipes$JavacSingularizer.SC
+ L.lombok
+SHA-256-Digest: 75+xq+V9fIJCfznWZik1y7Fnv2VTFYMj2t/fAWhKFAI=
+
+Name: lombok/javac/handlers/JavacSingularsRecipes$SingularData.SCL.lom
+ bok
+SHA-256-Digest: ZePciPFvxJL4EBOEz8ih0sGe/JCRJ6LrBRHbcd2I6Ig=
+
+Name: lombok/javac/handlers/JavacSingularsRecipes$StatementMaker.SCL.l
+ ombok
+SHA-256-Digest: AZ5f+HGLG2thkCGxhLtpwP5DlHGsRNzI3Npmnr9C6v0=
+
+Name: lombok/javac/handlers/JavacSingularsRecipes.SCL.lombok
+SHA-256-Digest: Vkmvqn6DpZD/QG+8RUETxyDLuLBdqYHOuFDXOhMBOtg=
+
+Name: lombok/javac/handlers/package-info.SCL.lombok
+SHA-256-Digest: ui7+3WX8M8DDsKmCKlCJoUieFoLTv6enHnpowxquNUU=
+
+Name: lombok/javac/handlers/singulars/JavacGuavaMapSingularizer.SCL.lo
+ mbok
+SHA-256-Digest: X5+DzDHTzvysI8+fD9uFGEAB4yOY0RQuCbSCE2JwL9A=
+
+Name: lombok/javac/handlers/singulars/JavacGuavaSetListSingularizer.SC
+ L.lombok
+SHA-256-Digest: yoW9mxvfe13KE5s/ebmAqTXOLM/wGjBLQh59rjLGGUo=
+
+Name: lombok/javac/handlers/singulars/JavacGuavaSingularizer.SCL.lombo
+ k
+SHA-256-Digest: z5fHRyF8Zhy0oTypBz7JQXZBShpT7SzrxpCV2R+k9NQ=
+
+Name: lombok/javac/handlers/singulars/JavacGuavaTableSingularizer.SCL.
+ lombok
+SHA-256-Digest: lR+QuYhkH/zIapUupOeQBniTxtSVPIS3VoO6kNyQFy4=
+
+Name: lombok/javac/handlers/singulars/JavacJavaUtilListSetSingularizer
+ .SCL.lombok
+SHA-256-Digest: 3K8jh9VzyWATXlTnTouiliyF1r/NxvJtzviCpDAxE2o=
+
+Name: lombok/javac/handlers/singulars/JavacJavaUtilListSingularizer.SC
+ L.lombok
+SHA-256-Digest: U7fD7pF3G1IeBzP5jezXigjx5YLnvHpq8npr3cxlsdU=
+
+Name: lombok/javac/handlers/singulars/JavacJavaUtilMapSingularizer.SCL
+ .lombok
+SHA-256-Digest: ylAqS/7iwnqVvk+Pt0b4Zhr772AT9LDAAbkvkEuimVA=
+
+Name: lombok/javac/handlers/singulars/JavacJavaUtilSetSingularizer.SCL
+ .lombok
+SHA-256-Digest: qW4mww9Jldailp3zr8cYhQbrmoYQ9D9ODiSNCpGgk1A=
+
+Name: lombok/javac/handlers/singulars/JavacJavaUtilSingularizer.SCL.lo
+ mbok
+SHA-256-Digest: qhAbpE1mhwmhONCyBFiEKF2kcL6NFONVBTNPSh9Vnz8=
+
+Name: lombok/javac/java6/CommentCollectingParser.SCL.lombok
+SHA-256-Digest: 3X+AE5iXcwJR+COkot7sqedS6m8uGyWmPRYhvsFM55g=
+
+Name: lombok/javac/java6/CommentCollectingParserFactory.SCL.lombok
+SHA-256-Digest: BwwhNuYr1CTE2mdvCrL/2AqyXArZ5aa4yoiNZ6jwhPU=
+
+Name: lombok/javac/java6/CommentCollectingScanner.SCL.lombok
+SHA-256-Digest: KbwVYxDn3+Rg8os8Kngeg+hycWh3AyePlUSxlw3nMhk=
+
+Name: lombok/javac/java6/CommentCollectingScannerFactory$1MyFactory.SC
+ L.lombok
+SHA-256-Digest: jkDjhdC4xJcvrZ8MylsGjWfkCrWSbBhFbbVjiUxDIBU=
+
+Name: lombok/javac/java6/CommentCollectingScannerFactory.SCL.lombok
+SHA-256-Digest: 2P75/mlsKw8Jy1jEszxRxMeZ71B+Sk/q4AZGuCBY7xQ=
+
+Name: lombok/javac/java7/CommentCollectingParser.SCL.lombok
+SHA-256-Digest: W5KDVZon/8yBUHUYsx0Nap7LoSzctG+vAiBML3mzTHI=
+
+Name: lombok/javac/java7/CommentCollectingParserFactory.SCL.lombok
+SHA-256-Digest: /8Zc9Zt43Kl8oxiH3Z7oWNvFQ5suHJ8dYpFs+iHgPro=
+
+Name: lombok/javac/java7/CommentCollectingScanner.SCL.lombok
+SHA-256-Digest: 2+s86utFPJYbJqBuZqibe3D9w7mtWfPevRkkO4ejweU=
+
+Name: lombok/javac/java7/CommentCollectingScannerFactory$1MyFactory.SC
+ L.lombok
+SHA-256-Digest: TQrfDbYq53P/hXKToRuT6A9ViU4jR75cDqrf4+KyfVk=
+
+Name: lombok/javac/java7/CommentCollectingScannerFactory.SCL.lombok
+SHA-256-Digest: BwzheX43FBwCP7X5ZhgnL9Y690NN1ggFIenQzg7QMYU=
+
+Name: lombok/javac/java8/CommentCollectingParser.SCL.lombok
+SHA-256-Digest: 3HlcJjfU6NrCgNYbaw3sDhmBs7FkW9WagB7ISb1Y7GQ=
+
+Name: lombok/javac/java8/CommentCollectingParserFactory.SCL.lombok
+SHA-256-Digest: w31h5YoU9l3ZXlLwdqNYTiQh7pLuWtmYChjMqoSaEM4=
+
+Name: lombok/javac/java8/CommentCollectingScanner.SCL.lombok
+SHA-256-Digest: oW1DodStmHJfjG0Zvhj5ff4AK3ABhUeyN9EHwfec6cY=
+
+Name: lombok/javac/java8/CommentCollectingScannerFactory$1MyFactory.SC
+ L.lombok
+SHA-256-Digest: 171PlXQSmX/ResHjtLA5PjYN/HLjOD9Td4x2IL/7sMI=
+
+Name: lombok/javac/java8/CommentCollectingScannerFactory.SCL.lombok
+SHA-256-Digest: iDDFs+pntLw+tqOstuSYajsOP7f7if7gdwIz22HwVgU=
+
+Name: lombok/javac/java8/CommentCollectingTokenizer$PositionUnicodeRea
+ der.SCL.lombok
+SHA-256-Digest: jIdkD+clJ9C+ikb7vKhh0oRnQWWhtMlMKQuOqN5Dk78=
+
+Name: lombok/javac/java8/CommentCollectingTokenizer.SCL.lombok
+SHA-256-Digest: xZ0HIlFRTZV+ImBoER8g9o04HTACsrhk5IEz0IGkIdk=
+
+Name: lombok/javac/java9/CommentCollectingParser.SCL.lombok
+SHA-256-Digest: +Uqkxv4yiW48aV68moaVdqYZtPJ0fLy5OhB+u7hfwS8=
+
+Name: lombok/javac/java9/CommentCollectingParserFactory.SCL.lombok
+SHA-256-Digest: sodWcLXEqHn/3EF36Zxm4mYCtdgifSuAbbnmI1y00ps=
+
+Name: lombok/javac/package-info.SCL.lombok
+SHA-256-Digest: Hm3ndSWYHKTklmQB7d9/Qz9BAVD0estJmkg2YpjZ5js=
+
+Name: lombok/patcher/ClassRootFinder.SCL.lombok
+SHA-256-Digest: no/QcpeZKIOJGv7DUqw5nQw524XQf9Vudp3QcLe+fc8=
+
+Name: lombok/patcher/Filter$1.SCL.lombok
+SHA-256-Digest: MecxjwmT+tg6KoUtjwGijF9uFHqvc921OzIL7VYQhFs=
+
+Name: lombok/patcher/Filter.SCL.lombok
+SHA-256-Digest: UeBlA+VZuY7BTAEbHqWD7oL11YX7kVv9+vSQTvjiciA=
+
+Name: lombok/patcher/Hook.SCL.lombok
+SHA-256-Digest: CCOKS+BDi4x3BQ+s2pTptRCQmvKcEwyb+5bNzCQYlPo=
+
+Name: lombok/patcher/MethodLogistics.SCL.lombok
+SHA-256-Digest: NZ3FW+iA1ZH6K6sfukzFl8wS87ltJwny/ZOB1lIF8Bw=
+
+Name: lombok/patcher/MethodTarget.SCL.lombok
+SHA-256-Digest: FtBZlLonMAyvF8SxDJTpPu0Zzh0lYjhtzHxQwLR5s1U=
+
+Name: lombok/patcher/PatchScript$1.SCL.lombok
+SHA-256-Digest: YWEM+IZ4jNE1mJMsVbLehbQOlZiab+ftHVuvvMkPzYY=
+
+Name: lombok/patcher/PatchScript$2.SCL.lombok
+SHA-256-Digest: 3E2R7m0ZFc3c5/DwJV+h4AaBJNLRKbhwfLFYkvuW6zQ=
+
+Name: lombok/patcher/PatchScript$FixedClassWriter.SCL.lombok
+SHA-256-Digest: Rga0bEq9m8ucK1O++ZGEUUV1VqJLv2oDat7hGhuorHc=
+
+Name: lombok/patcher/PatchScript$InsertBodyOfMethodIntoAnotherVisitor.
+ SCL.lombok
+SHA-256-Digest: rNKackZpYKZSL4z4X2Zo0E0R4+UrWRIZp//MPKoCOBQ=
+
+Name: lombok/patcher/PatchScript$MethodPatcher.SCL.lombok
+SHA-256-Digest: pp8w4qmWTjKCsT3yaJduKBtTZQg4usbHb+6LW7x/88M=
+
+Name: lombok/patcher/PatchScript$MethodPatcherFactory.SCL.lombok
+SHA-256-Digest: qroK66Mmwtpo7Hxrr3w/JN7bVmxJfIprsAGxVldfn7w=
+
+Name: lombok/patcher/PatchScript$NoopClassVisitor.SCL.lombok
+SHA-256-Digest: 1fnVmkQU6P/h09tc0lzp0VvI1ZdXvEiaC1HzpXGgSf8=
+
+Name: lombok/patcher/PatchScript.SCL.lombok
+SHA-256-Digest: RP6AIDxnmwKRN/jA+NXKGWlEeTlECDStBFSWPrqbTBU=
+
+Name: lombok/patcher/ScriptManager$OurClassFileTransformer.SCL.lombok
+SHA-256-Digest: 0nmoSM+lasKW3vToaMdFitxgb5+c0FQvFOUTGFkxUgQ=
+
+Name: lombok/patcher/ScriptManager.SCL.lombok
+SHA-256-Digest: UtHDdUd5AfWgzRvlKTxIAdIW+WrEJbmb4xtvq24tIDw=
+
+Name: lombok/patcher/StackRequest.SCL.lombok
+SHA-256-Digest: +ClhtJsyIQPNEXsH5Og4DlUIbwl/RSIoshtLHzJ7pkc=
+
+Name: lombok/patcher/Symbols$1.SCL.lombok
+SHA-256-Digest: mzWiQBVvnRNt63CAzxkavBkpWWwEZFtwHZnN12eP5Kc=
+
+Name: lombok/patcher/Symbols.SCL.lombok
+SHA-256-Digest: hXkDSpLh3E1V7nTgQzCahhqVmns/dNpIyxdjtSuLMo4=
+
+Name: lombok/patcher/TargetMatcher.SCL.lombok
+SHA-256-Digest: YSHe3oprNZ024qRj3zwsS4xr6+GKupq5q1g9MUjY5y4=
+
+Name: lombok/patcher/TransplantMapper$1.SCL.lombok
+SHA-256-Digest: nKl53xPkCHBHwE1YM+bJ0EcjpX41LOAsGhscy3OZr4Y=
+
+Name: lombok/patcher/TransplantMapper.SCL.lombok
+SHA-256-Digest: sFB8DMbYlvmrTHKzE2Ds3u6f1H6vQOZw1P5VpYaCwSQ=
+
+Name: lombok/patcher/Version.SCL.lombok
+SHA-256-Digest: k0dBQwCdQb3lqGwkpQVkqmmdvUVr+FFfevtIj38L65s=
+
+Name: lombok/patcher/inject/LiveInjector$LibInstrument.SCL.lombok
+SHA-256-Digest: viBgVWVVWGii2XkuKdrZQnGvYemjBjlXhb5WJiD845A=
+
+Name: lombok/patcher/inject/LiveInjector$LibJVM.SCL.lombok
+SHA-256-Digest: m5MSPh1Ez/iMEr6+Dv2d9HIDVKe7/eKA7Mpf0kLmY14=
+
+Name: lombok/patcher/inject/LiveInjector.SCL.lombok
+SHA-256-Digest: jWbfXuRhryIDBMQD7EEkivYrqSLZrkVoNtrsmiJOSSU=
+
+Name: lombok/patcher/scripts/AddFieldScript$1.SCL.lombok
+SHA-256-Digest: MUuV5uwBJ8Iac21Bl+P4GOdaXnktkM9VpYfkmNBabe0=
+
+Name: lombok/patcher/scripts/AddFieldScript.SCL.lombok
+SHA-256-Digest: PTzbc6/msM3fvtTmKu8R0tmnWHCMob4HSnXg7/Mttzk=
+
+Name: lombok/patcher/scripts/ExitFromMethodEarlyScript$1.SCL.lombok
+SHA-256-Digest: HtfGcFhqdY8tLihe8020Dj3l0lHdtiOaUIRsQY6B0lY=
+
+Name: lombok/patcher/scripts/ExitFromMethodEarlyScript$ExitEarly.SCL.l
+ ombok
+SHA-256-Digest: UiWVnMm5vMTaoEFibrGea2C9+bOmISVVorfjETtJtbg=
+
+Name: lombok/patcher/scripts/ExitFromMethodEarlyScript.SCL.lombok
+SHA-256-Digest: 6EOFtRLTCc7Awco7mWugFTAtCY+xGqNQRTzQYzSUI0Y=
+
+Name: lombok/patcher/scripts/MethodLevelPatchScript.SCL.lombok
+SHA-256-Digest: pxN1H2JfultcpFPQ69/td0lUTykyHJnXE2bpWuvUe3U=
+
+Name: lombok/patcher/scripts/ReplaceMethodCallScript$1.SCL.lombok
+SHA-256-Digest: wMOjzgbJuVQUQhVn6IGGJnVoPC6HsM4UAQxv/ot8K/c=
+
+Name: lombok/patcher/scripts/ReplaceMethodCallScript$ReplaceMethodCall
+ .SCL.lombok
+SHA-256-Digest: ZF24fkNtxarf3nxsgHJMCR835yV+6HiaI1bPlmyC/Hs=
+
+Name: lombok/patcher/scripts/ReplaceMethodCallScript.SCL.lombok
+SHA-256-Digest: tVBWyPWxPmCMBGBEuL+J5w1l6aie5Kw6TcJE1aw0dME=
+
+Name: lombok/patcher/scripts/ScriptBuilder$AddFieldBuilder.SCL.lombok
+SHA-256-Digest: Y8gYjEf6tbflzP2EnWxZNJo1PPGrecESMji9JzLVZLg=
+
+Name: lombok/patcher/scripts/ScriptBuilder$ExitEarlyBuilder.SCL.lombok
+SHA-256-Digest: 4yuFGfyGnT4qpZaJuam2SBIs2buJLKV24tst+5qdcNI=
+
+Name: lombok/patcher/scripts/ScriptBuilder$ReplaceMethodCallBuilder.SC
+ L.lombok
+SHA-256-Digest: YYFgNPU70hW+O2ldZgYN4W9MYx54OiTtoF2Rj9xVDc8=
+
+Name: lombok/patcher/scripts/ScriptBuilder$SetSymbolDuringMethodCallBu
+ ilder.SCL.lombok
+SHA-256-Digest: QGulOlPZQamdvWiILyMTLCnLYk096NsQr4NtLyeuom0=
+
+Name: lombok/patcher/scripts/ScriptBuilder$WrapMethodCallBuilder.SCL.l
+ ombok
+SHA-256-Digest: QkG44Kaz51dS35x2GgyuY64/1aSAZFPmB/9MP2VV3UQ=
+
+Name: lombok/patcher/scripts/ScriptBuilder$WrapReturnValueBuilder.SCL.
+ lombok
+SHA-256-Digest: hSTJatYI1uCB0zgKBTvXbOksQw6y4XNjvvp/SFpg1ts=
+
+Name: lombok/patcher/scripts/ScriptBuilder.SCL.lombok
+SHA-256-Digest: Ht0urAb5tiuu78JFwzmBJwUbEfoFKISpj+CK5j4HkOw=
+
+Name: lombok/patcher/scripts/SetSymbolDuringMethodCallScript$1.SCL.lom
+ bok
+SHA-256-Digest: dG67B/ReDE/+JNzj1GyRAeGKNiTrb7pfs+Y0PeuYWfc=
+
+Name: lombok/patcher/scripts/SetSymbolDuringMethodCallScript$2.SCL.lom
+ bok
+SHA-256-Digest: JWVhDdP93z0flD/md83d4y8JEHEer/qoNN3dV6n8RGg=
+
+Name: lombok/patcher/scripts/SetSymbolDuringMethodCallScript$WrapWithS
+ ymbol.SCL.lombok
+SHA-256-Digest: MOPiop6obn0xUZ8pUuiq3AQW+fw36nrQb5zKD0dH3ac=
+
+Name: lombok/patcher/scripts/SetSymbolDuringMethodCallScript.SCL.lombo
+ k
+SHA-256-Digest: 44g0SS18PgGmGh2ImQuMtSvRVtY4mDjQmNSDXBnOugI=
+
+Name: lombok/patcher/scripts/WrapMethodCallScript$1.SCL.lombok
+SHA-256-Digest: 6zBi01f9I0pgiXqUWJxxq2BW8ahrfAFnduxunGwU1SI=
+
+Name: lombok/patcher/scripts/WrapMethodCallScript$WrapMethodCall.SCL.l
+ ombok
+SHA-256-Digest: 3G/IHD8BQ4RIgSgGbRwnJPuFqOxby705wzaMVbF1glo=
+
+Name: lombok/patcher/scripts/WrapMethodCallScript.SCL.lombok
+SHA-256-Digest: e6BBoQFfYY55TCCbkMhn8x4nW5bYnoh8DxAaPIUJTvI=
+
+Name: lombok/patcher/scripts/WrapReturnValuesScript$1.SCL.lombok
+SHA-256-Digest: NzDfUipvu/04Q+67FzB/JI2zhKOvn0RNq+W16fZX/AI=
+
+Name: lombok/patcher/scripts/WrapReturnValuesScript$WrapReturnValues.S
+ CL.lombok
+SHA-256-Digest: h+uVehBE7Ay5fGBTBGJfQA1iTkof8zXdpx0Zr6rL3SA=
+
+Name: lombok/patcher/scripts/WrapReturnValuesScript.SCL.lombok
+SHA-256-Digest: U9tU/AkVk25QHqy474c3FLCQk5p7Z5Db9vPZNc088Fc=
+
+Name: lombok/patcher/scripts/WrapperMethodDescriptor.SCL.lombok
+SHA-256-Digest: O/J5LNp4K0F1t79KL7y6YMwOnynzuyJMx9NQyqNtsyQ=
+
+Name: lombok/permit/Permit.SCL.lombok
+SHA-256-Digest: kdv/zSfhGPzgdFUVWdiwnz++WrBvj1ywHguX5F3/JAE=
+
+Name: lombok/permit/package-info.SCL.lombok
+SHA-256-Digest: ouyLfi2K+5N5GIW827f+ZKNxnnyMBPV3UhKromV1tPI=
+
+Name: okhttp3/internal/publicsuffix/NOTICE
+SHA-256-Digest: jX9JruGK5ez+/1XZmYyo2xyogqpjI2P4C6YwmN2E9Kw=
+
+Name: okhttp3/internal/publicsuffix/publicsuffixes.gz
+SHA-256-Digest: /ePwRBHQpcB3BNnOzUtbf9GQClndJlFY0FuwBBoT5vA=
+
+Name: org/objectweb/asm/AnnotationVisitor.SCL.lombok
+SHA-256-Digest: S8N8+alqjC6ZmBKiRT6Tu71QeM5oGFUK11tQUSvmGXQ=
+
+Name: org/objectweb/asm/AnnotationWriter.SCL.lombok
+SHA-256-Digest: A2Zgptlm/Vz1p//vZOe2vOSdNpEkklD+63WU3W4hPtc=
+
+Name: org/objectweb/asm/Attribute$Set.SCL.lombok
+SHA-256-Digest: lbY8ILFiWszjebmI4yiuU1hClIauBT3KLAZSRRX1+C8=
+
+Name: org/objectweb/asm/Attribute.SCL.lombok
+SHA-256-Digest: 8XVKlBcLfPLJK+F/GQmS+XLoKmG/LXCJhbO9VxUs6jI=
+
+Name: org/objectweb/asm/ByteVector.SCL.lombok
+SHA-256-Digest: gzBM6XLz4D7UfK9C9nTkwY6LXWbili7T9AAysPphhgQ=
+
+Name: org/objectweb/asm/ClassReader.SCL.lombok
+SHA-256-Digest: Q0iTnYUofofZptWbxeP2DbVXdIFXdZOKTmHajOBkaZ0=
+
+Name: org/objectweb/asm/ClassTooLargeException.SCL.lombok
+SHA-256-Digest: YwITL4r/Hf4BQJeCFyz6WAimSt8DR4YJwhkllaWbLqE=
+
+Name: org/objectweb/asm/ClassVisitor.SCL.lombok
+SHA-256-Digest: C47RM1iVdKadV+5VW8ASm24PHWll1ao153PXDitEnl8=
+
+Name: org/objectweb/asm/ClassWriter.SCL.lombok
+SHA-256-Digest: 2l6u+Rky8tg8I9Z+D7QxLIy41EtFmwEMGEk8X7Lb+60=
+
+Name: org/objectweb/asm/ConstantDynamic.SCL.lombok
+SHA-256-Digest: k8fet3nBHpJ2lNu0XtA/EFHKSVwkrJlTdrmhCHNuU+U=
+
+Name: org/objectweb/asm/Constants.SCL.lombok
+SHA-256-Digest: +9Ssjyrz/eY+oAFoktDHvZ4oJgM6/qovkbUSloUUVfY=
+
+Name: org/objectweb/asm/Context.SCL.lombok
+SHA-256-Digest: aDZhDKT+e9ex0QNGX8xkmcwL3U50c20olkjuSJBQFfs=
+
+Name: org/objectweb/asm/CurrentFrame.SCL.lombok
+SHA-256-Digest: hZSardbrzEkmBDhTqRhfCx3QCPwyplqbuYaGphGsVks=
+
+Name: org/objectweb/asm/Edge.SCL.lombok
+SHA-256-Digest: jjGdDEFultkwgfQ/wPllshJoWYTTf5Rw5CoZb7g41eU=
+
+Name: org/objectweb/asm/FieldVisitor.SCL.lombok
+SHA-256-Digest: cJTeUrSP9s3QuxqEH7T8kQ7V52LmsbepYniTOR8ckEY=
+
+Name: org/objectweb/asm/FieldWriter.SCL.lombok
+SHA-256-Digest: tnij81Ntogtn0TMxmpAqBv40kUXUOSiMPWI2MQxS6n8=
+
+Name: org/objectweb/asm/Frame.SCL.lombok
+SHA-256-Digest: lkQ42PG1Y+lDfGX+GofGopiISnNweSTUVN/+T3+nydA=
+
+Name: org/objectweb/asm/Handle.SCL.lombok
+SHA-256-Digest: 2b+eLHQuUnENIgibjE15zqeM+saeUW52zoLAXx4lEvM=
+
+Name: org/objectweb/asm/Handler.SCL.lombok
+SHA-256-Digest: tJev3S6fgrdfsI2KqwANRPv5po/UJTTXi5tIdffuu3Y=
+
+Name: org/objectweb/asm/Label.SCL.lombok
+SHA-256-Digest: rMEtOfPO40F/HQLWzIpEIuh7OLF7gkXvom55IuOYUlM=
+
+Name: org/objectweb/asm/MethodTooLargeException.SCL.lombok
+SHA-256-Digest: b8JfPk/O1zef2ix06ep8Jit2H6lS5uZSRjpwVaTPFWw=
+
+Name: org/objectweb/asm/MethodVisitor.SCL.lombok
+SHA-256-Digest: qmbtLcUJ6PdmIxt5GHZIEJT7JDN5leisDdzldAF8zTk=
+
+Name: org/objectweb/asm/MethodWriter.SCL.lombok
+SHA-256-Digest: jz7t9LLps1xQuz8cBdk/DSzXW43UbKAh6ehBEtSTtas=
+
+Name: org/objectweb/asm/ModuleVisitor.SCL.lombok
+SHA-256-Digest: GH0osuS8LRZVQiVshJpdgTaedCgKLe+5L34zOi5Fx4Q=
+
+Name: org/objectweb/asm/ModuleWriter.SCL.lombok
+SHA-256-Digest: RedvnbnZdo9qiDizJG7h20e0Q3IYsz2sJJstjwhsQvA=
+
+Name: org/objectweb/asm/Opcodes.SCL.lombok
+SHA-256-Digest: oKrRu7YtIrzVxfQw1+YmAdCisHuPjv4xIHCAC9u0gmo=
+
+Name: org/objectweb/asm/Symbol.SCL.lombok
+SHA-256-Digest: I3eqf8DqLf18WuVqw2xHll6WYxXtyLrk6IEpT1k05PI=
+
+Name: org/objectweb/asm/SymbolTable$Entry.SCL.lombok
+SHA-256-Digest: c1KVmAW2/KfL8q/OJE/Xv1l5JPMj12Av0G9KmsOdMFc=
+
+Name: org/objectweb/asm/SymbolTable.SCL.lombok
+SHA-256-Digest: JLJz2/SgcotOzzkqqWsZ9hkUYtEUucHiqMxHGhzkxRM=
+
+Name: org/objectweb/asm/Type.SCL.lombok
+SHA-256-Digest: tAR2P7w+6gwtALRUCdYfXkt9RxWBqVXU23PZ6D2CgIE=
+
+Name: org/objectweb/asm/TypePath.SCL.lombok
+SHA-256-Digest: /Gox00GZZdd8OCAVRSw/1AarvdJTgBS7F98ZZaRcezI=
+
+Name: org/objectweb/asm/TypeReference.SCL.lombok
+SHA-256-Digest: 0LnAyOUsM9wp3yxnuW6Y+kJZ1Fi6sO9z3gYTacEcoFY=
+
+Name: org/objectweb/asm/commons/AdviceAdapter.SCL.lombok
+SHA-256-Digest: rsszeMPH4Avj3IG2t1Nr1S7AuD0CsTTZYKx8Kd5mAAM=
+
+Name: org/objectweb/asm/commons/AnalyzerAdapter.SCL.lombok
+SHA-256-Digest: ihIjTV2MsgnUgH1lW8RuEjkE202co0VMpbpHB/JUWks=
+
+Name: org/objectweb/asm/commons/AnnotationRemapper.SCL.lombok
+SHA-256-Digest: wIepkApdznGTKiN41E7oTOYotLwKMsruaLW4jM0ciUI=
+
+Name: org/objectweb/asm/commons/ClassRemapper.SCL.lombok
+SHA-256-Digest: gSiOS9PieZLOwQQnvzKytKlRdIEDTN9wcSzkt89/e7M=
+
+Name: org/objectweb/asm/commons/CodeSizeEvaluator.SCL.lombok
+SHA-256-Digest: WEAxAF6Q9jXIQgcEMU//r/Gr8zl0MYlIhXI64BGax6Q=
+
+Name: org/objectweb/asm/commons/FieldRemapper.SCL.lombok
+SHA-256-Digest: 4vyksiExw3hF2g4HE/2D08MqKWyf/YBUipccXfhw+4c=
+
+Name: org/objectweb/asm/commons/GeneratorAdapter.SCL.lombok
+SHA-256-Digest: ftgVihSeFZDi1T5AzUnx459qr10nyC96KMXKSQ3JNWc=
+
+Name: org/objectweb/asm/commons/InstructionAdapter.SCL.lombok
+SHA-256-Digest: lTwhpxRd1iTtLdCJ4p/ncEVayqPztmln8lf+1Obhil8=
+
+Name: org/objectweb/asm/commons/JSRInlinerAdapter$Instantiation.SCL.lo
+ mbok
+SHA-256-Digest: 8MX6bTitfKPeDNiy2pAISV47MxghKjxLgaFbSwur/WY=
+
+Name: org/objectweb/asm/commons/JSRInlinerAdapter.SCL.lombok
+SHA-256-Digest: G5gySg+x8Kn/TopppwlsXCBFnO1eRPuNS47pAkzskwQ=
+
+Name: org/objectweb/asm/commons/LocalVariablesSorter.SCL.lombok
+SHA-256-Digest: cyZwueLwLkrf9A+2iS5mweLyBNQMMUkqYWoGKBXIh3I=
+
+Name: org/objectweb/asm/commons/Method.SCL.lombok
+SHA-256-Digest: QXZgKnN2pCyd2CptQU7qoriHhQSRYDU/QRX/OMnCFvA=
+
+Name: org/objectweb/asm/commons/MethodRemapper.SCL.lombok
+SHA-256-Digest: zNdnD5DLE2Ysb4kan2fK1P0tJkKXoXdKK99cYop+a5E=
+
+Name: org/objectweb/asm/commons/ModuleHashesAttribute.SCL.lombok
+SHA-256-Digest: xpqfG4By/P9hVSL0BIJAluEqB2wMepy2d9aKArd3f7A=
+
+Name: org/objectweb/asm/commons/ModuleRemapper.SCL.lombok
+SHA-256-Digest: bcg152Box16aWvxY5XwEawOxtu/Cey0/Rw25OMU3e3s=
+
+Name: org/objectweb/asm/commons/ModuleResolutionAttribute.SCL.lombok
+SHA-256-Digest: 3sOasxCyrSuILi0rdU+EP2xyQlQH+U+qCApTbZTVOKc=
+
+Name: org/objectweb/asm/commons/ModuleTargetAttribute.SCL.lombok
+SHA-256-Digest: /W+f95nvhL4idMuU0OUQUgOo7CLiT2crLYX1XlIo3Bw=
+
+Name: org/objectweb/asm/commons/Remapper.SCL.lombok
+SHA-256-Digest: QX8H3GrJWg3J4tJ0NqHdv+Qq8LxVFNOgsdNuy1UhjC8=
+
+Name: org/objectweb/asm/commons/RemappingAnnotationAdapter.SCL.lombok
+SHA-256-Digest: TYT8EEgG4Gepa/TXvdE6FLxRgg77nSW9dmvGDD2YgAw=
+
+Name: org/objectweb/asm/commons/RemappingClassAdapter.SCL.lombok
+SHA-256-Digest: RSQjxaAartsd8IwX3MMvRWNxObuOuERSWhwhvPgIt5Y=
+
+Name: org/objectweb/asm/commons/RemappingFieldAdapter.SCL.lombok
+SHA-256-Digest: z0ZvvTeB7Dbd+D8i0Jr2o1bl/mPdAq+jPv8q/YNp/MA=
+
+Name: org/objectweb/asm/commons/RemappingMethodAdapter.SCL.lombok
+SHA-256-Digest: H1yXMRl7z4B+i+N4jeZKJsT45hH1hFDP3ENt9mUAwKA=
+
+Name: org/objectweb/asm/commons/RemappingSignatureAdapter.SCL.lombok
+SHA-256-Digest: vBEnf8Okng6XYKZ1H5H6ctHio4UbKSm1l3AcyGfRNnE=
+
+Name: org/objectweb/asm/commons/SerialVersionUIDAdder$1.SCL.lombok
+SHA-256-Digest: lLahT5VuPaOj4kt2vbF/15PiaaJbVfNYFj8NU+m6xn0=
+
+Name: org/objectweb/asm/commons/SerialVersionUIDAdder$Item.SCL.lombok
+SHA-256-Digest: OYx9VWT8cBcnwY1tHfJFcc2R4hWF9C8+isEytrnTqlg=
+
+Name: org/objectweb/asm/commons/SerialVersionUIDAdder.SCL.lombok
+SHA-256-Digest: sEtYqwUMee18arsuJRRFPWgZpZ5k46wLvRaTJ5i2MCs=
+
+Name: org/objectweb/asm/commons/SignatureRemapper.SCL.lombok
+SHA-256-Digest: PGf9YjmMuip7zsjN85LEJs+Nyr99v6NksPbRHM7vdJA=
+
+Name: org/objectweb/asm/commons/SimpleRemapper.SCL.lombok
+SHA-256-Digest: IUXlcdvbxt5/JFDWBP0/M/6Tlk05ImJLSnZNDS4O+TU=
+
+Name: org/objectweb/asm/commons/StaticInitMerger.SCL.lombok
+SHA-256-Digest: wvajdla+QQBVQUSWdVmgGvlpA/kGq+wjsu+L6Ve73dA=
+
+Name: org/objectweb/asm/commons/TableSwitchGenerator.SCL.lombok
+SHA-256-Digest: TgkpizQ5nxTxBBEPOgzvURaQkZViZcP9YLEUbDKWuDc=
+
+Name: org/objectweb/asm/commons/TryCatchBlockSorter$1.SCL.lombok
+SHA-256-Digest: N2LR5RZsnfzIt1JPK1+5RTipO4aNJ+q5gFMrlHRUZPk=
+
+Name: org/objectweb/asm/commons/TryCatchBlockSorter.SCL.lombok
+SHA-256-Digest: kI1IoPG6DkVdxw9BAbPBEemmrlG6Y/zO2RuGmaGjr5Q=
+
+Name: org/objectweb/asm/signature/SignatureReader.SCL.lombok
+SHA-256-Digest: L9HBH2rHsirbGdYEayirHAG8Qo9p51BjjDrKBbt7OMg=
+
+Name: org/objectweb/asm/signature/SignatureVisitor.SCL.lombok
+SHA-256-Digest: typqxREIFvbK94vErGiLC+oRtxM3uliiLkiEOKmVrtM=
+
+Name: org/objectweb/asm/signature/SignatureWriter.SCL.lombok
+SHA-256-Digest: nw4v2su3rxer8ZK5tefZ/yD1wuV1vzs55FWw9g8Y520=
+
+Name: org/objectweb/asm/tree/AbstractInsnNode.SCL.lombok
+SHA-256-Digest: cTuUpRQRXgnlZKFYQWGY22hoVE2o9eughYcmvy5yufs=
+
+Name: org/objectweb/asm/tree/AnnotationNode.SCL.lombok
+SHA-256-Digest: iTXmKX0oDSnlvXuegb5Q72ILAz9jh2NAMD822y2klrE=
+
+Name: org/objectweb/asm/tree/ClassNode.SCL.lombok
+SHA-256-Digest: 9R0MxdL0LLOSQRapHDbLgbFt093gUakabz4eHktISPU=
+
+Name: org/objectweb/asm/tree/FieldInsnNode.SCL.lombok
+SHA-256-Digest: GPSCCG6OGtVs18B11d6rChl7rUCXXZ76QwJST4lVh/4=
+
+Name: org/objectweb/asm/tree/FieldNode.SCL.lombok
+SHA-256-Digest: 6BALd7eeqdCp0NXf/AW9Mew70e8EViEd4Bg2WUXQsuE=
+
+Name: org/objectweb/asm/tree/FrameNode.SCL.lombok
+SHA-256-Digest: c8DDOm+OiF9SBhhu6pcHlpX5wIeJNN0AISlEhSCVUUQ=
+
+Name: org/objectweb/asm/tree/IincInsnNode.SCL.lombok
+SHA-256-Digest: O0MJyu1lSmd5p4CxL+cLqjGQofNpZIeVhybmACJ4nlU=
+
+Name: org/objectweb/asm/tree/InnerClassNode.SCL.lombok
+SHA-256-Digest: R+RQ+3dJk0Uv140caGoCR361bepp77yTTyfFBtiLeHE=
+
+Name: org/objectweb/asm/tree/InsnList$InsnListIterator.SCL.lombok
+SHA-256-Digest: I7NM2Mi3PwlCSqdSsu261pbrOTUyccjfbDnJCQXaReI=
+
+Name: org/objectweb/asm/tree/InsnList.SCL.lombok
+SHA-256-Digest: 9r01VW41dgcWYTdtbf73fX9s+tEK2dd4FVnzDKKgPDw=
+
+Name: org/objectweb/asm/tree/InsnNode.SCL.lombok
+SHA-256-Digest: wfWWPI6RKsO/HNvfIo3X6ozsAvHAOqPBdg3jd0zFu0c=
+
+Name: org/objectweb/asm/tree/IntInsnNode.SCL.lombok
+SHA-256-Digest: PmC0DJ3h2CMNcSBYPTTkMeIoqsWpe2vHipVyex6CEP4=
+
+Name: org/objectweb/asm/tree/InvokeDynamicInsnNode.SCL.lombok
+SHA-256-Digest: RYiH0uLVqAPnObMe/HkcCCa2KVO98msb5fIvOOBj/Bo=
+
+Name: org/objectweb/asm/tree/JumpInsnNode.SCL.lombok
+SHA-256-Digest: kd7dMBKAk7cwpGQMXfYn+yXNzqORrxUWCKYx79SGu60=
+
+Name: org/objectweb/asm/tree/LabelNode.SCL.lombok
+SHA-256-Digest: Avm9if7qcytwtAwNHZjDupcK1Fk7qqhKRp8a3FgizqI=
+
+Name: org/objectweb/asm/tree/LdcInsnNode.SCL.lombok
+SHA-256-Digest: m7ZeDzbJw1xS2sy4ERGWD3nWpYWkIGYYQEHPCoeDN/c=
+
+Name: org/objectweb/asm/tree/LineNumberNode.SCL.lombok
+SHA-256-Digest: Of6+UAAy7PNF0FhP2yrhGltAWzJLGh3JwGjzCgkLDfg=
+
+Name: org/objectweb/asm/tree/LocalVariableAnnotationNode.SCL.lombok
+SHA-256-Digest: UgM43GIIAjeU8aaGtmSZlQLiD+IX/j6PE9fBHheiB2A=
+
+Name: org/objectweb/asm/tree/LocalVariableNode.SCL.lombok
+SHA-256-Digest: ZytfLpo9eW+5o9LhYLytxfYVztuxi+LWTLyS5CnaYp8=
+
+Name: org/objectweb/asm/tree/LookupSwitchInsnNode.SCL.lombok
+SHA-256-Digest: Yl7yr82PdOmTsgWCV1j1ECBmw88uxEHYsrkcOBMQaAc=
+
+Name: org/objectweb/asm/tree/MethodInsnNode.SCL.lombok
+SHA-256-Digest: BE/6bY2TmhEe1SV/+RWnxFf0/ckX68DBSpmMXNEHLKA=
+
+Name: org/objectweb/asm/tree/MethodNode$1.SCL.lombok
+SHA-256-Digest: Ya6Tir+LjF1/2mtknXiTu55JGMRBoZtG7vvgAAUwmo4=
+
+Name: org/objectweb/asm/tree/MethodNode.SCL.lombok
+SHA-256-Digest: GNXknxa/V0p38ksrrn7TYBt8lp7llRXUp/27FFHDLHc=
+
+Name: org/objectweb/asm/tree/ModuleExportNode.SCL.lombok
+SHA-256-Digest: ZayZ9MOv+DHs9g3euVNyc+mezt7V0qGrEVAAOR6uW4c=
+
+Name: org/objectweb/asm/tree/ModuleNode.SCL.lombok
+SHA-256-Digest: la1+EVYVBQFtknGH/QInU/2v6z2An5KySUWbnYI/a7Q=
+
+Name: org/objectweb/asm/tree/ModuleOpenNode.SCL.lombok
+SHA-256-Digest: S8VJo8u++cwsEFxcZwTgoM9h/z4Q+6okqAWk+1MIhj8=
+
+Name: org/objectweb/asm/tree/ModuleProvideNode.SCL.lombok
+SHA-256-Digest: YD2ZSB7PLgOH35Kfq7zdKPEEyHHPpogbhLxpHTsUrPk=
+
+Name: org/objectweb/asm/tree/ModuleRequireNode.SCL.lombok
+SHA-256-Digest: jX5IBmNZ2s1JDYzimRXNKzUPEXTeJ0okPVWMqETsSbo=
+
+Name: org/objectweb/asm/tree/MultiANewArrayInsnNode.SCL.lombok
+SHA-256-Digest: F/7+4SnwM7a0GTmXAM4V0yGWsZ9g/WNro5MpwvDFMxA=
+
+Name: org/objectweb/asm/tree/ParameterNode.SCL.lombok
+SHA-256-Digest: /PE44Wnssx5krbhoXj963mN3bSOBSdV9nIpXx1fNwkw=
+
+Name: org/objectweb/asm/tree/TableSwitchInsnNode.SCL.lombok
+SHA-256-Digest: Ewg9v1NvKRGQ4pLhQm9855aAbn6Da9i9NfHW4lPe2wg=
+
+Name: org/objectweb/asm/tree/TryCatchBlockNode.SCL.lombok
+SHA-256-Digest: 2EwbJHWI12vodo1ZAbiUid1bWt7LvjtIfPNiRuC9+d0=
+
+Name: org/objectweb/asm/tree/TypeAnnotationNode.SCL.lombok
+SHA-256-Digest: j5R2G8d53waCp+WcRmmcmOxDngTzvWZUQ21R0kHLVGs=
+
+Name: org/objectweb/asm/tree/TypeInsnNode.SCL.lombok
+SHA-256-Digest: BpKGpT8iKK7LVgfpg87h/QMdjk7VtjSSlHUslZp1A9A=
+
+Name: org/objectweb/asm/tree/UnsupportedClassVersionException.SCL.lomb
+ ok
+SHA-256-Digest: TLVRu2b78ga8eQO9IWxD6AuII4oOZh+YSYuqtlm5Ybs=
+
+Name: org/objectweb/asm/tree/Util.SCL.lombok
+SHA-256-Digest: nK0dgetpflc4TEAl96t13+ZMdvEHo75AaXP+yUVwmB0=
+
+Name: org/objectweb/asm/tree/VarInsnNode.SCL.lombok
+SHA-256-Digest: 9bnjdQklHLypbmDFKCabAppMhrw1SZSr4rHbET/3tNE=
+
+Name: org/objectweb/asm/tree/analysis/Analyzer.SCL.lombok
+SHA-256-Digest: VBeNo/B5pI4jkP2Q/hfVXi28RErfCgAvDp4bm1rlE8A=
+
+Name: org/objectweb/asm/tree/analysis/AnalyzerException.SCL.lombok
+SHA-256-Digest: WZmVVtQU7pAkohYQbYYQ5YmTupI7EdRe8UgGi139yZI=
+
+Name: org/objectweb/asm/tree/analysis/BasicInterpreter.SCL.lombok
+SHA-256-Digest: h83aEeOKUlGq0cn0+JQD9w4NfmiEEgh/aiikQLbrvAM=
+
+Name: org/objectweb/asm/tree/analysis/BasicValue.SCL.lombok
+SHA-256-Digest: eQw3puw8z108QI09SKLS6rplRZ5ZCKoRuO8VTd7FXkQ=
+
+Name: org/objectweb/asm/tree/analysis/BasicVerifier.SCL.lombok
+SHA-256-Digest: GgQRCXCslVDC51jy7J0IdoZLWOUEOcpE8LTIaFMKSh4=
+
+Name: org/objectweb/asm/tree/analysis/Frame.SCL.lombok
+SHA-256-Digest: IyuYEbrerZWFd6TZbRAUFB9w+p3h8AIh+WwXi1b7mCI=
+
+Name: org/objectweb/asm/tree/analysis/Interpreter.SCL.lombok
+SHA-256-Digest: WUZF85rTeVkyDaG5P4zK2DqoIJV9xzM0EedC5UYQFuQ=
+
+Name: org/objectweb/asm/tree/analysis/SimpleVerifier.SCL.lombok
+SHA-256-Digest: hbb7uBh1OsDcgd+6KXku23lM25vm3Imu9M6uYSL4Sgw=
+
+Name: org/objectweb/asm/tree/analysis/SmallSet$IteratorImpl.SCL.lombok
+SHA-256-Digest: mUMp9KSRikES590uEofBfHIeCU8fsE2wZ+0Udnsoicg=
+
+Name: org/objectweb/asm/tree/analysis/SmallSet.SCL.lombok
+SHA-256-Digest: 8JYjCmOJvzFajikOGLnRO8MRF+f1C450WCL6cG2fYpU=
+
+Name: org/objectweb/asm/tree/analysis/SourceInterpreter.SCL.lombok
+SHA-256-Digest: SkoJuWSJBmxKxkZrRwe/D40yuf8MS3ifpdKsflZMlVY=
+
+Name: org/objectweb/asm/tree/analysis/SourceValue.SCL.lombok
+SHA-256-Digest: RP8V+uT/ZaT4wkA+VgmQaCm2W57tPHva2UqmR+bhMkQ=
+
+Name: org/objectweb/asm/tree/analysis/Subroutine.SCL.lombok
+SHA-256-Digest: AfIvbqxRF8MpgzbJr8mSdLTEfk/3QalI3WBmbn6wh2c=
+
+Name: org/objectweb/asm/tree/analysis/Value.SCL.lombok
+SHA-256-Digest: +0x+jRFLUwbpqdl4lT6lMvvrDUBOjlA8dTLDVPeEQW0=
+
+Name: org/spongycastle/x509/CertPathReviewerMessages.properties
+SHA-256-Digest: 6qfrh4vJFhqZzh6siMjZziMXHdHkYV7ZHjrKHXjDXIc=
+
+Name: org/spongycastle/x509/CertPathReviewerMessages_de.properties
+SHA-256-Digest: thPqTNv6At8XH7p1Ww3+t7n06AqXWHDPTc9tsADzhhE=
+
+Name: play-services-ads-identifier.properties
+SHA-256-Digest: B8JlifLkXK4aRzbgMfjmgslwgwkPWBsKa1vtpDE2XUc=
+
+Name: play-services-base.properties
+SHA-256-Digest: UbN5aWDWF1D3ln1/m9Xj8umMM32kEiCq6pINFcrdFUU=
+
+Name: play-services-basement.properties
+SHA-256-Digest: KpG0BBV6AqLwF2e6UjV7Q+7694nljSXDnwBmxsyoQpo=
+
+Name: play-services-cloud-messaging.properties
+SHA-256-Digest: +c03aswSjA/L70fcYwhq+MpzmmcMxJ5qm3BsLuLnuww=
+
+Name: play-services-location.properties
+SHA-256-Digest: EI3jbergfY/ccqcGltjI2R9bD0HtdQf3gWNgPeGjNjY=
+
+Name: play-services-maps.properties
+SHA-256-Digest: r8dfK/Z7GiD7fr9L+/F979c5fKlwOKlp7E7svyqi1Ak=
+
+Name: play-services-measurement-api.properties
+SHA-256-Digest: ltqk0Rj6vXKXHhYB6TM8+yhb7NgC+HXY5jqaF+GlYgI=
+
+Name: play-services-measurement-base.properties
+SHA-256-Digest: DMQ/+iIs2ihi5Vd5J6QY7qKnbASdYpM5fiVBtM+VyFk=
+
+Name: play-services-measurement-impl.properties
+SHA-256-Digest: 38oUSd/4zo28/w1hp4GAco3ZGyB4w805qll2AyP3nBU=
+
+Name: play-services-measurement-sdk-api.properties
+SHA-256-Digest: zvUi0jhxG7iPiQJd87W6zEXfwybTMIgi8KszSSywHDA=
+
+Name: play-services-measurement-sdk.properties
+SHA-256-Digest: bJlCgMC57vpVJgHlnfd2SoEGEhkNDeMAKet+UxopiO8=
+
+Name: play-services-measurement.properties
+SHA-256-Digest: osXLlrwiYNcTULB9c/XBYEDMzMjAg9cJfXqa/B+9Eeg=
+
+Name: play-services-places-placereport.properties
+SHA-256-Digest: wCgmJi0uqD0RsrDRVARTMhUhgvEOCj2fIAxedWA8nJA=
+
+Name: play-services-places.properties
+SHA-256-Digest: rEvpA9b6HMxYn1rS1UwabaC4KjzNbbDJFyA/RD83LwI=
+
+Name: play-services-stats.properties
+SHA-256-Digest: rXmZTvxFIuzd6aDwKURLiQdvmS1D76crGP4A/yY7pys=
+
+Name: play-services-tasks.properties
+SHA-256-Digest: DE81+yqgEd3ksETZxD+bUkIkBqUHv2QvlAJuKVdotPM=
+
+Name: release-timestamp.txt
+SHA-256-Digest: VzzS35zKbSYZRdzMjkjK6TtmmzIvqTDggniZi/zF1B0=
+
+Name: res/anim-v21/design_bottom_sheet_slide_in.xml
+SHA-256-Digest: S/FAbardz3M8pOs0EejVXsWphjxSXnpAPAVM7lidRpU=
+
+Name: res/anim-v21/design_bottom_sheet_slide_out.xml
+SHA-256-Digest: bObc2zmpYpwtd0zqmfQEKsPr9aUV6I0ljPoW84nd65s=
+
+Name: res/anim-v21/fragment_fast_out_extra_slow_in.xml
+SHA-256-Digest: drCtQ+FyBC5dx66ByTEswLoEDTceWPVnhP0K3P2rxJ0=
+
+Name: res/anim/abc_fade_in.xml
+SHA-256-Digest: q0ZdrtTwk5TyNjgn+mkj/9MRvfV3JY/AhVy1d10RXKs=
+
+Name: res/anim/abc_fade_out.xml
+SHA-256-Digest: 47fkqI9ufKe7Iv4oiJ40AU+Ek8NCam+a6MkXhoJ46EI=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA-256-Digest: oZ1PxFnWeY5ubiQLaWmlLweQvAPWSjKXQkmaNT4SwKA=
+
+Name: res/anim/abc_popup_enter.xml
+SHA-256-Digest: xtGURTHGOygz49SEmAL4DVlPAEPNdzOxhwxDSTIC+3s=
+
+Name: res/anim/abc_popup_exit.xml
+SHA-256-Digest: xqu6of0IJ71vX3kEGYJ4XW4gcR7PaXHKaRRINj/0H78=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA-256-Digest: NaJAGi11pMG6CH41NUQJVOqR7LKBPUJ8Sx70l25/UyQ=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA-256-Digest: OzeD93o1dIDAuc/IklmCnApQf1HmqtSWupU/SGM8RqY=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA-256-Digest: aU7ibuFT01xa1VsasuOWsCHASGFUPg6tDPIrNFl6454=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA-256-Digest: 0SqG8aDpucvvr8zmt9PDGdmi5cCosh0ju67y31rBYk8=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA-256-Digest: f0G9nNWB08NXASse9rAVel+xi8ZZZ6kGqoC7rA07M0Q=
+
+Name: res/anim/abc_tooltip_enter.xml
+SHA-256-Digest: F/DOfJqUlhb3XSue9u/IKRsL5/MdvV2bJixHjVg8zTk=
+
+Name: res/anim/abc_tooltip_exit.xml
+SHA-256-Digest: s8YatAJVIcJl1lu6u+JJdz6ZLosir9FlukyumtZNp3c=
+
+Name: res/anim/bounce_animation.xml
+SHA-256-Digest: szgnBzbv6SRT1B6a5EDH70IqXgHyJcC3PuqW6iQn1NY=
+
+Name: res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+SHA-256-Digest: bUt6irBxHq05dSiXMVrjJ8slfSFtylzUP25ecnjjwPs=
+
+Name: res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+SHA-256-Digest: OcujBl4Tw31IN0oqwCkhXzvV0c09msZiJao8wpow02c=
+
+Name: res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+SHA-256-Digest: A89MfUu3r5SG9yOSnjSbfrP0XGcAXjYgUfIyFS42sjY=
+
+Name: res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xm
+ l
+SHA-256-Digest: a8CU/QTNiediMbbWvdrbd7nzmkrLXY6+1mnNgYbiwwk=
+
+Name: res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.x
+ ml
+SHA-256-Digest: T8XBjeMgm20HFg9JZORK8FdzoEmdS8wR0C3msdQ5kzs=
+
+Name: res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+SHA-256-Digest: 7azO3lDx6nZXv0EqW/CqZ6zerv24xBTTl3e/HWi4Vqs=
+
+Name: res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+SHA-256-Digest: 1DqVNskf2Nw0MWvImsshbP7C3CGn/QBdj+3dudLp+Jo=
+
+Name: res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+SHA-256-Digest: Bo/PBZQn3RSevKMkR5BQypf/D+SZ//q0tckGvD2ur+Y=
+
+Name: res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+SHA-256-Digest: 7HKAybxRQ+hF3Sax+5rKX3Hc448M20M/ORClKVZGpPk=
+
+Name: res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+SHA-256-Digest: Y60j0RxG0RXq/rO1kttIJVnf+TAzsBG13Q7MoFyV9go=
+
+Name: res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+SHA-256-Digest: ChMAH+PoDngCblWuqRfDCTC59/RzzMp6arAp38r5OsM=
+
+Name: res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+SHA-256-Digest: LeOsXPe+2pf2JciLZhx/7BqHh0NHJO34JIK7+jKpWas=
+
+Name: res/anim/design_snackbar_in.xml
+SHA-256-Digest: SCWUxGX0D1r4sa3th/+0hXPVbDU/I4koCm2hj4Jo3qk=
+
+Name: res/anim/design_snackbar_out.xml
+SHA-256-Digest: hepi73bkFvaJF6SORNcaXMg5K3q0rudGWnK4ZXPWTYM=
+
+Name: res/anim/fadein_animation.xml
+SHA-256-Digest: p1fG0n24IQlxcIdSgfGRDewDInxms+4duAEpIFnZCbU=
+
+Name: res/anim/fadeout_animation.xml
+SHA-256-Digest: CVDTLpLvxvNFyfAvXmyOg/3tR5vKhEoiVE+Dynl4jQk=
+
+Name: res/anim/shaking_animation.xml
+SHA-256-Digest: uUlbT+0c4u9OjfYxYSq4JxNDfblo9skUFSAWfkTUBzw=
+
+Name: res/animator-v21/design_appbar_state_list_animator.xml
+SHA-256-Digest: MlX5mxdrze0oks7G/Wu6G/kI4PecCU3TaIjYXu4ltoE=
+
+Name: res/animator/design_fab_hide_motion_spec.xml
+SHA-256-Digest: njgnStTbvyV1cA7Uk5A6wP9MnTDms+lklFmZpemEVoE=
+
+Name: res/animator/design_fab_show_motion_spec.xml
+SHA-256-Digest: iTPtyW8iqkUOegsVhb/PraXp4gFI3ca7FAol9qhZzLM=
+
+Name: res/animator/fragment_close_enter.xml
+SHA-256-Digest: 0MmSrK3hWFJi7pcMr5i60WaqvHFlsVdJpcNg6ulfusk=
+
+Name: res/animator/fragment_close_exit.xml
+SHA-256-Digest: RsW7voZFfi0mmNAu3Zh78837gdjYXa8loCH8jGUwN6o=
+
+Name: res/animator/fragment_fade_enter.xml
+SHA-256-Digest: 7P8enVvZzQY1lkQ6YqCl0pN84B1p0nVYXrGBInYXsQg=
+
+Name: res/animator/fragment_fade_exit.xml
+SHA-256-Digest: 2LPsSVbuVFK3SzizVcuOLcODlK54Z73m+6Am+h3wPPw=
+
+Name: res/animator/fragment_open_enter.xml
+SHA-256-Digest: HI5zvQvSofSOiHdtDu82o2Kszi6L3Zmnblo+ThnnM+M=
+
+Name: res/animator/fragment_open_exit.xml
+SHA-256-Digest: wdWcqsEoAXLt0nMa0Rsx+gqfB6R1DJrV/1K6HB2WrvE=
+
+Name: res/animator/mtrl_btn_state_list_anim.xml
+SHA-256-Digest: qupX9gI43I59O11+YUt+yvkPevreYbkfGhPPmYezsXs=
+
+Name: res/animator/mtrl_btn_unelevated_state_list_anim.xml
+SHA-256-Digest: ch+oDDqgaXCIIL8SNeT9nzC93VOlPqz+4FacrPYeUKk=
+
+Name: res/animator/mtrl_chip_state_list_anim.xml
+SHA-256-Digest: Me/SuCLrPz1ACIphOJwfPTqYHxFHTuYpUlHG1lw1vuI=
+
+Name: res/animator/mtrl_fab_hide_motion_spec.xml
+SHA-256-Digest: Y2U/ybYhDvNFszPqD25m2BMtk/aKclsUsT8/OzOaLPQ=
+
+Name: res/animator/mtrl_fab_show_motion_spec.xml
+SHA-256-Digest: Nd0AOU678KKYn1GhgS8JlztWi3foeitIDZL9hcwW40Q=
+
+Name: res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+SHA-256-Digest: D+i0W0Ifwvqzrvb8/v6y6gd35MJXzMkA3Z6k65uPLHE=
+
+Name: res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+SHA-256-Digest: 1Lc+0/N4LfkRa9XqOWi8G6ZCgcDeZFCzq7WzgyfHoKA=
+
+Name: res/animator/scale_with_alpha.xml
+SHA-256-Digest: Ub9cdHEE5WfrR3bd/oJI+2tJLyCN9rlW5u2j516GcCc=
+
+Name: res/color-v21/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: fvUPMlJAeZRlrMgpKBPgtdZYU3np6mf3FwC+L0eeciA=
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: hKtixtYdyxz5VCk+edwMZt0echI73J8+xonUG3EuZNU=
+
+Name: res/color-v23/abc_btn_colored_text_material.xml
+SHA-256-Digest: RKRxfXYiPKx0LwIt7sC8hUzf8MJJ4dZMB/5qg9YJZDI=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA-256-Digest: c/bQ854RB234ixspCd05J6GcfLRAvPpaNDzZhmo6cMM=
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA-256-Digest: 6VEE94kAgAZWT6Q1RTd8ii0XIscOIPDHSk1JbPmkdxA=
+
+Name: res/color-v23/abc_tint_default.xml
+SHA-256-Digest: 4hJLRixN9b4BZRYV4Mo/XEGL9sYiuYf0swIKSdL+u9g=
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA-256-Digest: zxjDH87P4NbjFqhZlVoD8egdgulb3uJwF+y+pEC83yw=
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA-256-Digest: fupbUmAkuzWaqYyp1gIyyPtBWVBKObTQoTj3aHNyxOc=
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA-256-Digest: TnwqD3k1DRF7dKoOPb1nOYy6NTc/HHaKf3F5LuFJ8mc=
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA-256-Digest: lPJ5FT/3mQLpRLKEV6DUw0G0dey4mJWNJP/qefGuBxA=
+
+Name: res/color-v23/design_tint_password_toggle.xml
+SHA-256-Digest: kj26SO6BOq2+fL8xSv303bcKnIAWu4Bca0riQP/5ncg=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA-256-Digest: +8rIbcHrb+DU3ZlWYbwgOdzqKUb/CHXL17FX2kgoC1Q=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA-256-Digest: DfszpHYaI5iNevYpF7HX1YEYtYUKAdl+iexmUDELBJk=
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA-256-Digest: aCVTjh2H/+kqfTWvbla3Jf/StBYrOJj46+EhMKqX1Mk=
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA-256-Digest: tMOTYkp46Hh0b5LBM3wePg0bRqWRPi4GErZLpd2gGWk=
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA-256-Digest: WvluScuTPsG1ow5pUmYvoTS6onXhizdEpzW7HP4NxdM=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA-256-Digest: dVLVLYnODoy+3H/tVuAhx6M8xZPZGoH+SJGlEb4/z1k=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA-256-Digest: I5bJ5jG7FrVVdEhdvHitiJ4f8NE92aiq032W+Xs22WE=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA-256-Digest: R6b5Vvd0C5KeN6jPkXPFBeisLORnIsxAo4Bv9ClwN0o=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA-256-Digest: QUMhq3Q9f0lIqrasfZscZU/axGyx8wEy3K3XPxJ8uRs=
+
+Name: res/color/abc_search_url_text.xml
+SHA-256-Digest: w7bQM4YR9V4n/AGgolMSg/shGvstE2jGha0XydXizVI=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA-256-Digest: PPCfFUDPusG52j5Y6UOgDoMtT8UaymINObzIzbTFnCA=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA-256-Digest: tFGAthiSITG9KQfCdT38swqvNpPhMSySOt+GcPphYJY=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA-256-Digest: fSwTmE04pcN7P8J/zYjcMeEEDCAkG6Tc/8Yxksc1wCA=
+
+Name: res/color/abc_tint_default.xml
+SHA-256-Digest: ecqUeKYRQ6HdlKcLxir3WfxN/WB+cGpArFtCsZBOawg=
+
+Name: res/color/abc_tint_edittext.xml
+SHA-256-Digest: ErPl2JQJaxQmi/HTVILrvtWyhSKkkCIlgwqSg5uZ9EE=
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA-256-Digest: h8XW+8T0nIbpl34Tq6y3txuuY7cEP84L56DFr2qXZMo=
+
+Name: res/color/abc_tint_spinner.xml
+SHA-256-Digest: GT+x19ccZcqX/6r3sz3MzytWJlQeKP/BKzZrChVrJXI=
+
+Name: res/color/abc_tint_switch_track.xml
+SHA-256-Digest: L3OVuAj3ykaAHkj/HpT+vaa42YFV6qriTiflRMeo4BM=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA-256-Digest: DfpScSMmhPzVUkMAkwKstZzxxikKF1ESaEl0dgXbp4g=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA-256-Digest: z1VWyGL3sFbT1D5Um8M9KC7GwzFBeXe/GEqwkEymAYQ=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA-256-Digest: +uabLVYqfK74S4sQ8bfUNxSK4m3OVpgCQCQD+mQteiE=
+
+Name: res/color/design_error.xml
+SHA-256-Digest: YPlfL44p3xB29dfTlEGZO8uiwnUsDAU3mBnGn1oYbPg=
+
+Name: res/color/design_tint_password_toggle.xml
+SHA-256-Digest: x/KcEZ+jOmidMSGoyU3afwXR+3ZoUMiEEHr5tVLAiFA=
+
+Name: res/color/drawer_item_text_color.xml
+SHA-256-Digest: lYR2kJ+FRAASyZWnSGxgCLr2KRWwuyYQ/IdLA75tEq4=
+
+Name: res/color/mtrl_bottom_nav_colored_item_tint.xml
+SHA-256-Digest: 4caFj+dKGo/kgkzHXRrGe6/5u6Rd1cI+JpFK15agtEg=
+
+Name: res/color/mtrl_bottom_nav_item_tint.xml
+SHA-256-Digest: CvEKdboZXVA3Z+PINALrG2bmSq6orIGUs6TMO7t9b+A=
+
+Name: res/color/mtrl_btn_bg_color_selector.xml
+SHA-256-Digest: a/7/gaF9wZZ/9ojPk1lf1YY9t20YOdMDfRdL0VICPww=
+
+Name: res/color/mtrl_btn_ripple_color.xml
+SHA-256-Digest: FXkvjgxeuxyeZtxBRoaL26Vlqtgjbj3xJcE8/yRnxpE=
+
+Name: res/color/mtrl_btn_stroke_color_selector.xml
+SHA-256-Digest: jYH42GgOMfweOSRs5Q38/FcjfDVWaXIm5uWG4/SBjd0=
+
+Name: res/color/mtrl_btn_text_btn_ripple_color.xml
+SHA-256-Digest: R9uLRQJvyv/1iMranLyUeLm7dL7k+/zKjEQNHOwtyX4=
+
+Name: res/color/mtrl_btn_text_color_selector.xml
+SHA-256-Digest: RO9OsJ183DTJkS6TVahJJbYed3WiAQm97uuzj/OPop4=
+
+Name: res/color/mtrl_chip_background_color.xml
+SHA-256-Digest: XhFUCzzmY8MxKzrLM8WoX7isu93Zxq5T4LNF8yMJmzE=
+
+Name: res/color/mtrl_chip_close_icon_tint.xml
+SHA-256-Digest: NjOKJJZtZjxBw/KK5nY5JSaY8V0RMG7Skr6ntAI/vDk=
+
+Name: res/color/mtrl_chip_ripple_color.xml
+SHA-256-Digest: i/49TP0A17ze/LlcCPcUhGYT5Ly+RjE5qdmiqy7XbUI=
+
+Name: res/color/mtrl_chip_text_color.xml
+SHA-256-Digest: RUupBp8xI37lgnaXifZpXf7ZTURTSyR40BKptSJhY8s=
+
+Name: res/color/mtrl_fab_ripple_color.xml
+SHA-256-Digest: jutSM8YMIdmFTZosj0XQu4SzB1QhYsc+uV4e9vEEPYc=
+
+Name: res/color/mtrl_tabs_colored_ripple_color.xml
+SHA-256-Digest: juM7A4PYwqWiHJrUaZ5VC5W0hQT7Wf3BpUx2spram7Q=
+
+Name: res/color/mtrl_tabs_icon_color_selector.xml
+SHA-256-Digest: iN7NnJ1vD0JqinncvMHzl2Fpp0uWapLeTFzoM7IYQvk=
+
+Name: res/color/mtrl_tabs_icon_color_selector_colored.xml
+SHA-256-Digest: 04hqRVIGAjteMRY+K6F0FIrEalrSfORVZdVELEMxgzk=
+
+Name: res/color/mtrl_tabs_legacy_text_color_selector.xml
+SHA-256-Digest: HNVV7iwF7TD8fK+JI5UOz/bIH0SLGj953OXWf/yIT2M=
+
+Name: res/color/mtrl_tabs_ripple_color.xml
+SHA-256-Digest: 1zJsTcTasAz9ZbLj/T1r2jltDcpSN7YpDrLRUiQ+hDA=
+
+Name: res/color/mtrl_text_btn_text_color_selector.xml
+SHA-256-Digest: kkfNWK47ye5eS+RTJUOiJeBQVRAGP7PsJGmukS+vl+g=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA-256-Digest: V62uLdZNt/Y6VSLInFzQBxAzyrim/Qe3RWxdLivpeLQ=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA-256-Digest: mdzNwElqRGe4ezXc3YuA4HDYhz3Xg7Wad1gMJkxZ4OU=
+
+Name: res/color/tab_text_color.xml
+SHA-256-Digest: ZkaZvFtnzVwuzg/xrbQElzAzRYFOw2TD/zhq8kVAGpU=
+
+Name: res/drawable-hdpi-v4/ic_flash_off.png
+SHA-256-Digest: Gp5Nt18LNg1qvNcBBjT3vxScthaf+GMpSoLDe/qTQlA=
+
+Name: res/drawable-hdpi-v4/ic_flash_on.png
+SHA-256-Digest: pYoW1VNvMickBV4o3utYHkDRucVm3iSOkEKB5ZxhF6Y=
+
+Name: res/drawable-hdpi-v4/ic_info.png
+SHA-256-Digest: YVxYqsFddMaDwx7+TD6fjMIEf3HbogOHx8i6G9icFn0=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: pHT9truIa4J9JMF6YaEqwHD3YhWxyvZfo41jfbAIb1A=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: wdMeiWANwx1p0qKOPoaUpRbqQzJ+Qb7Ys534xrbXCL8=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: EkrUqwbPDFz8IPw/qodovnscqV/Y5X4CHqBnumiEXP8=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: BOX940hx6pFzV6Fjq+lKR+yo+OS3e+db39CTvMDQnF8=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: d4xsh9tEbGScT/ghmMThU+XH+mr28yNqsRhNFiljgEA=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA-256-Digest: ZKWE2GYxFwbORylkQZ1qQDgxkx4Cnkd6CbTvawN2Zmc=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA-256-Digest: P/swH2Ze6CaSNYkpjSC8EI8c/b1PFKys0rSl4E5a6Pg=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: zmyuPLQUSVSVb7u4qpugYrSIje/Y8tL7rBm5nrdESvk=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA-256-Digest: /NWVni5Ocj+aSbvedVNzWFhRi8vvmJnj4R1uAN/TCSk=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: JLOmHAdUjBOiLSsc4AJ/G02DkW20ivq90t6inIIWSrI=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: wblGdn81sa5OoeX9CiOnDynzkSqpAsxUEj2PBmsvj2Q=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: HN7MBtO3Z7qIf/CVGSWir37ZcoFSHWYVfzUhyaj1F4Q=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: PqL3JTBOMVDTE8o++33busD6l7TwZiS7KAqzKSDoAjw=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA-256-Digest: PhjD1n/yDwl8WIV9u7CH3ZIWhrZEwsc6whOnzweXCL4=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA-256-Digest: +Yg3UMX7WrJ/R8ekQszfrXjkzLlHEBGrYI64L1Kptzw=
+
+Name: res/drawable-nodpi-v4/baloon_1_1.png
+SHA-256-Digest: 3IngAWURwe2hkuNq2AMtVSpBh0qsQ/0o4R2nKlLVzms=
+
+Name: res/drawable-nodpi-v4/baloon_1_2.png
+SHA-256-Digest: cN1+PAKoVxBD5kEEr6TbKgFjZL6dLp5r810oknnVXZg=
+
+Name: res/drawable-nodpi-v4/baloon_1_3.png
+SHA-256-Digest: YSZiBxUfCRlpKcio81YurgAloWVMAfjyo9cZJSdLxQw=
+
+Name: res/drawable-nodpi-v4/baloon_2_1.png
+SHA-256-Digest: J9AFVpNctI6W4Ep2ybvGR7WHO9oVPW6aUVB2BfFuLiM=
+
+Name: res/drawable-nodpi-v4/baloon_2_2.png
+SHA-256-Digest: Volc6YdxMuQ3xcnZTvR2N5E9xcKDWypL7QoybW6iLV0=
+
+Name: res/drawable-nodpi-v4/baloon_2_3.png
+SHA-256-Digest: SX8IRdaBbLIZwvI86glaGgzdVogvB49bfnIaNjatCvI=
+
+Name: res/drawable-nodpi-v4/bat.png
+SHA-256-Digest: DxM7wI82rKrxNaYGSck4haTQzEflCIFjIh61rsPbBcA=
+
+Name: res/drawable-nodpi-v4/begin_free_arrow.png
+SHA-256-Digest: HKtTYRQKAxCX8sjhn0mghSwNxIQonAO3uVBf2XDXLNs=
+
+Name: res/drawable-nodpi-v4/broken_heart.png
+SHA-256-Digest: REJMSja9nKRXPxoWc7KdGU2VQ1oDGshJHpDkQU7W70A=
+
+Name: res/drawable-nodpi-v4/care_img.png
+SHA-256-Digest: sgCSr3dYmqvQ0IPwurysQJ8GW1/0QNLOBt2baWPmOE0=
+
+Name: res/drawable-nodpi-v4/care_logo.png
+SHA-256-Digest: pfCgfPYA9sEsd82dyfqxHu4Dy51jP2joka1PeTJCJIU=
+
+Name: res/drawable-nodpi-v4/care_logo_white.png
+SHA-256-Digest: 7nSa/+C5P6nQNffapIzSkN5dGVez6AdK91a1wFYgMyA=
+
+Name: res/drawable-nodpi-v4/care_productbox.png
+SHA-256-Digest: 8zMxLhK25bXdv2UBOa+Zz54wUTFANFzht/6r2tXWJyY=
+
+Name: res/drawable-nodpi-v4/check_mark.png
+SHA-256-Digest: 97OSDrCOUjjkt+TDcn+J5oNMrUt4QbybyxIi2Jvxpl0=
+
+Name: res/drawable-nodpi-v4/circle_button.png
+SHA-256-Digest: /M5nhwIryWC28OmJlR8ISTvXmlfMlYl6/sAeq141+8E=
+
+Name: res/drawable-nodpi-v4/drawer_image.png
+SHA-256-Digest: ZCuZAMj+wFN8TkEVdeGdIsJo0cUDKXzG2a4nfD+6Vhc=
+
+Name: res/drawable-nodpi-v4/engineok.png
+SHA-256-Digest: FbZnL0XwuiFJoF9z2A/ivVoZSnZm/cZZOg5ZPlmQLbI=
+
+Name: res/drawable-nodpi-v4/esclamation_mark.png
+SHA-256-Digest: b3QnxvoYAncUY/ZNfNtSF4deKESZeffIXz6QT0/ZtRE=
+
+Name: res/drawable-nodpi-v4/group.png
+SHA-256-Digest: iOfcu92TQMKt8dihNHlguId0OJsJT+0tauro378kI0w=
+
+Name: res/drawable-nodpi-v4/ic_all_good_behavior.png
+SHA-256-Digest: LpLghPIsQNK7+IlgAmD+LTfviwxAhvRNibzGse0e3BM=
+
+Name: res/drawable-nodpi-v4/ic_bad_acceleration_behavior.png
+SHA-256-Digest: mbMffDgzICfPatkoJ8+P3NAW0knk6QV8xOfkPerIEsk=
+
+Name: res/drawable-nodpi-v4/ic_bad_cold_acceleration_behavior.png
+SHA-256-Digest: 3e6sBb1sQ9mjmv1rArg4vKqFcycIriy8ifY1JnaK67o=
+
+Name: res/drawable-nodpi-v4/ic_bad_deceleration_behavior.png
+SHA-256-Digest: SBfFnMvmtpF6CI0J3bq6SAQOJcZM6mEUfuQlRM6XjxI=
+
+Name: res/drawable-nodpi-v4/ic_bad_speedy_behavior.png
+SHA-256-Digest: Rl5ZWcuGWcm6N/0JTlu6tGj9MKweJL1SIpWZyDVoz6Y=
+
+Name: res/drawable-nodpi-v4/ic_bad_still_car_behavior.png
+SHA-256-Digest: 4Uz6UCbMNIUUd4bqz0Gv6aotoNuwi7oopFzLqIlxDuk=
+
+Name: res/drawable-nodpi-v4/ic_bad_still_car_cold_behavior.png
+SHA-256-Digest: eIvO0IAEpx5/zCpE2JYe0gUybRdbqY0xpbTlsNpTGag=
+
+Name: res/drawable-nodpi-v4/ic_check_bt_failed.png
+SHA-256-Digest: 20PEFGj59+lhJ/RXZmIe+U4IeJVb/YdfCHGELtSN0PM=
+
+Name: res/drawable-nodpi-v4/ic_check_bt_ok.png
+SHA-256-Digest: nLng5yvPqad8RDSKhxagGKLnQXsNHDY6yXaysoZulBI=
+
+Name: res/drawable-nodpi-v4/ic_check_careconnection_failed.png
+SHA-256-Digest: P5pNVwjmNcL7LJ3Z1Jckcy9fjNPvbCFn9Zto4l9sajw=
+
+Name: res/drawable-nodpi-v4/ic_check_careconnection_ok.png
+SHA-256-Digest: pMi8jJ8Gl2dXY3psqwWMn4cLnoBKXhbdD5MT4r/Tb2A=
+
+Name: res/drawable-nodpi-v4/ic_check_gps_failed.png
+SHA-256-Digest: W7K8L1VdATdzxH2qTYE0/ArjU0L9QamfgWj51Irti/8=
+
+Name: res/drawable-nodpi-v4/ic_check_gps_ok.png
+SHA-256-Digest: JxT9W1SaRT0UIBOpCdkNX9FT9GyQup2MuT/AwrhHSX0=
+
+Name: res/drawable-nodpi-v4/ic_check_network_failed.png
+SHA-256-Digest: cNzKIni8OGJxAWN0ffDj/TDclVw1lCSip0/sgsJvels=
+
+Name: res/drawable-nodpi-v4/ic_check_network_ok.png
+SHA-256-Digest: /73ClR5His+OciaHWF/LWflslwLZHflcWt3duaUser8=
+
+Name: res/drawable-nodpi-v4/ic_check_phonevalidated_failed.png
+SHA-256-Digest: PmTt8zFqliUSl3amNOENBUmP9waLAROmlGyo13gEWl8=
+
+Name: res/drawable-nodpi-v4/ic_check_phonevalidated_ok.png
+SHA-256-Digest: HEY+tVX7/7ebxc8pg4tGdhG8O16LqxnlLC0Uwv7l4Ag=
+
+Name: res/drawable-nodpi-v4/ic_check_termsaccepted_failed.png
+SHA-256-Digest: hkmARitQlnDEha39U1EHrT3QFsqrGRLyvvFur++Yf/I=
+
+Name: res/drawable-nodpi-v4/ic_check_termsaccepted_ok.png
+SHA-256-Digest: fYVO7V7c0AaopqTKusJlcHcLriaFHhgCMCg0iZpDntU=
+
+Name: res/drawable-nodpi-v4/ic_dialog_advanced_diagnosis.png
+SHA-256-Digest: UjJHdpAgZI8647C+NvHQgiw56JHymrabaneWAxg84HU=
+
+Name: res/drawable-nodpi-v4/ic_discovery_care_configured.png
+SHA-256-Digest: Lieb5ygXo0VYXXIuWqwca07S1t597H5H8vtJwZBoZs0=
+
+Name: res/drawable-nodpi-v4/ic_discovery_care_not_configured.png
+SHA-256-Digest: XnTS7JhAfQPRy4ERmvmDWvM2nF2Z0m1q1oC099TXOVQ=
+
+Name: res/drawable-nodpi-v4/ic_end_event.png
+SHA-256-Digest: LJ04hi2/ByyetgJhxPa70FYzOKkT4jFgjz6tdx0K2cc=
+
+Name: res/drawable-nodpi-v4/ic_start_event.png
+SHA-256-Digest: gynnSqXPZEtp+7mF2aXXeNYBKarXe9iLeRCllAwZg/g=
+
+Name: res/drawable-nodpi-v4/ic_temporary_stop.png
+SHA-256-Digest: WzVzMOlMeoriBAc06Qwtjvew8gNGaJc+b0pBlS9+DQI=
+
+Name: res/drawable-nodpi-v4/ob_background.png
+SHA-256-Digest: CcAsFXAbSY0sOf5m4MKyz4hVxib4l0NteNkYVazRwQI=
+
+Name: res/drawable-nodpi-v4/permission_calibration.png
+SHA-256-Digest: DRS+8VxYLUtBCViH2rAiU1vt5w89v9pEn/ndQwIHHS4=
+
+Name: res/drawable-nodpi-v4/permission_impact.png
+SHA-256-Digest: yPv5qME70mOm9dIw5+m728WHyTh1kLLLoysVkF+42nc=
+
+Name: res/drawable-nodpi-v4/permission_location.png
+SHA-256-Digest: gxZ5QTt6UUroPQLBo47x8fxl4MXS2yU5car8G9c7xYo=
+
+Name: res/drawable-nodpi-v4/permission_phone.png
+SHA-256-Digest: aMpz+dqSmrsv7TuZKIxaNnhfQhIwsifBbaQP/7YUR3I=
+
+Name: res/drawable-nodpi-v4/phone_calling.png
+SHA-256-Digest: Ob7abuG0lJQEkJWpbFfZjQFZhpvM+/iIWMSAj+tNrHs=
+
+Name: res/drawable-nodpi-v4/splash_image.png
+SHA-256-Digest: Rqe3BVgFnM5SdDOmQ6/dy0S+qoOZIj9F6Th4HBM+AlA=
+
+Name: res/drawable-nodpi-v4/texa_img.png
+SHA-256-Digest: tPS/c6+tAomQ/o34i97kwb0acWLGq93GJGg2+B0/ylc=
+
+Name: res/drawable-nodpi-v4/tutorial_item_1.png
+SHA-256-Digest: W2K+/cFfK8tBcMUCgSPrNSO8bPO326XjJP4JTguPo1k=
+
+Name: res/drawable-nodpi-v4/tutorial_item_2.png
+SHA-256-Digest: nbLqfzkvFhDsCRwtAjgSETvSo7sgOD7n83znhNGPNdg=
+
+Name: res/drawable-nodpi-v4/tutorial_item_3.png
+SHA-256-Digest: o3sig4+fKchBUzhOcuk4s1nL/sWE6duXMGhPrXm4PRU=
+
+Name: res/drawable-nodpi-v4/tyres.png
+SHA-256-Digest: PFcTyb82D3tkMBSaq9PaQFlsWiMWDpeBcO2cjixhsaM=
+
+Name: res/drawable-v21/$avd_hide_password__0.xml
+SHA-256-Digest: nL0Ht7OdxjebMV+54owj0THrsoaemt0+uZZ57vA6FIo=
+
+Name: res/drawable-v21/$avd_hide_password__1.xml
+SHA-256-Digest: X/Qw4cCQY7I1vN2HtOFZe3HYrrbRYy7eTZpnDn4KDIo=
+
+Name: res/drawable-v21/$avd_hide_password__2.xml
+SHA-256-Digest: unBuwV0eiNf8fjK7xEIN3bhkhX6ZqCFox5Cyo/grNmQ=
+
+Name: res/drawable-v21/$avd_show_password__0.xml
+SHA-256-Digest: gyki04IDXpN+X/un2vQtdW0rBvhoJ/M4dbW/60WFKlg=
+
+Name: res/drawable-v21/$avd_show_password__1.xml
+SHA-256-Digest: m8kiV/K9ZndkEbgaWpEyjVIHcl8S+nbuoSs1LgcNtVU=
+
+Name: res/drawable-v21/$avd_show_password__2.xml
+SHA-256-Digest: X20m3AlV1V9yBpbapNut8CkeT9krzBV/AuspalKpULA=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA-256-Digest: kxVEr9VgwUyX61cDVl7SdJjWtXJtnv90NXFcrhqM4C4=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA-256-Digest: Ys9JHcWiLbBlH154ZWfYpfopFeSOguuz1Sf1QNw2y+o=
+
+Name: res/drawable-v21/abc_dialog_material_background.xml
+SHA-256-Digest: qwE58m81+8jaOl5eBrV+LvFXE8er6ZgbzC0gWIoSys4=
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA-256-Digest: lRF9cpTaOHrfE9K7w9gXSkbzB3mCziXSUqhVSwF8P14=
+
+Name: res/drawable-v21/abc_list_divider_material.xml
+SHA-256-Digest: wd9v7BW0rV8bbWEFCd1TZ2TNHVGUd9UrQpU3P3h6A2I=
+
+Name: res/drawable-v21/avd_hide_password.xml
+SHA-256-Digest: udVyvrxOHTLTNWYpvI2g5ssVYIRehTv1SX7DNAQ7jP8=
+
+Name: res/drawable-v21/avd_show_password.xml
+SHA-256-Digest: 7E9TxADIZNphZINsC30OM7OpB/X7c/xPBZmwGD1q0sE=
+
+Name: res/drawable-v21/design_bottom_navigation_item_background.xml
+SHA-256-Digest: cBLSU0ZwOqT9OfWOSG0YqKlgcRTrTTGVuMvUY3JiWoE=
+
+Name: res/drawable-v21/design_password_eye.xml
+SHA-256-Digest: jfreFFTaEyrqO9WnqWuwIoLg4E6NH/F7p0pJkDk/Hpo=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: oX5dGr/2MiYOLZyN13b42+QLSZhSJ4iD1V2R7CKyvB8=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA-256-Digest: JTHYKAsj6V/zUfAFZPPBWiuTX787HDi0XbpMHSlKuI8=
+
+Name: res/drawable-watch-v20/abc_dialog_material_background.xml
+SHA-256-Digest: d2w4TKb0+nynu8XKOowEkYKMIR3D5HVQGtFac0OQ6No=
+
+Name: res/drawable-xhdpi-v4/car_marker.png
+SHA-256-Digest: tohfwKYlHyFy7paLBtuIoUTbmHo4ILyYBZ5CIatE+pw=
+
+Name: res/drawable-xhdpi-v4/care_connected_icon.png
+SHA-256-Digest: kmf59GRrhO4UD5GlqjqSuHD5+j+q/KgP4bZUwtU9Gto=
+
+Name: res/drawable-xhdpi-v4/compass.png
+SHA-256-Digest: k5MQXEOlGTDs66TqWNZnEsEuAtYjZhIyAyRFO1BSORI=
+
+Name: res/drawable-xhdpi-v4/dashed_line.png
+SHA-256-Digest: f5CbFVaLO3CNbWfGmL2JA/zjEZF43oeEZoMev0vYuUM=
+
+Name: res/drawable-xhdpi-v4/green_car.png
+SHA-256-Digest: qU9VcvW6IDKBHR37VxW9Bs13QfqdLOnTbCbs7Los4+g=
+
+Name: res/drawable-xhdpi-v4/ic_calendar.png
+SHA-256-Digest: iltMIuUecYnslqZ+K3WIojkMwDSh76/qUI/TJQLiyFA=
+
+Name: res/drawable-xhdpi-v4/ic_reset_schedule.png
+SHA-256-Digest: DqKFTcGGuwaxMDfa1HsssDgKXs47d2kns+Vc8IyPsPk=
+
+Name: res/drawable-xxhdpi-v4/down_icon.png
+SHA-256-Digest: B+N1ly4XEagkYufcF11/sQyFMlDxD7oYG5NEz68ePNk=
+
+Name: res/drawable-xxhdpi-v4/medical_icon.png
+SHA-256-Digest: xL3UQuiT9XIHtPm1nP5OL2q5pX+lzHjXvywvdWw1rw0=
+
+Name: res/drawable-xxhdpi-v4/texa.png
+SHA-256-Digest: ApGttQ/ZTTdRo61ctpH9iFijtATEe5p4WmoSu9PD+ks=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA-256-Digest: 6UbRaBabH04ERz/9rmYJ5Cv3EZ6f9DbarIVEzKgAua0=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA-256-Digest: 3YSGjnUPQv2aGilu15VT42U8VxHcVrr3UZFPou1USrU=
+
+Name: res/drawable/abc_btn_check_material_anim.xml
+SHA-256-Digest: fXjA4Z2uArNjh9pIEerc0X2466cWuvRMJNxXsHAkFWg=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA-256-Digest: StOZIkyGhxXrgSMhhBqs3Szfr8zELZuTjp1qI/tUEgU=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA-256-Digest: 0oWWzeKDpFw5l72atoJHuPntWeqxxHI89mCYcq1e584=
+
+Name: res/drawable/abc_btn_radio_material_anim.xml
+SHA-256-Digest: 6Cgfb7vvX8AmXoX/q4yohLCgTM5e91Y5G0ITHLUmuG8=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA-256-Digest: V163zv0X1aSg1HqLSrWvONlm1LMwZhjDClTqGHaVUl0=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA-256-Digest: Ob9S9lcklMYy/M6Q3XoCCeYmM6+Q2CEXg35gPWQ3N9o=
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA-256-Digest: tKnEIACJHTQrErC72u5F/kpp0OMCT+8ueOFe6jjdKfU=
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA-256-Digest: c+VOAG/NQ/+rryZB9kdtf63JuTB1ok56viX/MGA3sac=
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA-256-Digest: 0O0H1E0O2snuSfwZM8iIMoKeC6gi0lToV1PDHjzU0Qo=
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA-256-Digest: dxZCAq6hkCqB3+cH6OVQaT0d2Wa4WFPWRLLpzUkghCI=
+
+Name: res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml
+SHA-256-Digest: Wwx72TPk1aUfqTkvSTjAHuCUL7m8neweMocsLbAwO/Q=
+
+Name: res/drawable/abc_ic_menu_cut_mtrl_alpha.xml
+SHA-256-Digest: 298nTyTgDC8DPlOQghjUmglL/pn7UVey8YrueCl0oYs=
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA-256-Digest: wjInWxLouUMmTKix4FsVJd8BN3L2/+UpuCne1YzhR5k=
+
+Name: res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml
+SHA-256-Digest: AbwHo+HHfWe/2xH5QsNlY/lt02S4NMQDqmaqufSzG74=
+
+Name: res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml
+SHA-256-Digest: mq8TKZEg+8bCzmIEKNFUKPZBUh0+D0BJGv5C8I9C5JU=
+
+Name: res/drawable/abc_ic_menu_share_mtrl_alpha.xml
+SHA-256-Digest: LBSuNX3Ec7WByMqQkPiHz+1yB89xEp6cnj9fq25xPzg=
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA-256-Digest: I1JISTqBLq5u2aapjrwR+VhppAcPgl2gnMv20wAq0vA=
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA-256-Digest: zViGIjsE/vufkLyTzOOJ1hsQVgzecgLzVELKP56FQXo=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA-256-Digest: nIZrE9RhsyryT4lgGGcPDemhbXEoWm7DGdfdVv3wwx8=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA-256-Digest: ZLr8ZJ+hRcuEX64+liFerGNhM93dQZJmAtjBx7Wlfcg=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA-256-Digest: /WOG5YJeZqdSycn91UZeyiQDdgIzxiwW/gMHogl7raM=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA-256-Digest: lcAEfdqwCG42uxJSt9LzOnqAuevfdhqMGy8ODB1O7mM=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA-256-Digest: V3gModLZ2tMhAJ5WJRPkty5eVJhquM+9oHmBngs33So=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA-256-Digest: IqnQ9AD1yCNhXfDKhlBrr/gTzke+aZwNEpFWdT8XG+I=
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA-256-Digest: FR8bOA0xrldfht4aHZTMFsotF+gy0w/I+VmIZzWj/uo=
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA-256-Digest: rlO4a34qIXOkIa3KJHUDDHBZkAOcVIFuYc1BdYgNtQA=
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA-256-Digest: ktZH8cJ8/bZ5narFNKjxebt5mgKCtQd5ukB4E9X+DMg=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA-256-Digest: KM4Zs/yH7YxV78O1KzRvR/BFmfvw0VjAxU4CDP/z9hE=
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA-256-Digest: C1Mg2UNHIqqh2El72B+TOubdi4lkMp+R9at7D3GwHQw=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA-256-Digest: xWmoj0Uxi4qmQneLHOEzNC5lNagpUJHiayrqqWJvUCA=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA-256-Digest: fyjcKqo+FqjMW6oUMlmgO2ntoSexg4G50MhSh+ZUIDE=
+
+Name: res/drawable/abc_star_black_48dp.xml
+SHA-256-Digest: onBgdA0jRaskucaGud1Ht24VJvdQrBUu4tet4q46H7A=
+
+Name: res/drawable/abc_star_half_black_48dp.xml
+SHA-256-Digest: fZ2NEZd5bGzwXYkfOqfFGim8zVIMOTJ1oIzsUNOrOHw=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA-256-Digest: upHYe0adgR5OTZBecnzBhgvG4PgJ8VodRsveL741OwY=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA-256-Digest: 5QUg2G45Cuj0hozdpBWbTUQp77ZvdeKQJkLxPnjxWPo=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA-256-Digest: gWs62KFzuQr3W5a9zv5P3w1qR7wGBifQzcinafvvPnU=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA-256-Digest: /J2PHW3F97Az01/UlonlIN/2WGsy7shUj530K+n4PwA=
+
+Name: res/drawable/abc_vector_test.xml
+SHA-256-Digest: MDDFlM9c7Yps7T2wUvv80wtdaWsp9EcUA8O6kmYTXsc=
+
+Name: res/drawable/alert_button_cancel.xml
+SHA-256-Digest: PfxdFHm1DnDiMpWD2BtE0c3hqqgrzCPXfzCbHOqkRic=
+
+Name: res/drawable/alert_button_request_now.xml
+SHA-256-Digest: bCqK7HWzqghWgzt2wDMEsWBojw6Lnr0vGJANGmoNKfU=
+
+Name: res/drawable/background_accent.xml
+SHA-256-Digest: FNptfs2Md8u8+CYpekpqG/6+K2TV9kYW1zap8ncgiIA=
+
+Name: res/drawable/background_gray.xml
+SHA-256-Digest: S1Ik0k1W2A+vplrRTLmHYuynrvW5U+mcFhDxqxJRX4U=
+
+Name: res/drawable/begin_free_button_background.xml
+SHA-256-Digest: 1Wldhphz4DJgXpt3f0sFy7sunyZ3myvIWFcUYQR7j3g=
+
+Name: res/drawable/border_2.xml
+SHA-256-Digest: eaSbmfdTDRPDYij8n/ifVDXUpcFeGo/7T+WjxZLqbbE=
+
+Name: res/drawable/border_edit_text.xml
+SHA-256-Digest: nG70WwwACWfHMtItLb5s2iZdEP//vPct8S2JfzUK7AU=
+
+Name: res/drawable/btn_checkbox_checked_mtrl.xml
+SHA-256-Digest: XLlAY/iPzF7UHdPyhZXLy4k8xzLDvTQH700UutjZ9tI=
+
+Name: res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xm
+ l
+SHA-256-Digest: dLCMEE4PcJGGxte+IZiEwduf0ZzxndI+FgCvKwOWQ18=
+
+Name: res/drawable/btn_checkbox_unchecked_mtrl.xml
+SHA-256-Digest: h60GDszZU72f7RJ8O6UggbRKkRU8M7/rNDy8zutP9WM=
+
+Name: res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xm
+ l
+SHA-256-Digest: 1pLpi3tE8oqrMtEC3j1HPt46DwQRW4cOA0cZaOwihCM=
+
+Name: res/drawable/btn_radio_off_mtrl.xml
+SHA-256-Digest: UcpL+06sbI8oMl5DcdX8lypaIpl2BNVLP/4GGeS4w10=
+
+Name: res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+SHA-256-Digest: ddYiXeL3xaOt6BfCv9s/Szwwgp632LO3kHmks60aiiI=
+
+Name: res/drawable/btn_radio_on_mtrl.xml
+SHA-256-Digest: gHTKC1DA6qFXnFAf/OZ8pMCDI/ga+EGdfKIhKtg0tFU=
+
+Name: res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+SHA-256-Digest: zYRKmVV7ZEL+nE1Xoxr8rUuG+lSCejdveUfQ1rHfktc=
+
+Name: res/drawable/button_dark_grey_tos.xml
+SHA-256-Digest: ycCmz4x5IIvNZMKdRBVBuAMoqBwhVie/XM627lR8WME=
+
+Name: res/drawable/button_green.xml
+SHA-256-Digest: yXr0xPgsfyzbEmKWNxfMyMbcwQ9Ezi0921esoQJyHr4=
+
+Name: res/drawable/button_green_border.xml
+SHA-256-Digest: vc41OJB/Fss85HCiulyHvAL1wezCsJl+MkAfAjQF6pA=
+
+Name: res/drawable/button_grey.xml
+SHA-256-Digest: fPbDYKpVlxcN/VoNy+8W2hhUmm2tAhqnlTDFa1mT9AA=
+
+Name: res/drawable/button_light_grey.xml
+SHA-256-Digest: Mgx9ZugFZmdzYynqnwax/YvKPbrCr2JQRP4UpMvxGgs=
+
+Name: res/drawable/button_red.xml
+SHA-256-Digest: /plh4Zj0gikwzU05okVF0G1stQ2BFsVN2GNk59yHZD4=
+
+Name: res/drawable/button_red_with_stroke.xml
+SHA-256-Digest: JFbleRLBNeeiaoUYHWvg1Yb0NYtMUZlN8RMP5lpOv7M=
+
+Name: res/drawable/circular_base_notification_view.xml
+SHA-256-Digest: ocwBbUjSQw2A9oZsG/knt3qqF2x8qT3KlNmao99Iz44=
+
+Name: res/drawable/circular_base_view.xml
+SHA-256-Digest: hQGz6La6MBHniVyrU94wvTRPqQWg20HGIU229yqDqOk=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA-256-Digest: QHZNgRdrm5bDK8Oqra+EYfzHXxV5AEhAWdVlrddE9EE=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA-256-Digest: g3VGONKRypWOeshcmMOhuhPDXrODNP8UUDS4QQgdGgY=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA-256-Digest: FrtMT2oC6/A3/0Y9vm3lOXrycxngcavepBzn/pn8R4A=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA-256-Digest: KS+7xgav+jeMJVBa6Vj6rtyREq+fxxF1epKLTn6E5R8=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA-256-Digest: Ivw3sUrCnaUZ/yhgJOgvVyww0P5iFZ1vj80n24dU4Bs=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA-256-Digest: m8u9keKJsKyM1hZYMjbNe0WpibrabtqXchz2qUZpXBM=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA-256-Digest: 9yofDkpC7DTHdpr5ru5xjpY9rV6LqKqGXpN3QHRoObE=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA-256-Digest: 2CoYuDvuo+iwUZJVCZIgZ3tNGbUbWCkNubUyUcTW0hM=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA-256-Digest: dbuqmptl5lHDcDPSj5F+dz+KVhC/nUn6yEy0EwhCnI4=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA-256-Digest: SlWtUvcEs8876LL3JTNv5ttqb0Q3KHyaZ7oRdrP5KwI=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA-256-Digest: iFEv1wBkzz3kTksnENxMAYNtwEMDpTylV4JYBIL7MHs=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA-256-Digest: auJcUxPQOGKVx1KdCBZp3H2VCn3ls8RINqVe/MBm2Jc=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA-256-Digest: EepGm0F1wUqFrTtfw3c06RFbmw2A6aqzEMaCAJRx8PU=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA-256-Digest: MaJeDyR01dJlsPcoXvepBx/1ZUXOEaYtK/hNssm6Tp8=
+
+Name: res/drawable/contact_button_background.xml
+SHA-256-Digest: 3076TXThhOEe3fQWPXz6YU5Pk0pBpruamBeuSqxL5aU=
+
+Name: res/drawable/dashboard_card_background.xml
+SHA-256-Digest: o+6jlZ6dshX0aIpN+dXJqEnLtXTFXgoZn5T4WqoMt74=
+
+Name: res/drawable/dashboard_card_parameters_no_data_background.xml
+SHA-256-Digest: 7cE/0dECzHffC4rmMGAJ6G5CKaWFN4c3psXGIYwrBAE=
+
+Name: res/drawable/design_fab_background.xml
+SHA-256-Digest: nswyjXJ37wIs4D74DAXd6pWrU2vKQYKf7O+rrkEkjHg=
+
+Name: res/drawable/design_snackbar_background.xml
+SHA-256-Digest: kxdkrF0NuOd3jx8AxtTSPQJADVLNpoXwpTf3H5rUCoE=
+
+Name: res/drawable/dialog_background.xml
+SHA-256-Digest: 9oQ54bVO0wdd935sipMSdhAtpzhZybDei5gedwZBWFI=
+
+Name: res/drawable/dialog_choose_chart_background.xml
+SHA-256-Digest: 56jIaqTO6BsFyo2Emy3sxzk2ji41CW+e5Zy3MAwLUcw=
+
+Name: res/drawable/dialog_on_boarding_search_background.xml
+SHA-256-Digest: UAA98kXc5i82iMn68Q1YTm5FqIafJKH6nzAGLtTyX64=
+
+Name: res/drawable/dotted_line.xml
+SHA-256-Digest: jWvJprv5MG6CZGSnxPN+xBXP070PIT6k9n9uV73WAbE=
+
+Name: res/drawable/drawer_background.xml
+SHA-256-Digest: uLh16SOiCJCgA2PKR+19L793xD8ol0xKLhJWZZeCj/c=
+
+Name: res/drawable/drawer_row_selected.xml
+SHA-256-Digest: v6arREi4hHBJFdeGVahBPmk7YJ0yITIsAV8GykPMqoE=
+
+Name: res/drawable/drawer_row_selector.xml
+SHA-256-Digest: aXdQmi8QMxGpyh1gleV1XhRcp4ddi1Qm0oYyi9RMGi4=
+
+Name: res/drawable/eco_driving_hint_button_background.xml
+SHA-256-Digest: XrZfWGOlHYy+a3NuItbxY0zu6xXaZNzvpdxEtGMpGdA=
+
+Name: res/drawable/eco_driving_item_day_negative.xml
+SHA-256-Digest: Ec0kKEBDhLKHwLWP95SNGbwLUgqPzCIiMpYDBd4io7U=
+
+Name: res/drawable/eco_driving_item_day_no_data.xml
+SHA-256-Digest: dvjxswPWHgWXmDoVm4m8vn4aQIKOTfHbY+HmN8Npu6I=
+
+Name: res/drawable/eco_driving_item_day_positive.xml
+SHA-256-Digest: owmHgnT6wkdV53tYoM9dRg40T+qwkxOg0BgpM5W5gtE=
+
+Name: res/drawable/eco_driving_item_day_selected_negative.xml
+SHA-256-Digest: iw8yco14mP5z89hl27K7e1vLnIRPmc9LM3uefL9W9xE=
+
+Name: res/drawable/eco_driving_item_day_selected_no_data.xml
+SHA-256-Digest: WQfho266r+hyOlGslJP3AOlnzDRE54TQkBWUVORAsbk=
+
+Name: res/drawable/eco_driving_item_day_selected_positive.xml
+SHA-256-Digest: gpdjthdqNpZxLV8w3iLaoA08YeLHI+6DZMR6mxmS6EE=
+
+Name: res/drawable/eco_driving_item_day_selected_warning.xml
+SHA-256-Digest: a33NZ/hBV7Izg4kyDx6yulWL6hxSpYhFZPWh/YUHoeg=
+
+Name: res/drawable/eco_driving_item_day_warning.xml
+SHA-256-Digest: 9Cr3YqdW7ZgBgBx8ruFg2rGiscScsKmJQQJllIZjJ0I=
+
+Name: res/drawable/edit_text_gray_border.xml
+SHA-256-Digest: W7gSn4xqPM/7y9h3Mp9eNCOEExhzdoRimReDJrToX5o=
+
+Name: res/drawable/edit_text_red_border.xml
+SHA-256-Digest: 1A8RwxEEE+nvb4s82ZPSZYM+FIWstqdyXw7GodIYB4I=
+
+Name: res/drawable/fill_line_chart_normal.xml
+SHA-256-Digest: +DSHheqSyhvBJkEOQY5pOGWODCWfThGFUGRriq33f60=
+
+Name: res/drawable/fill_line_chart_problem.xml
+SHA-256-Digest: /Bye1mPPRymz4VTeMC6cE47dw01GNxGwm679DbpAXK8=
+
+Name: res/drawable/fill_line_chart_warning.xml
+SHA-256-Digest: ao/+VIb792ZNA80/67LHWvLsatD3LrA+xdncve5i/Ic=
+
+Name: res/drawable/font_radio_button_background.xml
+SHA-256-Digest: XVyT2oU5vN84KmZ7xych2aLybUP355krF0bC0JJvWec=
+
+Name: res/drawable/font_radio_button_normal.xml
+SHA-256-Digest: +DgtIfDH/rrsgSk7ZZwxG23AAik+bM5EKtICvQejK6w=
+
+Name: res/drawable/font_radio_button_select.xml
+SHA-256-Digest: f7iB/54pFpxREVz+QEKIW8XHOCKXIuecCX6lvso1O/E=
+
+Name: res/drawable/ic_ecu.xml
+SHA-256-Digest: FgLuoCryuSlkHngcX4Ng8xVrb3gTAggpQcS/JoNBeIQ=
+
+Name: res/drawable/ic_mtrl_chip_checked_black.xml
+SHA-256-Digest: zzPr9XHd4yseoLNE1iH6YEJaEtrtVKwcIHI7jl78Ka8=
+
+Name: res/drawable/ic_mtrl_chip_checked_circle.xml
+SHA-256-Digest: 1sgCQ5NwXEvKZTv7yLYmeltPWa3XriiYj+0jk18mE7g=
+
+Name: res/drawable/ic_mtrl_chip_close_circle.xml
+SHA-256-Digest: P1792pMNDIaPe1ZQkJB7QbpW969RcsNTNptVvBv3pvg=
+
+Name: res/drawable/ic_obd_port_illustration_svg.xml
+SHA-256-Digest: 4HaIvx+L4L0eRgJG99V+N+zLN9Juuk/oywXxXXILiqU=
+
+Name: res/drawable/ic_password_visibility.xml
+SHA-256-Digest: CJRmeeJ4kcSUND4Gw7L/edvtBhzr51kiZGGseeZEWP0=
+
+Name: res/drawable/ic_password_visibility_off.xml
+SHA-256-Digest: okdQycFguU+5m0OMe1rCbpN6/XfwuUIdr/0UdKzT6Is=
+
+Name: res/drawable/icon_card_diagnosis.xml
+SHA-256-Digest: rUAgHmUoxlMLLC4UocPZYO158j4aup/ijB+BAbvKZ0A=
+
+Name: res/drawable/icon_card_eco_driving.xml
+SHA-256-Digest: 2rbjxOQnJeHHIIOeiSRJ2OKIDU1mBeBHnffSWhZfG+k=
+
+Name: res/drawable/icon_card_find_vehicle.xml
+SHA-256-Digest: SooYkhsY7mzNbjyQnwP65bkV+fjZbM7J+a+qcRXEA8k=
+
+Name: res/drawable/icon_card_parameters.xml
+SHA-256-Digest: M1HFDV+WaQbUQxlEpN9NDZI3AizOX3JWSQyIRXePowg=
+
+Name: res/drawable/icon_card_schedule.xml
+SHA-256-Digest: TKeuH2HuQTAhpR2+CWwRv784NMpihy6w3f/ic4ZUgH0=
+
+Name: res/drawable/icon_sos_light_contact_background.xml
+SHA-256-Digest: dKd+238Xv4AES8+e8BqNL4Y202KXELFaqVW7JaLfcpw=
+
+Name: res/drawable/mtrl_snackbar_background.xml
+SHA-256-Digest: od//jxoSCc0uLmd3DJPDONJBkt4zJNwvwJY7kQP9rJE=
+
+Name: res/drawable/mtrl_tabs_default_indicator.xml
+SHA-256-Digest: 6VafiAVZ8lsVuGc/7p9T5qCjxwMZl1LdcEBafd5PfR4=
+
+Name: res/drawable/navigation_empty_icon.xml
+SHA-256-Digest: 79n1pVn/gMb075scqnsn/iNet6IE3HXSE/Q27aNUTA4=
+
+Name: res/drawable/notification_bg.xml
+SHA-256-Digest: 4Mriak6HmmIhdPYrh6P7+RSeNFXI44JcPbzm9iqcyLg=
+
+Name: res/drawable/notification_bg_low.xml
+SHA-256-Digest: MzIC/vtHI+xHLe27Ym4hXB/rtq7pmAv8s8g8aUcZX14=
+
+Name: res/drawable/notification_icon_background.xml
+SHA-256-Digest: 2MNwiponzib55b4RRrbGWbICP9fN9fkGKVrLo6nMmKI=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA-256-Digest: /bmnN45eCUMDi70QNzcl+KpguyQ2EbBHLfAuVxCj50M=
+
+Name: res/drawable/ocr_acquire_image_border_green.xml
+SHA-256-Digest: aIn4NWMuqbWHOO4n6t2cdbjcvpUesiL0nTkzyFyOj6I=
+
+Name: res/drawable/ocr_acquire_image_border_red.xml
+SHA-256-Digest: ImqmBQdMBGd9wt8bZW0/mgfhDOV7GgSGkW04qoMvnrg=
+
+Name: res/drawable/parameters_chart_background.xml
+SHA-256-Digest: 151IOXU9/+WpQJWJ5PaoMxt9+j/HyzPZF42NSovDBlg=
+
+Name: res/drawable/parameters_chart_no_stroke_background.xml
+SHA-256-Digest: 24+vwpBTvHmKo1XwCYC/Myp47GvsN1Ric5PWKiWr/80=
+
+Name: res/drawable/parameters_list_gradient.xml
+SHA-256-Digest: XpC7QHy8IMWQNi9BSoXmY/QZyIAuptWUHUZnE7VsU6g=
+
+Name: res/drawable/password_visibility_selector.xml
+SHA-256-Digest: mcGDFg/sTD8ceqD+0WpN2bWwQD/Fvjd+QWSKpsvcwdU=
+
+Name: res/drawable/permission_step_box_drawable.xml
+SHA-256-Digest: Z2A2xGiWcGOa9Ezo7LIUWbDX61cly15nnDXOjG67CHA=
+
+Name: res/drawable/permission_step_index_drawable.xml
+SHA-256-Digest: vcM0VG+vG6kLJy/rAmRmoOr7DMN2epln1fxWWMMaWl8=
+
+Name: res/drawable/pick_contact_line.xml
+SHA-256-Digest: Gk3WdmvTWC8v+eYwI0rVcxbYOraqUQG2SB8Ambf81qM=
+
+Name: res/drawable/round_corner.xml
+SHA-256-Digest: nMxyZG8DgEvZFXuYiTsyXtOSS9mMHRnNPoiRShdbyDs=
+
+Name: res/drawable/schedule_circle_background.xml
+SHA-256-Digest: qeRofZLgDJUaNZnTyS7sL7IYDVqJi5BjrwglsilfUWk=
+
+Name: res/drawable/schedule_circle_error_background.xml
+SHA-256-Digest: RZpyETkTOTvZ0ivOg6SpHFEZVly3Eg2+V4A5W6zT2V4=
+
+Name: res/drawable/schedule_text_background.xml
+SHA-256-Digest: lkf/X/VkqMrwOyUt36kCmmrNkNyL/+4f86NNKjKdeCo=
+
+Name: res/drawable/screen_dongle_validator_pin_example_border.xml
+SHA-256-Digest: iHA6dzY/s2d5qQm4CjtswQHvg/GjwjN5XPJbvBlXJlE=
+
+Name: res/drawable/search_insurance_background.xml
+SHA-256-Digest: 4t2OnpJwjuaS/0kVRsCHMTViDYE2nz6V+eCzIwgtSyM=
+
+Name: res/drawable/services_alert_icon.xml
+SHA-256-Digest: z+NU1yQzcjtBoOWAP/YoOUtp6SObaeocNyU3V+fXZ3E=
+
+Name: res/drawable/sos_background.xml
+SHA-256-Digest: 8SUbcNUaChfEEWcyHsCWiJ0wNKScYSYjjbTUDgwHNGI=
+
+Name: res/drawable/splash_background.xml
+SHA-256-Digest: y7rWj8sfgP23VOP2n8zJSUcWnCjbGP8RGMToCkPQyZA=
+
+Name: res/drawable/subscribe_badge_background.xml
+SHA-256-Digest: dqmj57KtYFjfAwgcsPpG4k6M/7+36scd6VZ9SJ639r8=
+
+Name: res/drawable/tooltip_frame_dark.xml
+SHA-256-Digest: /ncsPd/Pm4kkO5G9Uv0qpyzmTHj33IfJVVppNX1m+s4=
+
+Name: res/drawable/tooltip_frame_light.xml
+SHA-256-Digest: z8TNPW9LE9lN32o69/skOkonK3dljqgFGCCpLxIP7DQ=
+
+Name: res/drawable/walkthrough_gradient.xml
+SHA-256-Digest: njbM32KvKoaoK1ogQBMEPYOojPGgbm7t2M2bI+WbHlw=
+
+Name: res/drawable/white_circle.xml
+SHA-256-Digest: YnnYKJcDd+X7WGaRzPCLPF9xtgY0AXWsh/slx1LA7Vg=
+
+Name: res/drawable/white_radius.xml
+SHA-256-Digest: Qii0u9/pUfN2p6WnBeL9CH5UvuttmKe8APWyyeJdzRk=
+
+Name: res/font/font_bold.ttf
+SHA-256-Digest: bzO1JwU8kxypUErxf/W5T4yliioXeuky5CZjkGB7ryA=
+
+Name: res/font/font_light.ttf
+SHA-256-Digest: tnG2MYDdyd7+leYW2gXc07RbGtRD34kNNAww0Dh7cW4=
+
+Name: res/font/font_regular.ttf
+SHA-256-Digest: 1CvHNGF043qC8YwVRR/G2O2j2NUhHstEZinBwJlwzOE=
+
+Name: res/interpolator-v21/mtrl_fast_out_linear_in.xml
+SHA-256-Digest: qUD+0zLEdVNF5Po9uF1F1TfIwuTDghfJI5ueNIJSfsA=
+
+Name: res/interpolator-v21/mtrl_fast_out_slow_in.xml
+SHA-256-Digest: ccNqL9BNk34qEuXT3vqHBfHTM6VRuV4SRl2jr+vlrRg=
+
+Name: res/interpolator-v21/mtrl_linear_out_slow_in.xml
+SHA-256-Digest: 227EwRmupyUVMZqVvH8BPGWHEsEAkmuiMHebUoo6Usw=
+
+Name: res/interpolator/btn_checkbox_checked_mtrl_animation_interpolato
+ r_0.xml
+SHA-256-Digest: 2r6hwVPbtykMF69ur1GkV54f1pKOSnCN/rqDHiysnM4=
+
+Name: res/interpolator/btn_checkbox_checked_mtrl_animation_interpolato
+ r_1.xml
+SHA-256-Digest: 8oaAQINB4vFrJhA7V1IzUPQBQ0+5csr3jk1vGAdMZyk=
+
+Name: res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpola
+ tor_0.xml
+SHA-256-Digest: XkIFA4PRzfxk/mYSdDDGkbCC01FPmE8B1U57k0Wf8gU=
+
+Name: res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpola
+ tor_1.xml
+SHA-256-Digest: F7squNvYn+J3t8iI4qM56BXCwO7qm8lRs2MHlb0TeWU=
+
+Name: res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.
+ xml
+SHA-256-Digest: Xj+pm6xfbi5MdE0WvQ2moVqNxb3kdjprcYGrafHUYpg=
+
+Name: res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.x
+ ml
+SHA-256-Digest: w1n95FiMyFgWcmtlVEHl9I0saFpvw47O+cEqrY65q/U=
+
+Name: res/interpolator/fast_out_slow_in.xml
+SHA-256-Digest: +USQAlZd6X0s4CdfWaw+OtJSUgDA4Y6mGWxEpD/qQPQ=
+
+Name: res/interpolator/mtrl_linear.xml
+SHA-256-Digest: gVW/seBc7qUC7Kgmne2tyyjAUDWCFalc/V5mVY4D6bU=
+
+Name: res/layout-sw600dp-v13/design_layout_snackbar.xml
+SHA-256-Digest: LhvXEw7eA/EeXIg+4Tkhu3obNT3qW6muboxHtA+Yah0=
+
+Name: res/layout-sw600dp-v13/mtrl_layout_snackbar.xml
+SHA-256-Digest: NI1slKUu+YRmmZJckye+mAWTrODup2jQJSu4l4/4w0s=
+
+Name: res/layout-v21/notification_action.xml
+SHA-256-Digest: zRuO9+lDmAmOKd/4oaqHE15FqdTqAlQEhK4BnGK6ScI=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: egaPGHuGYEydwnSQwaKUFQ5qDgrXNbXrRulk8B4+Z8U=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: PWRgNZfuaj6VA4leCpOHF4ILrFkAOEmj1RiGukkyiCY=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: +uO2mOH5s2cArUC6r2dZy9mDUxxnf8uAPY27+hvO1Ms=
+
+Name: res/layout-v21/place_autocomplete_fragment.xml
+SHA-256-Digest: IquaTHho6L7xQYxNQKcngTRyv0m2ct3neDpc4ayK2yU=
+
+Name: res/layout-v22/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: JL+rclu9VTSOg0bGNBOe6HTg2dqnZQs0g+qanpUo5TM=
+
+Name: res/layout-v22/screen_signin_layout.xml
+SHA-256-Digest: xouG1yIUQkZoAnbHGBtEUzlV1v5i3h2KtUE8aoM9sy0=
+
+Name: res/layout-v26/abc_screen_toolbar.xml
+SHA-256-Digest: E7JusUMlgY564dJ94YFHOuDVY6yE24w/NF5Hug557t0=
+
+Name: res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: vuu2tcaPfrY956t0jasqZWbVFuV4g2Yd856V8kZL3SM=
+
+Name: res/layout-watch-v20/abc_alert_dialog_title_material.xml
+SHA-256-Digest: DqkOW3c9a4ob6YSSGavozaW/kq3KzoC1DJURrpQ8UBQ=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA-256-Digest: 3GfVv7ZEZC2XjpCNqOeo/lJ/TExdPg9A4x2aXEV7UiY=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA-256-Digest: uXNr3lAf0E5sbQrEs77qO6aWLVFAmgZa/febHVcBrc0=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA-256-Digest: MkrPBIW2ij0f2dbWwHW5X1hYWZmXO+X09i2FxbIYa9c=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA-256-Digest: E++34V0g0YGK+Qv5hs8zu0ih0J9JR5f9Qc4fbOcmKfk=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA-256-Digest: SDjeR0HUDzSiMLxAs5N47ExHu/4WHNHf3C5H/hchKA8=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA-256-Digest: l/OyIgNpgnLJzRE5eo81sgcjNpZikAe4MJeCiPwapNw=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA-256-Digest: rxgbOeIeubupPi9V6GYLrAt06zFM7QF/YzwaKmHBac4=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA-256-Digest: lBxOwr9EL8bA4PBTD6EmUCeiqT5+YlCiumbSifLe7fw=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: dVNUrdEETyxn0YvqIEi6uYBY0HKFYzq31pXCTGKjK/c=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA-256-Digest: pt+M8/GoDuxIbmBMozSbf2s2wtDLRKJPP4ZDSdoka7U=
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA-256-Digest: AzmtRf0BZN0/XDrjXEA2IMNn+D7vYe+wxWcDu9ZmMc4=
+
+Name: res/layout/abc_cascading_menu_item_layout.xml
+SHA-256-Digest: oXb9msPj1nhwxAjBHNcprSu3O+EszlycWWr+m6MalPE=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA-256-Digest: rcUKAG8SRXM+AvrVWyU1mBvmHl6ijcjXgmD5L/lzPE0=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA-256-Digest: lVbh29RX7Oatp6XE6MWQanahs3iWWJb46aL/7ZULi1s=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA-256-Digest: AUiWlBcTHeKfHc5eRk+0/vVlUO8myObFmn8/d6VQDEo=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA-256-Digest: r/D4UXmg9ijRK24jPIIkBH8SePfuYEWWG+0zkMP1HWQ=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA-256-Digest: tyHiDvHRoEDOEcP0/USG9Om2lloHKR44tURZEHPJWX0=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA-256-Digest: 9VjfIBJYD0T8zU4PxRiQ7OirwbSfY+Twb5b8y/0ayYs=
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA-256-Digest: lpBvumyD4APkGqQs5uNE+TyqEncUBO/PaiRHezwAaF0=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA-256-Digest: H06z3jmZRqgnbvMwWwaAhnmPad8lM2G59C0ow9Ngar4=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA-256-Digest: Bg5RRizF73FkJAqVvm0qXB4yi7/6UZYDfOYH/U8zLpY=
+
+Name: res/layout/abc_screen_simple.xml
+SHA-256-Digest: z3UWUeVYxXsQ1AYVgoSzE1REZ09zlLq3T97L+XuiiC8=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA-256-Digest: b1SyjvLSjgaNC2rOPvl70x8ZoyGmljDESV+Ffqccehs=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA-256-Digest: XvsPQD0YM68/Zj8iPzeMU6sWj1fDWdaOrqXOP2gIGAk=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA-256-Digest: x37i91OVuKvCwBCD09C3si8UgFd9Zk32Qd9uyusN/oA=
+
+Name: res/layout/abc_search_view.xml
+SHA-256-Digest: rlVTUjFmlPwkeMplXPRRAZgFWh6d/p8ws/0zIus/M3A=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA-256-Digest: 4KoWsTnWMxFFrcCVP9q1/fgGVgAScpPdl0f6DZG0FfM=
+
+Name: res/layout/abc_tooltip.xml
+SHA-256-Digest: xBImsD2f/VpMyvy72sMNUSjzndokUtNFQ6oMpbh0ang=
+
+Name: res/layout/activity_activation_service.xml
+SHA-256-Digest: ajQwOZdUoDMvj09HbCjt29XJ0+rGL0Qt5Ezq6A1IP2s=
+
+Name: res/layout/activity_activation_service_contact.xml
+SHA-256-Digest: mxqvVPWqLkZKc1fZULCX99kfoR1gjU28DkzNh7rCGao=
+
+Name: res/layout/activity_automatic_sos.xml
+SHA-256-Digest: 9AR51t6OIkPnY1fjotzS7ggt55ZpUU60q8aPApd+tME=
+
+Name: res/layout/activity_base.xml
+SHA-256-Digest: JBfG4KedTpHSylUKBvcrWoKsIKZvRWOWXH7ohV1kpSo=
+
+Name: res/layout/activity_calibration.xml
+SHA-256-Digest: Pz2S0o5b43Apnkb7VDtSql9QRU2ywUhmaKMJ9TTEmZw=
+
+Name: res/layout/activity_care_onboarding_configuration.xml
+SHA-256-Digest: 7mASPIiNlVqGDJ5S4sef9kMNLjZ0kEoA8hIxhdTCZzI=
+
+Name: res/layout/activity_care_site.xml
+SHA-256-Digest: 1Z8feqcCLsNpdPIo/17QaicZd7Qj9U5rt8DF/aat+tM=
+
+Name: res/layout/activity_company_info.xml
+SHA-256-Digest: /xCKHB+OO+EdGJbw8uTgrPeYwD18vwaXaZHH0Ym/Wx0=
+
+Name: res/layout/activity_contacts.xml
+SHA-256-Digest: uKdatO10cN8RHCF6XMDGckfWytW6yp+Dpbr4Gkel+gA=
+
+Name: res/layout/activity_diagnosis.xml
+SHA-256-Digest: 3Llpy/sniJ2idzcUCQQof2W/mcPZS161M/WLncWcMHo=
+
+Name: res/layout/activity_diagnosis_data.xml
+SHA-256-Digest: 7rDPURkSGTJyjOdI0GJ4ffZ+YDwUHblZ+672Vdkjjjk=
+
+Name: res/layout/activity_eco_driving.xml
+SHA-256-Digest: aXMYY5PmbsiUNErfSRY4OTvwoH6Ty4f6iYEtp7sLmds=
+
+Name: res/layout/activity_eco_driving_hint.xml
+SHA-256-Digest: Ni0BeDN20eXvvXHwa+PJnpqcd4vwVIAXfisW/+xDcrE=
+
+Name: res/layout/activity_eco_driving_tutorial.xml
+SHA-256-Digest: UV+4/vpcluUTuszVpjWkiByzeRqGhQ0jhXg7O7mXutQ=
+
+Name: res/layout/activity_general_settings_preferences.xml
+SHA-256-Digest: dZflx7kkqK9uoZG9+9IuvSUBpfcxlqJM+tsvT3ZA55A=
+
+Name: res/layout/activity_insert_new_threshold.xml
+SHA-256-Digest: lYczLUpj/rw24jPjvEznnif+96PeA3rfq4ImmV/ujqM=
+
+Name: res/layout/activity_login.xml
+SHA-256-Digest: ikiv5NG+tmMi1dKncq7mWTXG+Xs3sBZ2oqFWONbM1Oo=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: GE2+3EMtZi+cUlbW+6pJ2849Ui0fGJ6s2Z0nSQ+odXo=
+
+Name: res/layout/activity_mechanic.xml
+SHA-256-Digest: kqKIYnyH1Bz/NQ8HRxhkV9EY+/VKd8jM5LhiK3hU1rs=
+
+Name: res/layout/activity_number_validator.xml
+SHA-256-Digest: VtfL22K/sPqUbJySdjR30cpQidL8gujzEEjERcFCfU4=
+
+Name: res/layout/activity_ocr_acquire_image.xml
+SHA-256-Digest: qew4XJPfhZgugz6yRkkB4sqNoBwAOOWigpqX27f2sSE=
+
+Name: res/layout/activity_on_boarding.xml
+SHA-256-Digest: R9QQEWs/aosDsXb7ogn4CEVdpDYGXKx5/uEh4sOAlag=
+
+Name: res/layout/activity_permission.xml
+SHA-256-Digest: lsEED5fe1xO/RWyhhxDfC5AHkY0lPcK5wcrYle34XEA=
+
+Name: res/layout/activity_problem_resolution.xml
+SHA-256-Digest: hKWbvB2rQG04wNj6wXbrWxZv+lB8lpj6pTyhWtowSfk=
+
+Name: res/layout/activity_sections.xml
+SHA-256-Digest: R8goUMkxO6rRCNJmriJHRdBjearVUa1Qyd7rL093TNc=
+
+Name: res/layout/activity_seller_map.xml
+SHA-256-Digest: NCrPnw0XIepqBuTKWuGnVfOjtclJ01DvtsNFR41KZtw=
+
+Name: res/layout/activity_services_subscription_manager.xml
+SHA-256-Digest: XgZ+/tVjttxuMDcnnW1h539he+Qjb/MS5TVHjQD2z14=
+
+Name: res/layout/activity_settings.xml
+SHA-256-Digest: ZxuOXrPaKmWfYr+kTsi2RqcejUyWpfYcfLPFdU9qgro=
+
+Name: res/layout/activity_settings_care.xml
+SHA-256-Digest: pSNXWqnFvBYLcBtdz9koHn5RcRhfy8ETpNsGrxbkBTY=
+
+Name: res/layout/activity_settings_services.xml
+SHA-256-Digest: dHvYl/DD7HbVFBCWRQDomBfz0LQgBptwqboRD4gRiZA=
+
+Name: res/layout/activity_settings_user_address_layout.xml
+SHA-256-Digest: Fa+astIr0acEo7qAAM7NVfGRlhT8uEpkFQbsXY5E0uw=
+
+Name: res/layout/activity_settings_user_layout.xml
+SHA-256-Digest: Tyvg9OTfATedo1+KE5Foh84YYFNIFbZfKQ+gzZghyRM=
+
+Name: res/layout/activity_settings_vehicle_layout.xml
+SHA-256-Digest: +G1GNYsoaY1C2kk9kbr/+sHkROJ/K3aA+D10z1YWrGU=
+
+Name: res/layout/activity_simulated_call.xml
+SHA-256-Digest: vYUCjiHt4DmJh3q4DUaQGcP22gzESaq9z/nmt6bnDMQ=
+
+Name: res/layout/activity_sos_inapp_billing_subscription.xml
+SHA-256-Digest: JxQeekptYgb9wJCbnqEWF9Ekv9TddQl+hD3AAs1oBrQ=
+
+Name: res/layout/activity_tyres_settings.xml
+SHA-256-Digest: wvzmeDRzTeaeOuAJAxcP99u9vD7tcJqdoRhbO9HXl+c=
+
+Name: res/layout/activity_update_configuration.xml
+SHA-256-Digest: aURmEluLPMgjpn9Z2jX65tgJhHknwx0KqnnWtTSfNbY=
+
+Name: res/layout/activity_vehicle_data_confirmation.xml
+SHA-256-Digest: ErSetyeatKMmrgyx/UqTGqyM5buHD5z352AEkWiwThM=
+
+Name: res/layout/activity_vehicle_finder.xml
+SHA-256-Digest: rAmOb6z77++ZA3A0leboFVqmKSmoxenVsxu5YSomJWU=
+
+Name: res/layout/activity_walkthrough.xml
+SHA-256-Digest: 1lYsZ4x7Zv+xftO9vgVRxehbj+3UcVbHqK8UYXduX8I=
+
+Name: res/layout/activity_walkthrough_final_step.xml
+SHA-256-Digest: Xc+Koff4u2iKtHLjVrCnfnVbAglBnMaMAD4Il/QYXf4=
+
+Name: res/layout/adapter_autocomplete_plate.xml
+SHA-256-Digest: X0X7iM+6+nEqjaSPyJyXksS9jgS13xa97T3tUByFdcg=
+
+Name: res/layout/advanced_dtc_layout.xml
+SHA-256-Digest: 6xWZqiR2OIoOWZcdKuA1a4qWfTDE/lZJV1j2ipqLBKg=
+
+Name: res/layout/alert_central.xml
+SHA-256-Digest: wXljKJALvr9oAD5awQ1DvQN2yeRMxpfyHXtLrUkewRQ=
+
+Name: res/layout/alert_dialog_firmware_version.xml
+SHA-256-Digest: nGcd/Ms9rZDxr/Ig8yj5tXDvdu+eZhOxqJeSnGrLPxM=
+
+Name: res/layout/amu_info_window.xml
+SHA-256-Digest: At0vEBHDLRADeO1EMuQ6YO0D2H9gG+w0mSQ0V2Y3Sb8=
+
+Name: res/layout/amu_text_bubble.xml
+SHA-256-Digest: DAGuqU2PeWQ3HpgZHCURo3MTpJxO//AMe8wIDtYeS5E=
+
+Name: res/layout/amu_webview.xml
+SHA-256-Digest: R3lYD9EwV/PVq3LHVz7+bbHNT5TCczT0CICioiAj9+Q=
+
+Name: res/layout/button_emergency_layout.xml
+SHA-256-Digest: Yre4W10Er+tyoaAoOirOHg4lXLGF5/5124aloK5ECeY=
+
+Name: res/layout/care_dongle_item.xml
+SHA-256-Digest: GuRaeJcX8SAzSyY04d1IBBAVy1HV3/b80/T+802WfmU=
+
+Name: res/layout/circle_notification_view.xml
+SHA-256-Digest: +QQkl+ebloGOXdfrtHz6bNQl1ZmdWvWkfT2eb9SQ14k=
+
+Name: res/layout/contacts_grid.xml
+SHA-256-Digest: YUcaJafA8l1TN31b9RwmeBSUiR7d/yXx7ArY3mhrv1c=
+
+Name: res/layout/countdown.xml
+SHA-256-Digest: NLlNfml6mzaDxhTGEyLZsOtQXXkcvnLEW73/4qo7tsE=
+
+Name: res/layout/country_item.xml
+SHA-256-Digest: hTBOUxnRJEb5wIAGCgv7vbjiZW/P2IWTiiYdNXL+DaA=
+
+Name: res/layout/custom_dialog.xml
+SHA-256-Digest: uloh10Xf23nw4RyXmQtYKCiBagLUMnNSL661ZcwQFhI=
+
+Name: res/layout/dashboard_card_diagnosis.xml
+SHA-256-Digest: 6YQU3gctHMxYkVpGbEHYHjTfT16fMpfGwXCBhATmvTg=
+
+Name: res/layout/dashboard_card_eco_driving.xml
+SHA-256-Digest: C0+xsBBcYmBU2ZoX94qF2jZNSqIydQ1PED/Dn8wrqPU=
+
+Name: res/layout/dashboard_card_find_vehicle.xml
+SHA-256-Digest: Q644Gfw1tb32DMllHTaq3GQ5WHQbaDQBAYZ5OXEQ+ww=
+
+Name: res/layout/dashboard_card_parameters.xml
+SHA-256-Digest: gDzik6tPqsBqM7iz/lwvA0sCbruOMCZP2Z8xlTUIAYQ=
+
+Name: res/layout/dashboard_card_schedule.xml
+SHA-256-Digest: sZOMfHpxiljzgZPvgaIQCZkdx/qK3h6TzhsffvWnykM=
+
+Name: res/layout/dashboard_emergency_button.xml
+SHA-256-Digest: X6l6uDmzft0jUTdDchKbW+UQYLt55KHfRexv2PmREIU=
+
+Name: res/layout/design_bottom_navigation_item.xml
+SHA-256-Digest: N28CPpnBfmewQczTfKU2I5xM3ZKxq7+5Yv9lNDtUbGU=
+
+Name: res/layout/design_bottom_sheet_dialog.xml
+SHA-256-Digest: ozyKcuOt6ijW56Jn7mbqWcBjJ5koztoh7vCaWcNnWVg=
+
+Name: res/layout/design_layout_snackbar.xml
+SHA-256-Digest: +XGxuFb6+WlckxeKGSXOH+dh+O2XtvgohEEEF7FqymU=
+
+Name: res/layout/design_layout_snackbar_include.xml
+SHA-256-Digest: pfPgdjfT5eZAaFwo+fziApvooXY3dp1vXG9fya9JWvA=
+
+Name: res/layout/design_layout_tab_icon.xml
+SHA-256-Digest: FLm1gvJGYflrU0cru39gqm2G9n8H0IPrmDJtS7L1nSU=
+
+Name: res/layout/design_layout_tab_text.xml
+SHA-256-Digest: xAk6TlHvQSlWA1dQVAEyTCOPVVYH3iLVqRMmAhB9I6Y=
+
+Name: res/layout/design_menu_item_action_area.xml
+SHA-256-Digest: S4Md53sieB68PVpje7IIaOwuAcPNknk51GMG4IWFGkM=
+
+Name: res/layout/design_navigation_item.xml
+SHA-256-Digest: kWkRxOAMe4i/z/mhm/3M28nK52q/lSdehWKRg4fs6C8=
+
+Name: res/layout/design_navigation_item_header.xml
+SHA-256-Digest: 44jh1SWKzeuFdpZ0omAdfvwXygEMJteP0FDpOfe4n18=
+
+Name: res/layout/design_navigation_item_separator.xml
+SHA-256-Digest: Dix3ndjXFm/54EI/ffvEzLkcbEnmDmNvoWYhehDYpbA=
+
+Name: res/layout/design_navigation_item_subheader.xml
+SHA-256-Digest: JDlvk/c3KI1N1aSGaQCAZDT0vMMLlccFAF8FiWmp36w=
+
+Name: res/layout/design_navigation_menu.xml
+SHA-256-Digest: AVse+AT5FpXQ7u2M266jNS0HdG22SQwbZQbK37cHR0I=
+
+Name: res/layout/design_navigation_menu_item.xml
+SHA-256-Digest: snGJcuP/fdEjX7NGxGCCmBl/LD1s/5gF27EaB9rdWh8=
+
+Name: res/layout/design_text_input_password_icon.xml
+SHA-256-Digest: bceJAXoGfSwQ9MFvS4WdZETpCcihMwSRkZol5UnJvJI=
+
+Name: res/layout/diagnosis_data_parameters_layout_v2.xml
+SHA-256-Digest: 5YT5KcqWYAJ7ZaOWHSgNJipQw1qVtLoyxR9anhgoPyw=
+
+Name: res/layout/diagnosis_data_parameters_line_chart.xml
+SHA-256-Digest: BQu2C2fysJaebr8oIGoEPbtELzeg66Y6McaYsPsSUSo=
+
+Name: res/layout/diagnosis_data_parameters_no_chart.xml
+SHA-256-Digest: LqPJIyBs4ug5bfFnHLi7mG7iqUul3QT4n4AyXmkSq6I=
+
+Name: res/layout/diagnosis_data_parameters_pie_chart.xml
+SHA-256-Digest: whK/7/qZrqzslPhMrasVqTqEbHBCoLDQAIJuT3NaWh4=
+
+Name: res/layout/dialog_accept_terms_of_service_and_policy.xml
+SHA-256-Digest: fONwlAwYlt83h8VQjgIip4XQ8drNkn5I+AYN7admzFs=
+
+Name: res/layout/dialog_activation_service_delete_contact.xml
+SHA-256-Digest: xHSUBnEuaIfss7xLIdcrN8LTrqX5KzkogeZtwav4xbM=
+
+Name: res/layout/dialog_activation_service_select_contact_number.xml
+SHA-256-Digest: O5bgB5FtgBN4K4WwW1VuobBL9I+/43bLhckx6BqLOPY=
+
+Name: res/layout/dialog_activation_service_select_contact_number_item.
+ xml
+SHA-256-Digest: sVXzW/prxagUusYsz5n0fuUytd8fRMgZ2+p/Gc7gWRU=
+
+Name: res/layout/dialog_activation_service_vehicle.xml
+SHA-256-Digest: D/T9lTarcg4FO2hViU3vGPOQkeRdFUJ1dfysFLO4R+E=
+
+Name: res/layout/dialog_advanced_diagnosis.xml
+SHA-256-Digest: GqjxG8uXZM8flqxtVvcmVIJRX5lP7OYs/NPIb//mAWI=
+
+Name: res/layout/dialog_android_support_drop.xml
+SHA-256-Digest: n2VBne1vxmn4IVa10+4LIAGeEXCXr/FLv9aYWBuPvAU=
+
+Name: res/layout/dialog_calibration.xml
+SHA-256-Digest: SwiwXFL0xnELicnnGx0uYPwPLyzGuRZ8NJyvaEeniWg=
+
+Name: res/layout/dialog_check_firmware_sos.xml
+SHA-256-Digest: Abzojuw55C3ny3RP3nBInAFPluJU0RTNQwfrWRD0YaM=
+
+Name: res/layout/dialog_choose_chart.xml
+SHA-256-Digest: 9SX6rj4e3QcJCzvUUV829y+iZylWw0AWsGPLO6YeHXA=
+
+Name: res/layout/dialog_choose_chart_radio_item.xml
+SHA-256-Digest: lLXuZwpVl6ETVVYpnZQ9uYD3mNqR+ZfSkTaVLO1iElw=
+
+Name: res/layout/dialog_enable_bluetooth.xml
+SHA-256-Digest: xCQH+oLCYr2jCx3OTWnJFYEFvY7SMAKXdj3Iw5WRvjA=
+
+Name: res/layout/dialog_mail_sender_screen.xml
+SHA-256-Digest: Ef6A6hLWU00MZmDQT0UoUCWSBhO08d2VCpIpcPs7GF0=
+
+Name: res/layout/dialog_onboarding_engine_error.xml
+SHA-256-Digest: Dsg5xvCN8PdY+lmLXztADDIHdIWWRfl8Vdfup8G7zt4=
+
+Name: res/layout/dialog_onboarding_error.xml
+SHA-256-Digest: Gwk/+r2GJV5vUwvG0A4Fx9eHO3HpJBs/TBvBBAGSvNY=
+
+Name: res/layout/dialog_open_signalation.xml
+SHA-256-Digest: RCeJnyPLxn1evysaezPSAEc3Y3TjjxueFnLJYXt1SCs=
+
+Name: res/layout/dialog_plate_validation.xml
+SHA-256-Digest: UdYq0nbjoi+oCslOxCAuq8OuCGll3XnaNkLhXJc4Llw=
+
+Name: res/layout/dialog_power_saving_mode.xml
+SHA-256-Digest: urVqlU9Gzg7VXVgh3wgzVLsLyGPu6klbV7+xmcwE0Xc=
+
+Name: res/layout/dialog_request_configuration_item.xml
+SHA-256-Digest: if/KcNJ4lRiUSJwx2VTHFBhimY+5lLpcaYdamDPhGAU=
+
+Name: res/layout/dialog_skip_vehicle_insertion.xml
+SHA-256-Digest: /Www3bSFSJZ6dXc6yrwRznwAVdPuwTBt+RbYVmyOI0s=
+
+Name: res/layout/dialog_update_firmware.xml
+SHA-256-Digest: BbHtzAEXvY/vNqnsLtfp5ED1YUf0wZn/a/svQlks85M=
+
+Name: res/layout/dialog_vehicle_already_configured.xml
+SHA-256-Digest: axi1WXgammILmEOZmLiHx795HGV3cX3Xr8/AQJQK69o=
+
+Name: res/layout/eco_driving_progress_dialog_layout.xml
+SHA-256-Digest: tUb+gPRPNjoNescZmYqaxBjq60CAKKnyEVSif7b7isk=
+
+Name: res/layout/editabledate_layout.xml
+SHA-256-Digest: g01JiUwKTNoxv8/7vUtUt4g+S3tsWF4TmzbTgQmHpuA=
+
+Name: res/layout/error_dtc_header_item.xml
+SHA-256-Digest: hXdUO3xuGYVBvuf5w821bH/gJKcoMqXbwE0RKdHEQUM=
+
+Name: res/layout/error_dtc_item.xml
+SHA-256-Digest: 1goxI4SYrafTxVdajqIQtII6pKdY6JdrnuP6AK4Aeiw=
+
+Name: res/layout/errors_advanced_empty_layout.xml
+SHA-256-Digest: urLP6RuCIsvAwLxGE5+VFOvjh4L37tISvVxjUG9vegc=
+
+Name: res/layout/errors_dtc_empty_layout.xml
+SHA-256-Digest: u7pep0z9iUZugSLqZz9kmhPhRVUxj2Ieav1U81UOKVI=
+
+Name: res/layout/errors_empty_layout.xml
+SHA-256-Digest: oDmNvflqz1eD8hGLGZNVQxYFoeybuGBqJ3PcvUtKpsg=
+
+Name: res/layout/fragment_dashboard_v2.xml
+SHA-256-Digest: 28VFqCkAtQSwweyjgoTp1C93n8c9c0gC5GcXHh/Lkig=
+
+Name: res/layout/fragment_dashboard_vehicle.xml
+SHA-256-Digest: 2wGNEbBMrQqfUlONZYx0fghXXo7GHdC0F30TlR+1i40=
+
+Name: res/layout/generic_grid.xml
+SHA-256-Digest: MpKoJcBDrI34b4OLDiDY21YsqwVj68QtXXVl/Lq69N0=
+
+Name: res/layout/generic_grid_error_dtc.xml
+SHA-256-Digest: D0nN46NGKZJYio2bCAzH0KPAo2X9x0QfcfQWna3duKk=
+
+Name: res/layout/insurance_company_list_item.xml
+SHA-256-Digest: XLMFRZwkel55VszDSlvVYgQcTJHfH4w16EL4M4NXXoo=
+
+Name: res/layout/item_tyres_type.xml
+SHA-256-Digest: fhC+TVjTkVDPpoX1IQcjInwg0KW643wAW72D/dSM76M=
+
+Name: res/layout/lamps_status_dtc_layout.xml
+SHA-256-Digest: bM+edtUaRl3fxeYNKjggbqnEu8WxgC8DbHsJ1b+CfS8=
+
+Name: res/layout/mtrl_layout_snackbar.xml
+SHA-256-Digest: Gl9H4vAuBtsvFSMQx9XXxIN2PBGvMMe7mYli1iToSbg=
+
+Name: res/layout/mtrl_layout_snackbar_include.xml
+SHA-256-Digest: CePjVo5tvoTW4irD2gRHBCBkEIBCGZBdydHsX4Ofy00=
+
+Name: res/layout/navigation_drawer_fragment.xml
+SHA-256-Digest: 0ly+NerEAHFWyMzXLWpOIMx2+h2H42kfdCBS6LpgQ7E=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: JwTbaDUFYvx1J/kmBcfxLW0jVKR+mFV+Oc4hyjbdTGk=
+
+Name: res/layout/notification_template_part_time.xml
+SHA-256-Digest: 8V+5bR4sFziNCVC39SvrGqsl2rGp8mmixXaiG1quFlA=
+
+Name: res/layout/permission_location_step.xml
+SHA-256-Digest: Qq0yQX1OpIlVTW8djMR/dS9eosh7BFut9hKzWMcNL3o=
+
+Name: res/layout/place_autocomplete_item_powered_by_google.xml
+SHA-256-Digest: yDGHlyMbQ2FZQInK87cezTesSp17ZRNwVonddt5LsT8=
+
+Name: res/layout/place_autocomplete_item_prediction.xml
+SHA-256-Digest: hRoXydsrhnd31A8f/+mcW2w4TrpGXXACIMGXuKNbqAQ=
+
+Name: res/layout/place_autocomplete_progress.xml
+SHA-256-Digest: hyn1y4AQud869ex3fs41QDECYwiU1osPUOxwWI1+plk=
+
+Name: res/layout/progress_dialog_layout.xml
+SHA-256-Digest: CFOCZRttBMntOkcSM+fVDZmdYqxuLzlnp+URGwOFdpU=
+
+Name: res/layout/schedule_header_list_item.xml
+SHA-256-Digest: /cEqQ8YlH6Q0LHopy6aAFt1OCpkBDJd2C741GtVrbuc=
+
+Name: res/layout/schedule_list_item2.xml
+SHA-256-Digest: cFC3JkV3+11vqexkLe0AqO68rQwzSnxXBMyVWdhkO3w=
+
+Name: res/layout/screen_aceptation_service_description.xml
+SHA-256-Digest: QqkzwP6ohRKPIeB/0WJ3irMkqW4zULu7msVPat0EqwE=
+
+Name: res/layout/screen_aceptation_sos_service_activation_complete.xml
+SHA-256-Digest: PAV/oxeUcRZgemZEuyBgrLGrUM+WiSi5u3yimaoOVsM=
+
+Name: res/layout/screen_activation_light_foreign_service.xml
+SHA-256-Digest: pV3XuQUhr6XR9/rqzwmsJuwvAbgtvwV9a2Em5C4NybM=
+
+Name: res/layout/screen_activation_light_service.xml
+SHA-256-Digest: +Uks9zDT/N1GThgo0+ZH52RK5ZL072Sfgj39w1SPGdY=
+
+Name: res/layout/screen_activation_plus_service.xml
+SHA-256-Digest: 3houa8JiBFTXLhoOFYPACCq6BX/Zi3L9MUxFVXTcjcw=
+
+Name: res/layout/screen_activation_service_completed.xml
+SHA-256-Digest: /84fquswRTsqQtD7/OopGvBDeZ0xXFDhlccKLJQxVps=
+
+Name: res/layout/screen_activation_service_contact.xml
+SHA-256-Digest: 3tRJ1qfLcdFlaoFANE/s2PPPDj5I5qakvy3QS2ecx3A=
+
+Name: res/layout/screen_activation_service_description.xml
+SHA-256-Digest: HjVdIERnz3ERwd4a99vf6YMsyEt6pGw4z8WdonQCGZk=
+
+Name: res/layout/screen_activation_service_number_prefix_item.xml
+SHA-256-Digest: Heo+teP04zK2QaSseQx8na1OYveM/KBbobMNrPPR1Ak=
+
+Name: res/layout/screen_activation_sos_service_activation_complete.xml
+SHA-256-Digest: VzYtjzkSYwKb2oJt2IhPnn5U4NbdRD2AsZ2s2rcFmno=
+
+Name: res/layout/screen_activation_trial_service.xml
+SHA-256-Digest: FamdAI7qcJ9xRK3/fB4DlZWslfB7A1mEWZhenWX6OxY=
+
+Name: res/layout/screen_alert_dialog.xml
+SHA-256-Digest: TaDRi04VG6+ksH57cmuU+Xcycdfa/YFHtcJ3MHwohhU=
+
+Name: res/layout/screen_background_location_permission.xml
+SHA-256-Digest: g1QgpRz7L2qCYHXw1P2Z6UqFldhSHu/+Etrog1+/6xw=
+
+Name: res/layout/screen_base_vehicle_data.xml
+SHA-256-Digest: 1058t4nrfVAfhImj60MsNm6xfmzwcPVZZLKX8ljRRWs=
+
+Name: res/layout/screen_calibration.xml
+SHA-256-Digest: FSODX4L14nzNtWJ5AQ6Vrs0otY6Ayc7YuXMwDlbucbg=
+
+Name: res/layout/screen_care_site.xml
+SHA-256-Digest: 4Nm18TJakdQf7fZINa+tfDS385+wQp4h/i1UDiQd7Hc=
+
+Name: res/layout/screen_care_validator.xml
+SHA-256-Digest: aXZx0SrMkV+9ys6Qw2BnVpO6vK8qk87HmY5OFN7GxkE=
+
+Name: res/layout/screen_company_info.xml
+SHA-256-Digest: lhzBPbgcfEfKjeOb4Q1e/ZPXSetMWCaSCVpWq0kEn2c=
+
+Name: res/layout/screen_diagnosis.xml
+SHA-256-Digest: bJhmJFKUlOVW/dcp0nUXyE4xtWK84nt7tCp8Oh4KD6A=
+
+Name: res/layout/screen_diagnosis_data.xml
+SHA-256-Digest: cwVhJV4Ji0QcRBlM8B1As5py6ONNoR0eFB7m0Dy/jPg=
+
+Name: res/layout/screen_dialog_country.xml
+SHA-256-Digest: 5dedvedQy3VQEw/+pJjYN5KbXffgxIRKYEJkrEwxRu4=
+
+Name: res/layout/screen_dialog_country_item.xml
+SHA-256-Digest: UNR79N+I90ERorTzK/BxCN73v2xDKm7wuGMBNLWn50g=
+
+Name: res/layout/screen_dialog_factory_reset.xml
+SHA-256-Digest: ymAZKUIL0WwfcKrlNd9nOoz6LdS9kA617r6sS7TGVTw=
+
+Name: res/layout/screen_dialog_fw_update.xml
+SHA-256-Digest: Jl4alErpP6yMMTusA8UXVU71LPmpcmLRFdWYqHJg/r8=
+
+Name: res/layout/screen_dialog_new_configuration_request.xml
+SHA-256-Digest: eQFQyKwkHtM9lv2YAgPWeEOrG9bLCQXnB095HcKdjcU=
+
+Name: res/layout/screen_dialog_vehicle.xml
+SHA-256-Digest: f3bQ3nzkxkEQZ6o8JKLmvjm7aV1Fh4Six0TQuEHJ2nw=
+
+Name: res/layout/screen_dialog_vehicle_header.xml
+SHA-256-Digest: vfX1a67OXdNQu0Q1Og2pIABt4P4Rq1ATlbcbgaIy32c=
+
+Name: res/layout/screen_dialog_vehicle_item.xml
+SHA-256-Digest: Ene+AsrjiESANG8jHNpmbDZDQQIasb/3LV0weOlunpM=
+
+Name: res/layout/screen_dongle_discovery.xml
+SHA-256-Digest: ES48TBMHNXfXkMTqF0kGanzM7CbT8czGJA/naonh7Jg=
+
+Name: res/layout/screen_draw_overlay_permission.xml
+SHA-256-Digest: TWECL7LOExo92Zb6H2XL8DDeHxEXWTxdRszSEuussX4=
+
+Name: res/layout/screen_eco_driving.xml
+SHA-256-Digest: 6tqLZ8Ik1xmnnlme/fxJhLRTfI6ZBdb9VUX+Ro5qyS4=
+
+Name: res/layout/screen_eco_driving_day.xml
+SHA-256-Digest: vrQFhcHf7BRKw15Z133wqfdlBWXvvi3iLUGQNsuzZLI=
+
+Name: res/layout/screen_eco_driving_dialog_hide_trip.xml
+SHA-256-Digest: NMU/Qc83QIb5O49KOc6WmpGM8ImH8GkFp0r+ICuXbck=
+
+Name: res/layout/screen_eco_driving_header.xml
+SHA-256-Digest: D1/St/Dl5xd7c6e0AZ2RhATN6n89hS0rI7lTh07//lY=
+
+Name: res/layout/screen_eco_driving_header_small.xml
+SHA-256-Digest: FumbyUvXemj9BoguiVgM5aKYwl+dsoECwew4kiYc3s0=
+
+Name: res/layout/screen_eco_driving_hint.xml
+SHA-256-Digest: a+FZ9edSXvPFRYk5BR/taSvS0m8IBAjzHGlb6/n7dX4=
+
+Name: res/layout/screen_eco_driving_trip_detail.xml
+SHA-256-Digest: Mkbtq1DqOTbPeCwzY5eTCnaHCUT1C0xHPqnHS/OsDzM=
+
+Name: res/layout/screen_eco_driving_trip_event_item.xml
+SHA-256-Digest: QqAwGXbpVFkn8wGR5Lm0Z1Beu53HAOQEZETBgkC7uLA=
+
+Name: res/layout/screen_eco_driving_trip_item.xml
+SHA-256-Digest: AUDVyla9RTad+oq/KtsXZ2Sy2rdVtUANtfdx5qr/x2Q=
+
+Name: res/layout/screen_eco_driving_trip_map.xml
+SHA-256-Digest: li89ixad9gpUS2cr6fpdAVJVz3+y5gi5pe0yEDIO/ic=
+
+Name: res/layout/screen_eco_driving_tutorial.xml
+SHA-256-Digest: ukWvovxbStb+kmo37wX2xlT6VLYrxjqEgQUPv9xTQl4=
+
+Name: res/layout/screen_email_address.xml
+SHA-256-Digest: wE3fW34uBKIUcfpdCW8tyXSGFEN0MmhsaKK9Gw9SjQ8=
+
+Name: res/layout/screen_general_settings_preferences.xml
+SHA-256-Digest: l33+MSBSrnOENZ24jWiAQEu4SxVM041uuJdeVqiNqrk=
+
+Name: res/layout/screen_insert_new_threshold.xml
+SHA-256-Digest: gORPghpQpeodMbiJ1iORavCp51z4/YZtOGClmWbFglU=
+
+Name: res/layout/screen_installation_help.xml
+SHA-256-Digest: fm4hIIQbL8lvHehylJqjE6XlFc9Gotsy+hgMPQHjuvI=
+
+Name: res/layout/screen_no_sos_service.xml
+SHA-256-Digest: pbuvU0faR8eZPm9TBQm6cOGdT7yoscXnKIMRrujqqLA=
+
+Name: res/layout/screen_number_validator.xml
+SHA-256-Digest: YjSWyeIcx4LpIiUioHf0tJAK2rQ5YKfwxiuynx/u9wI=
+
+Name: res/layout/screen_number_validator_final_step.xml
+SHA-256-Digest: SKyu64cNypRJycSccn3y/pjoo6NkAtBXCVYM47Rbh9Q=
+
+Name: res/layout/screen_ocr_acquire_image.xml
+SHA-256-Digest: 5aKqpr6NpYqrf70MyCY0XbJh8FM9iwwtXlSsqwNmyAQ=
+
+Name: res/layout/screen_password_creation.xml
+SHA-256-Digest: c/yx9EbKQWvjKSSkrHW0/qdr6lBYGlKHhe6CDzGTAfs=
+
+Name: res/layout/screen_permission.xml
+SHA-256-Digest: ZG8ppw70O1C3few0RkQWIw91k2BtVsUVr9Mzg4tQJHE=
+
+Name: res/layout/screen_personal_data.xml
+SHA-256-Digest: wHWJtZRGIYtaIQhIaYp+PW8xfp/p4q+4PQzHx1bKFj8=
+
+Name: res/layout/screen_problem_resolution.xml
+SHA-256-Digest: t9wAVSh5jbt7ZFF0AgSN4SHbWp8Ig1oK0R4nC53zrfg=
+
+Name: res/layout/screen_recover_password.xml
+SHA-256-Digest: OcZbQyqjxFvvVKS4HJJxuzc9PPiLlnC4QvhT9aUPaNU=
+
+Name: res/layout/screen_reset_expire_schedule.xml
+SHA-256-Digest: X/wwuh2VBwaEQ82d/+ZIqbqErJXmHWl5Jx5IPXie5Ew=
+
+Name: res/layout/screen_schedule_grid.xml
+SHA-256-Digest: q7n2IFKdp5HW+J9zEvQ1nHyJ61naziD6hPHjOe7BFyg=
+
+Name: res/layout/screen_select_new_schedule.xml
+SHA-256-Digest: dw05fZOrJdyjJd0glkxhhtLlzt6u6yI7WPJcceuYxho=
+
+Name: res/layout/screen_seller_map.xml
+SHA-256-Digest: bnhUGnLNvC9WwSUQAALhyg5g8YjVV4mL1/kOkfLAx8k=
+
+Name: res/layout/screen_services_subscription_manager.xml
+SHA-256-Digest: u8gIfQLbCB8U5/g0sLtVAtBaiiMJnnMrPziGpaw6hh8=
+
+Name: res/layout/screen_set_default_data_threshold.xml
+SHA-256-Digest: LwJ2noNKl4qZZDwiRdTO+e0zB0FEo6hUkz/Jhkg9w5w=
+
+Name: res/layout/screen_set_default_odometer_threshold.xml
+SHA-256-Digest: 6msLb5cmDH6ilP3JKBRdc3xRVLu/an9v+dLnLLryVmw=
+
+Name: res/layout/screen_set_insurance_company.xml
+SHA-256-Digest: xoW8BPHaL8yP+xIIb8Pgh2eRS+jCw9USC6/9no7H0/Q=
+
+Name: res/layout/screen_set_insurance_data_threshold.xml
+SHA-256-Digest: R9gljjJQeMZgFyYNF2Y++2FXkSQp0VumX3paU0ZE+jc=
+
+Name: res/layout/screen_set_tyres_odometer_threshold.xml
+SHA-256-Digest: VciyTWkWULJ+v31zbFzXb4S3bScbCiUj3I7V/BjyEkQ=
+
+Name: res/layout/screen_settings_layout.xml
+SHA-256-Digest: BA5PorRkJeg7aCQ+cbItJ6aWcSfycUc5+TkndNmaDGk=
+
+Name: res/layout/screen_settings_services.xml
+SHA-256-Digest: rsi0Llg7I4z9I3vjFy+V+w3wpChDcXx1cxoQpBToagQ=
+
+Name: res/layout/screen_settings_user.xml
+SHA-256-Digest: 4uXlLfzbRsvFL7M6LzT6lPwSBkcuXScZKKVn6v9sAc8=
+
+Name: res/layout/screen_settings_user_address.xml
+SHA-256-Digest: BRfAQolu2ZoqXDF2u/UBOnfsLK7IchScLexb7gV+69Q=
+
+Name: res/layout/screen_signin_layout.xml
+SHA-256-Digest: tyNLZF1uJjlNwCsBpcD8Meu3N3HPzwFNOCtAvcbPZ4c=
+
+Name: res/layout/screen_sos_prerequisite.xml
+SHA-256-Digest: +DxcL7G6MvCVvdgbIw8vrat8qq/40nmdJTNpcIUS8PM=
+
+Name: res/layout/screen_start_engine.xml
+SHA-256-Digest: uNuY+XmG1Psw8EaTbe/grm1AASqD+pi8uQCVPSNPof0=
+
+Name: res/layout/screen_term_of_conditions_services.xml
+SHA-256-Digest: m49FtSP2PxemLY1UEg8qaSUbNTmNaTuJvsZQFWuwvWA=
+
+Name: res/layout/screen_tyres_inversion.xml
+SHA-256-Digest: aXGUh6h4kiiYzIB9Z3ai93yquZ3V17wsa4XR0on9Bhk=
+
+Name: res/layout/screen_tyres_new_install.xml
+SHA-256-Digest: GFpMUEJZXI4mXWHO3V02XvnHFjcK2hE5YK0rYe2fP3M=
+
+Name: res/layout/screen_tyres_options.xml
+SHA-256-Digest: ry7XDWmmWdl75qem6MgW3IPcx/uiJ2uDQea0kvNtLA4=
+
+Name: res/layout/screen_vehicle_settings.xml
+SHA-256-Digest: TuyNT1M4+fbLEnFUm97IAWhjp2LXg9d7yPhA9eYIgMo=
+
+Name: res/layout/screen_walkthrough.xml
+SHA-256-Digest: ZIWBrLnPyu8KdeCtS3srl7uWqvWT2YetV4Uc5cWzxKA=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA-256-Digest: 8iAYsztl0y449VuG1qvH9RA4BoyHTqXdxiYQMB1WO8Y=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA-256-Digest: IfcL0ITCO1f/XbGB19+MX1g7SCHHGgyCJfPxfYQ5dsE=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA-256-Digest: +e1gzz+NvmUfzsW26JL8zL5Lb4ACl32AHGc+5QJyMxk=
+
+Name: res/layout/settings_care_screen.xml
+SHA-256-Digest: gS+/MVZTagnz9xMScXPQwf92Ypd0xh/hIBDnPHmWSlo=
+
+Name: res/layout/settings_header_item.xml
+SHA-256-Digest: V8h/GeTz/JE+B51aznmlxyRSxutostpHYn8Z5Sfuskc=
+
+Name: res/layout/settings_list_item.xml
+SHA-256-Digest: O2lV5OdBcwxSYu4b7kdJIv2As56ULcJyz5+uI/Pz1Es=
+
+Name: res/layout/settings_my_vehicles_list.xml
+SHA-256-Digest: NiSyyZ46dsP9E1MjzF82wGiBwT7Rl4LaQsTxdXYx86Q=
+
+Name: res/layout/settings_services_list_item.xml
+SHA-256-Digest: wYU8q3vQOuwGrHp+LG0fXk+qr83qkgXBkl034yho9Tg=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA-256-Digest: 6opGtlh2blhj6gPe3A3qhZZctHzZmoV7qIU+SK3hiS0=
+
+Name: res/layout/threshold_type_spinner_item.xml
+SHA-256-Digest: ZlmO25pBkOT7/whqq2TnPowSRCFxQTGka1xbbXElOAY=
+
+Name: res/layout/toolbar.xml
+SHA-256-Digest: rWDoC2wd99LCmkssf9TAfaymjNq7TiMCYFsMUblIqcY=
+
+Name: res/layout/vehicle_settings_my_car_list_item.xml
+SHA-256-Digest: 6nAZ+coHTJq35Zj0cJ4V+p2CN+6SeCk6L2X27NU2TCM=
+
+Name: res/layout/welcome_page_layout.xml
+SHA-256-Digest: mDcBYgfSXo+wZcFJ7qPyRVeqqP2Ev5fzuq/H44/wr7s=
+
+Name: res/menu/menu_contacts_confirm.xml
+SHA-256-Digest: LHtLYjcp6FGSR2XtyRDVJKwxDHU7Hqpe8DdLDZVwZgY=
+
+Name: res/menu/menu_eco_driving.xml
+SHA-256-Digest: Uzc5pLECwlzSyVE9IFH0JmZl1GKv5UQQOwqA0t1oNjc=
+
+Name: res/menu/menu_eco_driving_detail.xml
+SHA-256-Digest: YdhdpT8c+Ct4VK9EwkSA5Hq9P/48+7Gq7S/YSC6bbTY=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: oMVml9Tgsej03YachR8hhmhMRgp+JPmGBEqYGYs/Bf8=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA-256-Digest: znLOb4k1jc/X3meMKbFwAo0S/gQeT8Sm864aBul0w1g=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: 2EO/f/Eq7K+sQwPV/EHg+/ss7sOOZb2Zyx1fqk4cm9k=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA-256-Digest: /KbxoWNyuyh8c3eHAsWUoUsKQrHYu1vnMYXD6vjC3Gs=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: qhXh7MsEXo0UTrozosnAA0GvW83NfHy90albQQ7gbj0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA-256-Digest: ymmenXVZJwW/pAA3Cd+7cvELnMfKdK921nsjhzcYQR4=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: duB2Z9q7dg9d/SLAUFgtcTvUSpU2u5FsKrEy/9m8AfM=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA-256-Digest: seSYhFmmxyB3xaZHNaGGfbwZX92XjuBvwJlN+pkPL3Y=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: tFF4cGW2aMOzrPEF8sHmMsccFaooSiCNInWXvVyB+jY=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA-256-Digest: uKJNQSYzbxn7KK7qoZ2cuo7MpmaWiEI7c3eiXtK6H9M=
+
+Name: res/raw/alert_sos.wav
+SHA-256-Digest: XaqZNT3VYEzx7t/APRAx4pr9wH9D+crjjmve8x8i5Nk=
+
+Name: res/raw/amu_ballon_gx_prefix.kml
+SHA-256-Digest: 5e8kDArEyT8oTFA9dYgofaCc0fc7qUUKq3MHC/e+NM0=
+
+Name: res/raw/amu_basic_folder.kml
+SHA-256-Digest: LRMWosMmPbvBYXFcNDINg3yd2m0fAu/HWkqbYg1SpKQ=
+
+Name: res/raw/amu_basic_placemark.kml
+SHA-256-Digest: sSOCbbgDh+ZEEcx7c9+Qu7B8X/ozZ3QGf6+9BTVEfac=
+
+Name: res/raw/amu_cdata.kml
+SHA-256-Digest: Ky45EQCR8optba6lNo57rrbtgTRsx3u0sfOH+/lW1+g=
+
+Name: res/raw/amu_default_balloon.kml
+SHA-256-Digest: L3oBVY1JeQEP2rINW3V6pHr5ZuHs0njD6isQqJDcG68=
+
+Name: res/raw/amu_document_nest.kml
+SHA-256-Digest: dkqToMu9xYL53QMFhAMOsD6ttBapZoCjXxAhTiVK6aw=
+
+Name: res/raw/amu_draw_order_ground_overlay.kml
+SHA-256-Digest: 7ZIU5H25aWKVJZ3MwnvNJ6Pww1nBLfIe+SAkj46bNIs=
+
+Name: res/raw/amu_extended_data.kml
+SHA-256-Digest: rp/gR1IdcLq0XLQ40QVlbfLtsLUQMuhz3uUbHmqY/Fo=
+
+Name: res/raw/amu_ground_overlay.kml
+SHA-256-Digest: ihghdi8JKtW4sLoc9Tnwuft3CCJXF2zAaHx36Y9sugc=
+
+Name: res/raw/amu_ground_overlay_color.kml
+SHA-256-Digest: CwrMQEa2cY22im1kmRNyE2OwvVOS49bJahjbFE1fpiM=
+
+Name: res/raw/amu_inline_style.kml
+SHA-256-Digest: MlpdCzAEs7y3ZTanXE3iTTgRKertZvyoGctRmgOuGq0=
+
+Name: res/raw/amu_multigeometry_placemarks.kml
+SHA-256-Digest: o0g+EeoYSDgcI//Y8nFblYBY/3b1sMP9ZQaj5lfDrNE=
+
+Name: res/raw/amu_multiple_placemarks.kml
+SHA-256-Digest: Iuukl9xYiSuBHNVaI8L0vSwsE3cnVKOf0oU72sPMTZA=
+
+Name: res/raw/amu_nested_folders.kml
+SHA-256-Digest: OZsDzzrn7lEk6K+w02awx38Ms4Hm64tn3P1IID6oxAk=
+
+Name: res/raw/amu_nested_multigeometry.kml
+SHA-256-Digest: Hcd75fq8ZPC7/zpDDQLaR9T2gWM3yfbzfWc5XaytjRg=
+
+Name: res/raw/amu_poly_style_boolean_alpha.kml
+SHA-256-Digest: 2K4g1AXbiZeZtwYToc1RlRGQ9ExXMWXoMmp1OWhTOow=
+
+Name: res/raw/amu_poly_style_boolean_numeric.kml
+SHA-256-Digest: XqG/xt9Ib3mguid4TSdJGWe7l6JKu2YE3yhFNbBEN98=
+
+Name: res/raw/amu_unknwown_folder.kml
+SHA-256-Digest: WS6IezbwjzDALtHKC8DaaWZrR2BTyUrFcROb6vCNQbc=
+
+Name: res/raw/amu_unsupported.kml
+SHA-256-Digest: pmVKlO5c83btqOLKUMK7hzIYyAjPZ1qHhkyiYf/I6vk=
+
+Name: res/raw/amu_visibility_ground_overlay.kml
+SHA-256-Digest: RfxT6eUGyTJvfmKB+2dqVgqQ23MblwtYvuBdv+YeHfo=
+
+Name: res/raw/beep4.wav
+SHA-256-Digest: J8vcjYxTwiwC/jYKZpAyz8O2v7g/b1M5nnYhcA1aU58=
+
+Name: res/raw/car_split.svg
+SHA-256-Digest: uI+5+Tz40QcpOYAtcHyegc+/uLqizgUQkJeI+0BY8c0=
+
+Name: res/raw/care_video.mp4
+SHA-256-Digest: bueydukwUvChFalaCT9ge42GEv5Ywx3cpdu5GX92L8o=
+
+Name: res/raw/driving_start_ita.mp3
+SHA-256-Digest: CicUqERfNep8eTE5GEXZy5MKSL6VIj82rqoqO7cA6o0=
+
+Name: res/raw/fasten_seat_belts.wav
+SHA-256-Digest: pz1fxA99Iae5eHIrqBXaeZfktqEQUISaHFQVf1NcJUo=
+
+Name: res/raw/keep.xml
+SHA-256-Digest: izx9CNh3eus+Evu8cUyC5zJtH9oiFnaqWr1YOScQE40=
+
+Name: res/xml/authenticator.xml
+SHA-256-Digest: SSNaWTxJrha+z9c0SUUEVg3nvdt0sMx6V1wsUooKgZM=
+
+Name: res/xml/provider_paths.xml
+SHA-256-Digest: ZpkCAjQfq5WAkBWmmGBArN9NykhsistDrvcjfnEUiYI=
+
+Name: res/xml/splits0.xml
+SHA-256-Digest: e5Lezw95139jslqrH1u33S8GSWhk8utADIzPnYD2Lnw=
+
+Name: resources.arsc
+SHA-256-Digest: EF+ZejnaBox5/LPTTA7leR5MieDPdl2MLn0Ur6yqARQ=
+
+Name: secondaryLoading.SCL.lombok/org/mapstruct/ap/spi/AstModifyingAnn
+ otationProcessor.SCL.lombok
+SHA-256-Digest: TQPEJox7n70+lypjp5Pvi4HTsQOTnoTa2eOdCL/lbu8=
+
+Name: stamp-cert-sha256
+SHA-256-Digest: L0p4Bm/NGffFWX26fUKi8jlq3aKsfwyEBtSavY6F0c0=
+
+Name: transport-api.properties
+SHA-256-Digest: rg9AddD1sd6fAR+GAu81u8Hzm/wJMfHnm9vKhV/4Fn4=
+
+Name: transport-backend-cct.properties
+SHA-256-Digest: H7k9rx9709XSSaDj499FTcUxwQgQh+K66cZHzDRa7FM=
+
+Name: transport-runtime.properties
+SHA-256-Digest: kP7lPI5m1CrZXhLuWI5WjZ4c7DzXyM79G4jDfeEjM6c=
+

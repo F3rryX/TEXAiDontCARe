@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:tag="layout/permission_location_step_0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:background="@drawable/permission_step_box_drawable"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+        <TextView
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:id="@+id/tvStepDescription"
+            android:tag="binding_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/font_bold"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+        <ImageView
+            android:id="@+id/imStepDescription"
+            android:tag="binding_2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/tvStepDescription"
+            app:layout_constraintStart_toStartOf="@+id/tvStepDescription"
+            app:layout_constraintTop_toBottomOf="@+id/tvStepDescription"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_gravity="start|top"
+        android:tag="binding_3"
+        android:background="@drawable/permission_step_index_drawable"
+        android:layout_width="30dp"
+        android:layout_height="30dp"/>
+</RelativeLayout>

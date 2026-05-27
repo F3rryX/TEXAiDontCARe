@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarThemeOverlay" android:id="@id/toolbar_actionbar" android:background="@color/primary" android:layout_width="match_parent" android:layout_height="?actionBarSize" app:subtitleTextAppearance="@style/ActionBar.SubtitleText" app:titleTextAppearance="@style/ActionBar.TitleText" style="@style/HeaderBar">
+        <RelativeLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="match_parent">
+            <ImageView android:id="@id/drawer_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dp" android:src="@null" android:contentDescription="@string/app_name" android:layout_marginEnd="10.0dp" />
+            <com.texa.careapp.views.DrawerAlertImageView android:id="@id/drawer_alert_icon" android:visibility="gone" android:layout_width="17.0dp" android:layout_height="17.0dp" android:layout_marginTop="-5.0dp" android:layout_marginRight="-5.0dp" android:layout_alignTop="@id/drawer_icon" android:layout_alignRight="@id/drawer_icon" android:layout_marginEnd="-5.0dp" android:layout_alignEnd="@id/drawer_icon" />
+        </RelativeLayout>
+        <ImageView android:layout_gravity="start|center" android:id="@id/back_button_toolbar_actionbar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/toolbar_logo_height" android:src="@null" android:contentDescription="@string/app_name" />
+        <ImageView android:layout_gravity="center" android:id="@id/logo_toolbar_actionbar" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginTop="18.0dp" android:layout_marginBottom="18.0dp" android:src="@drawable/care_logo_white" android:adjustViewBounds="true" android:contentDescription="@string/app_name" />
+    </androidx.appcompat.widget.Toolbar>
+</merge>

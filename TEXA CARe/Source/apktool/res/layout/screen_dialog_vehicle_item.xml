@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:tag="layout/screen_dialog_vehicle_item_0" android:background="#f7f7f7" android:paddingLeft="@dimen/margin_default" android:paddingTop="10.0dp" android:paddingRight="@dimen/margin_default" android:paddingBottom="10.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="1.0dp" android:minHeight="70.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/screen_dialog_vehicle_item_model" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/CARe.Dialog.OnBoarding.Item.Title" />
+    <TextView android:id="@id/screen_dialog_vehicle_item_plate" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/CARe.Dialog.OnBoarding.Item.Description" />
+</LinearLayout>

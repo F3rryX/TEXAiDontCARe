@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:tag="layout/activity_eco_driving_hint_0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/activity_eco_driving_hint_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <ImageView
+        android:id="@+id/activity_eco_driving_hint_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_default"
+        android:src="0x7f080100"
+        android:layout_alignParentRight="true"
+        android:contentDescription="@string/app_name"
+        android:layout_alignParentEnd="true"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/activity_walkthrough_bottom_lay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:id="@+id/activity_eco_driving_hint_btn_next"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_default"
+            android:layout_marginTop="25dp"
+            android:layout_marginRight="@dimen/margin_default"
+            android:text="@string/eco_driving_hint_btn_next"
+            style="@style/EcoDriving.Hint.Button"/>
+        <com.texa.careapp.views.CirclePageIndicator
+            android:layout_gravity="center"
+            android:id="@+id/activity_eco_driving_hint_indicator"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_margin="@dimen/margin_default"
+            app:circle_background="#2d3844"
+            app:circle_gravity="center"
+            app:circle_margin="3dp"
+            app:circle_mode="outside"
+            app:circle_radius="3dp"
+            app:circle_selected_background="@android:color/white"/>
+    </LinearLayout>
+</RelativeLayout>
