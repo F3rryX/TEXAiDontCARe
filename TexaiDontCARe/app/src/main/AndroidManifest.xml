@@ -21,7 +21,7 @@
     <uses-feature android:name="android.hardware.bluetooth_le" android:required="true"/>
 
     <application
-        android:label="OBD2 Reader"
+        android:label="TEXAiDontCARe"
         android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
         android:allowBackup="true">
 
